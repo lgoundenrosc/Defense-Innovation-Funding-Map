@@ -54,14 +54,17 @@
     'DHS SVIP': 'DHS SVIP',
     'Rapid Innovation Fund (RIF)': 'RIF',
     'Medical CBRN Defense Consortium (MCDC)': 'MCDC',
-    'ARPA-E': 'ARPA-E'
+    'ARPA-E': 'ARPA-E',
+    'National Defense Stockpile': 'National Defense Stockpile',
+    'NextFlex and the Manufacturing USA network': 'NextFlex',
+    'Commerce CHIPS Program Office': 'Commerce CHIPS'
   };
 
   // Maps a token as it literally appears in the section 2 matrix table to the
   // directory entry it names. Tokens with no entry (DARPA BTO, service
-  // SBIR/STTR, direct DoW stakes, Commerce CHIPS) render as unmapped chips
-  // and are called out in the build's closing notes, per the build package's
-  // instruction to report any vehicle that does not place cleanly.
+  // SBIR/STTR, direct DoW stakes) render as unmapped chips and are called
+  // out in the build's closing notes, per the build package's instruction
+  // to report any vehicle that does not place cleanly.
   var CELL_ALIAS = {
     'NSIC': 'National Security Innovation Capital (NSIC)',
     'Space Ventures': 'SpaceWERX / Space Ventures',
@@ -85,7 +88,9 @@
     'DPA Title III awards': 'Defense Production Act Title III',
     'MCDC': 'Medical CBRN Defense Consortium (MCDC)',
     'RIF': 'Rapid Innovation Fund (RIF)',
-    'ARPA-E': 'ARPA-E'
+    'ARPA-E': 'ARPA-E',
+    'National Defense Stockpile': 'National Defense Stockpile',
+    'Commerce CHIPS': 'Commerce CHIPS Program Office'
   };
   var UNMAPPED_SEEN = {};
 
@@ -125,7 +130,10 @@
     "NSF America's Seed Fund": [1, 2, 7],
     'DHS SVIP': [2],
     'Medical CBRN Defense Consortium (MCDC)': [6],
-    'ARPA-E': [3]
+    'ARPA-E': [3],
+    'National Defense Stockpile': [3],
+    'Commerce CHIPS Program Office': [7],
+    'NextFlex and the Manufacturing USA network': [1, 7]
   };
 
   var ROWS = [

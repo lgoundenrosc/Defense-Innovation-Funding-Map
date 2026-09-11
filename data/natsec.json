@@ -68,7 +68,7 @@
                 "confidence": []
               },
               {
-                "html": "DPA Title III awards",
+                "html": "DPA Title III awards, National Defense Stockpile",
                 "confidence": []
               }
             ],
@@ -392,11 +392,11 @@
               "blocks": [
                 {
                   "type": "para",
-                  "raw": "The anchor seed door for hardware. Housed within DIU, authorized in the FY2019 National Defense Authorization Act, NSIC funds dual-use hardware startups that private capital underserves. Awards $500K to $3M over 12 to 18 months, open to companies at TRL 3 or higher, structured as Other Transaction agreements. Founders submit a pitch deck at any time, with no fixed solicitation window. It exists because less than 30% of US venture goes to hardware and less than 10% of that lands at early stages. NSIC money also blocks untrusted foreign capital from the cap table. Hardware only. Software may be part of the product but not the primary work. Director Tex Schenkkan [STALE, confirm current].",
-                  "html": "The anchor seed door for hardware. Housed within DIU, authorized in the FY2019 National Defense Authorization Act, NSIC funds dual-use hardware startups that private capital underserves. Awards $500K to $3M over 12 to 18 months, open to companies at TRL 3 or higher, structured as Other Transaction agreements. Founders submit a pitch deck at any time, with no fixed solicitation window. It exists because less than 30% of US venture goes to hardware and less than 10% of that lands at early stages. NSIC money also blocks untrusted foreign capital from the cap table. Hardware only. Software may be part of the product but not the primary work. Director Tex Schenkkan <span class=\"chip chip-conf conf-stale\" data-conf=\"STALE\">STALE</span><span class=\"conf-extra\">confirm current</span>.",
-                  "text": "The anchor seed door for hardware. Housed within DIU, authorized in the FY2019 National Defense Authorization Act, NSIC funds dual-use hardware startups that private capital underserves. Awards $500K to $3M over 12 to 18 months, open to companies at TRL 3 or higher, structured as Other Transaction agreements. Founders submit a pitch deck at any time, with no fixed solicitation window. It exists because less than 30% of US venture goes to hardware and less than 10% of that lands at early stages. NSIC money also blocks untrusted foreign capital from the cap table. Hardware only. Software may be part of the product but not the primary work. Director Tex Schenkkan STALE.",
+                  "raw": "The anchor seed door for hardware. Housed within DIU, authorized in the FY2019 National Defense Authorization Act, NSIC funds dual-use hardware startups that private capital underserves. Awards $500K to $3M over 12 to 18 months, open to companies at TRL 3 or higher, structured as Other Transaction agreements. Founders submit a pitch deck at any time, with no fixed solicitation window. It exists because less than 30% of US venture goes to hardware and less than 10% of that lands at early stages. NSIC money also blocks untrusted foreign capital from the cap table. Hardware only. Software may be part of the product but not the primary work. Director Tex Schenkkan, and a March 2026 NSIC document still refers to him in the role [UNVERIFIED, confirmed via a secondary source rather than nsic.mil's leadership page directly].",
+                  "html": "The anchor seed door for hardware. Housed within DIU, authorized in the FY2019 National Defense Authorization Act, NSIC funds dual-use hardware startups that private capital underserves. Awards $500K to $3M over 12 to 18 months, open to companies at TRL 3 or higher, structured as Other Transaction agreements. Founders submit a pitch deck at any time, with no fixed solicitation window. It exists because less than 30% of US venture goes to hardware and less than 10% of that lands at early stages. NSIC money also blocks untrusted foreign capital from the cap table. Hardware only. Software may be part of the product but not the primary work. Director Tex Schenkkan, and a March 2026 NSIC document still refers to him in the role <span class=\"chip chip-conf conf-unverified\" data-conf=\"UNVERIFIED\">UNVERIFIED</span><span class=\"conf-extra\">confirmed via a secondary source rather than nsic.mil's leadership page directly</span>.",
+                  "text": "The anchor seed door for hardware. Housed within DIU, authorized in the FY2019 National Defense Authorization Act, NSIC funds dual-use hardware startups that private capital underserves. Awards $500K to $3M over 12 to 18 months, open to companies at TRL 3 or higher, structured as Other Transaction agreements. Founders submit a pitch deck at any time, with no fixed solicitation window. It exists because less than 30% of US venture goes to hardware and less than 10% of that lands at early stages. NSIC money also blocks untrusted foreign capital from the cap table. Hardware only. Software may be part of the product but not the primary work. Director Tex Schenkkan, and a March 2026 NSIC document still refers to him in the role UNVERIFIED.",
                   "confidence": [
-                    "STALE"
+                    "UNVERIFIED"
                   ]
                 }
               ]
@@ -548,6 +548,70 @@
                   "html": "Real industrial-base dollars, run by the Defense Production Act Investments Office under the Assistant Secretary of Defense for Industrial Base Policy. Title III money scales domestic production of critical materials, biomanufactured inputs, and other supply-chain capacity. It reaches companies as awards rather than equity or loans, and it interfaces closely with OSC and DoE on the large deals. The Department's biomanufacturing push runs partly through Title III (see section 4.6).",
                   "text": "Real industrial-base dollars, run by the Defense Production Act Investments Office under the Assistant Secretary of Defense for Industrial Base Policy. Title III money scales domestic production of critical materials, biomanufactured inputs, and other supply-chain capacity. It reaches companies as awards rather than equity or loans, and it interfaces closely with OSC and DoE on the large deals. The Department's biomanufacturing push runs partly through Title III (see section 4.6).",
                   "confidence": []
+                }
+              ]
+            },
+            {
+              "type": "vehicle",
+              "heading": "National Defense Stockpile",
+              "headingHtml": "National Defense Stockpile",
+              "tag": {
+                "body": [
+                  "DOW"
+                ],
+                "instruments": [
+                  "CONTRACT"
+                ],
+                "eligibility": [],
+                "meta": [
+                  "Defense Logistics Agency"
+                ]
+              },
+              "heat": {
+                "heat": "HOT",
+                "openness": "LOW"
+              },
+              "blocks": [
+                {
+                  "type": "para",
+                  "raw": "The government's offtake buyer of last resort for materials the US doesn't produce domestically in sufficient quantity, managed by the Defense Logistics Agency and financed by its own NDS Transaction Fund rather than annual appropriations alone. The FY2026 NDAA allocated a further $2 billion under Section 1412, tied to a list of roughly 50 \"applicable critical minerals.\" It does not write a check to a company; it commits to buy, sometimes at a guaranteed minimum floor price with shared upside, structured as a long-dated offtake agreement (recent structures run to whichever comes later of a delivered-volume threshold or 20 years after a facility starts commercial operation). US Vanadium's three-year vanadium pentoxide supply contract is a recent example. Some of the largest recent deals route through a government-and-private special purpose vehicle (US SIIE, LLC) rather than the Stockpile buying directly [UNVERIFIED, exact division of labor between DLA direct purchases and the SPV structure not confirmed at this revision]. This is a late-stage, production-scale door, not a seed one: a company needs a facility already built or close to it before an offtake agreement means anything.",
+                  "html": "The government's offtake buyer of last resort for materials the US doesn't produce domestically in sufficient quantity, managed by the Defense Logistics Agency and financed by its own NDS Transaction Fund rather than annual appropriations alone. The FY2026 NDAA allocated a further $2 billion under Section 1412, tied to a list of roughly 50 \"applicable critical minerals.\" It does not write a check to a company; it commits to buy, sometimes at a guaranteed minimum floor price with shared upside, structured as a long-dated offtake agreement (recent structures run to whichever comes later of a delivered-volume threshold or 20 years after a facility starts commercial operation). US Vanadium's three-year vanadium pentoxide supply contract is a recent example. Some of the largest recent deals route through a government-and-private special purpose vehicle (US SIIE, LLC) rather than the Stockpile buying directly <span class=\"chip chip-conf conf-unverified\" data-conf=\"UNVERIFIED\">UNVERIFIED</span><span class=\"conf-extra\">exact division of labor between DLA direct purchases and the SPV structure not confirmed at this revision</span>. This is a late-stage, production-scale door, not a seed one: a company needs a facility already built or close to it before an offtake agreement means anything.",
+                  "text": "The government's offtake buyer of last resort for materials the US doesn't produce domestically in sufficient quantity, managed by the Defense Logistics Agency and financed by its own NDS Transaction Fund rather than annual appropriations alone. The FY2026 NDAA allocated a further $2 billion under Section 1412, tied to a list of roughly 50 \"applicable critical minerals.\" It does not write a check to a company; it commits to buy, sometimes at a guaranteed minimum floor price with shared upside, structured as a long-dated offtake agreement (recent structures run to whichever comes later of a delivered-volume threshold or 20 years after a facility starts commercial operation). US Vanadium's three-year vanadium pentoxide supply contract is a recent example. Some of the largest recent deals route through a government-and-private special purpose vehicle (US SIIE, LLC) rather than the Stockpile buying directly UNVERIFIED. This is a late-stage, production-scale door, not a seed one: a company needs a facility already built or close to it before an offtake agreement means anything.",
+                  "confidence": [
+                    "UNVERIFIED"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "vehicle",
+              "heading": "NextFlex and the Manufacturing USA network",
+              "headingHtml": "NextFlex and the Manufacturing USA network",
+              "tag": {
+                "body": [
+                  "DOW"
+                ],
+                "instruments": [
+                  "CONTRACT"
+                ],
+                "eligibility": [],
+                "meta": [
+                  "nonprofit consortia, cost-share"
+                ]
+              },
+              "heat": {
+                "heat": "OPEN",
+                "openness": "LOW"
+              },
+              "blocks": [
+                {
+                  "type": "para",
+                  "raw": "Manufacturing USA is a network of roughly 17 public-private manufacturing institutes; the ones with a live Department of War tie include NextFlex (flexible hybrid electronics, San Jose), MxD (digital manufacturing, Chicago), BioMADE and BioFabUSA (bioindustrial and biofabrication manufacturing), and AFFOA (advanced fibers and textiles). These are cost-share, project-based awards through the institute, not grants or loans directly from DoW. The clearest current DoW tie is NextFlex's Robotic Enhancements for Armaments Manufacturing (REARM) special call, run on NextFlex's behalf to modernize the munitions industrial base [UNVERIFIED, REARM award size not found in this pass despite a direct search; check nextflex.us before citing a figure]. This is a hardware and industrial-base door, closer to a cost-share partnership than free money, and it sits at whatever TRL and company stage the specific call names rather than a single fixed stage.",
+                  "html": "Manufacturing USA is a network of roughly 17 public-private manufacturing institutes; the ones with a live Department of War tie include NextFlex (flexible hybrid electronics, San Jose), MxD (digital manufacturing, Chicago), BioMADE and BioFabUSA (bioindustrial and biofabrication manufacturing), and AFFOA (advanced fibers and textiles). These are cost-share, project-based awards through the institute, not grants or loans directly from DoW. The clearest current DoW tie is NextFlex's Robotic Enhancements for Armaments Manufacturing (REARM) special call, run on NextFlex's behalf to modernize the munitions industrial base <span class=\"chip chip-conf conf-unverified\" data-conf=\"UNVERIFIED\">UNVERIFIED</span><span class=\"conf-extra\">REARM award size not found in this pass despite a direct search; check nextflex.us before citing a figure</span>. This is a hardware and industrial-base door, closer to a cost-share partnership than free money, and it sits at whatever TRL and company stage the specific call names rather than a single fixed stage.",
+                  "text": "Manufacturing USA is a network of roughly 17 public-private manufacturing institutes; the ones with a live Department of War tie include NextFlex (flexible hybrid electronics, San Jose), MxD (digital manufacturing, Chicago), BioMADE and BioFabUSA (bioindustrial and biofabrication manufacturing), and AFFOA (advanced fibers and textiles). These are cost-share, project-based awards through the institute, not grants or loans directly from DoW. The clearest current DoW tie is NextFlex's Robotic Enhancements for Armaments Manufacturing (REARM) special call, run on NextFlex's behalf to modernize the munitions industrial base UNVERIFIED. This is a hardware and industrial-base door, closer to a cost-share partnership than free money, and it sits at whatever TRL and company stage the specific call names rather than a single fixed stage.",
+                  "confidence": [
+                    "UNVERIFIED"
+                  ]
                 }
               ]
             },
@@ -1051,6 +1115,39 @@
                   "html": "The US development finance agency, doing equity and debt for overseas and allied supply chains, and part of the same critical-minerals financing push as EXIM. Relevant where a company's supply chain runs through allied countries. Coordinated with EXIM through the Minerals Security Partnership Finance Network.",
                   "text": "The US development finance agency, doing equity and debt for overseas and allied supply chains, and part of the same critical-minerals financing push as EXIM. Relevant where a company's supply chain runs through allied countries. Coordinated with EXIM through the Minerals Security Partnership Finance Network.",
                   "confidence": []
+                }
+              ]
+            },
+            {
+              "type": "vehicle",
+              "heading": "Commerce CHIPS Program Office",
+              "headingHtml": "Commerce CHIPS Program Office",
+              "tag": {
+                "body": [
+                  "TRADE"
+                ],
+                "instruments": [
+                  "CREDIT",
+                  "EQUITY"
+                ],
+                "eligibility": [],
+                "meta": [
+                  "Washington, D.C."
+                ]
+              },
+              "heat": {
+                "heat": "HOT",
+                "openness": "LOW"
+              },
+              "blocks": [
+                {
+                  "type": "para",
+                  "raw": "The roughly $50 billion CHIPS for America program at the Department of Commerce, funding domestic semiconductor manufacturing capacity, advanced R&D, and supply-chain resilience. It is the vehicle most often named across this map's sector tabs as \"the giant\" in microelectronics, but it is not a seed-stage door. As of an April 2026 amendment, its main BAA runs two paths: an R&D Project Path (cost-shared research awards) and an Investment Fund Path (commercialization-oriented, structured for equity-style returns), both carrying a $10 million minimum award [UNVERIFIED, current minimum and path structure, confirm before citing]. That floor makes it a program for consortia, major research universities, and established companies, not a small applicant. Separately, the CHIPS Act directs Commerce to capitalize an investment fund, run with the National Semiconductor Technology Center, aimed at startups and startup-academia-industry collaborations, though this fund's current size and activity level were not confirmed in this pass. Microelectronics has almost no clean seed lane, and this entry is a large part of why.",
+                  "html": "The roughly $50 billion CHIPS for America program at the Department of Commerce, funding domestic semiconductor manufacturing capacity, advanced R&amp;D, and supply-chain resilience. It is the vehicle most often named across this map's sector tabs as \"the giant\" in microelectronics, but it is not a seed-stage door. As of an April 2026 amendment, its main BAA runs two paths: an R&amp;D Project Path (cost-shared research awards) and an Investment Fund Path (commercialization-oriented, structured for equity-style returns), both carrying a $10 million minimum award <span class=\"chip chip-conf conf-unverified\" data-conf=\"UNVERIFIED\">UNVERIFIED</span><span class=\"conf-extra\">current minimum and path structure, confirm before citing</span>. That floor makes it a program for consortia, major research universities, and established companies, not a small applicant. Separately, the CHIPS Act directs Commerce to capitalize an investment fund, run with the National Semiconductor Technology Center, aimed at startups and startup-academia-industry collaborations, though this fund's current size and activity level were not confirmed in this pass. Microelectronics has almost no clean seed lane, and this entry is a large part of why.",
+                  "text": "The roughly $50 billion CHIPS for America program at the Department of Commerce, funding domestic semiconductor manufacturing capacity, advanced R&D, and supply-chain resilience. It is the vehicle most often named across this map's sector tabs as \"the giant\" in microelectronics, but it is not a seed-stage door. As of an April 2026 amendment, its main BAA runs two paths: an R&D Project Path (cost-shared research awards) and an Investment Fund Path (commercialization-oriented, structured for equity-style returns), both carrying a $10 million minimum award UNVERIFIED. That floor makes it a program for consortia, major research universities, and established companies, not a small applicant. Separately, the CHIPS Act directs Commerce to capitalize an investment fund, run with the National Semiconductor Technology Center, aimed at startups and startup-academia-industry collaborations, though this fund's current size and activity level were not confirmed in this pass. Microelectronics has almost no clean seed lane, and this entry is a large part of why.",
+                  "confidence": [
+                    "UNVERIFIED"
+                  ]
                 }
               ]
             }
@@ -1586,9 +1683,9 @@
             },
             {
               "type": "para",
-              "raw": "The Commerce CHIPS Program Office is the giant here, plus OSC (microelectronics is a covered category), DIU, and the Defense Microelectronics Activity. Two non-defense doors reach in too, both from their own stated scope rather than a defense mandate: EXIM's CTEP names semiconductors as one of its 10 transformational export areas, and NSF America's Seed Fund names semiconductors alongside AI and robotics. This tab is the thinnest-built in the map and should get the same research pass the other six already had.",
-              "html": "The Commerce CHIPS Program Office is the giant here, plus OSC (microelectronics is a covered category), DIU, and the Defense Microelectronics Activity. Two non-defense doors reach in too, both from their own stated scope rather than a defense mandate: EXIM's CTEP names semiconductors as one of its 10 transformational export areas, and NSF America's Seed Fund names semiconductors alongside AI and robotics. This tab is the thinnest-built in the map and should get the same research pass the other six already had.",
-              "text": "The Commerce CHIPS Program Office is the giant here, plus OSC (microelectronics is a covered category), DIU, and the Defense Microelectronics Activity. Two non-defense doors reach in too, both from their own stated scope rather than a defense mandate: EXIM's CTEP names semiconductors as one of its 10 transformational export areas, and NSF America's Seed Fund names semiconductors alongside AI and robotics. This tab is the thinnest-built in the map and should get the same research pass the other six already had.",
+              "raw": "The Commerce CHIPS Program Office is the giant here (now its own entry in 3.4), plus OSC (microelectronics is a covered category), DIU, and the Defense Microelectronics Activity. Two non-defense doors reach in too, both from their own stated scope rather than a defense mandate: EXIM's CTEP names semiconductors as one of its 10 transformational export areas, and NSF America's Seed Fund names semiconductors alongside AI and robotics. NextFlex, the Manufacturing USA flexible-electronics institute, touches this space too, though its clearest current DoW tie (the REARM special call) is aimed at munitions manufacturing rather than microelectronics specifically. The seed lane here is close to nonexistent: CHIPS' own BAA now carries a $10M minimum award, which rules out a seed company applying directly.",
+              "html": "The Commerce CHIPS Program Office is the giant here (now its own entry in 3.4), plus OSC (microelectronics is a covered category), DIU, and the Defense Microelectronics Activity. Two non-defense doors reach in too, both from their own stated scope rather than a defense mandate: EXIM's CTEP names semiconductors as one of its 10 transformational export areas, and NSF America's Seed Fund names semiconductors alongside AI and robotics. NextFlex, the Manufacturing USA flexible-electronics institute, touches this space too, though its clearest current DoW tie (the REARM special call) is aimed at munitions manufacturing rather than microelectronics specifically. The seed lane here is close to nonexistent: CHIPS' own BAA now carries a $10M minimum award, which rules out a seed company applying directly.",
+              "text": "The Commerce CHIPS Program Office is the giant here (now its own entry in 3.4), plus OSC (microelectronics is a covered category), DIU, and the Defense Microelectronics Activity. Two non-defense doors reach in too, both from their own stated scope rather than a defense mandate: EXIM's CTEP names semiconductors as one of its 10 transformational export areas, and NSF America's Seed Fund names semiconductors alongside AI and robotics. NextFlex, the Manufacturing USA flexible-electronics institute, touches this space too, though its clearest current DoW tie (the REARM special call) is aimed at munitions manufacturing rather than microelectronics specifically. The seed lane here is close to nonexistent: CHIPS' own BAA now carries a $10M minimum award, which rules out a seed company applying directly.",
               "confidence": []
             }
           ]
@@ -1787,7 +1884,7 @@
               "confidence": []
             },
             {
-              "html": "NSIC leadership (Tex Schenkkan) is from an older source and may be stale.",
+              "html": "NSIC leadership (Tex Schenkkan): a March 2026 NSIC document still names him, downgraded from STALE to UNVERIFIED this revision. Still worth a direct nsic.mil check before citing to a founder.",
               "confidence": []
             },
             {
@@ -1835,6 +1932,14 @@
               "confidence": [
                 "UNVERIFIED"
               ]
+            },
+            {
+              "html": "Three more vehicles were added on a second pass through Microelectronics and Critical minerals specifically: the National Defense Stockpile (3.1), Commerce CHIPS Program Office (3.4, resolving a token that previously rendered unmapped in the matrix), and NextFlex and the Manufacturing USA network (3.1). NextFlex's REARM award size was searched for directly and not found; that entry says so rather than guessing a figure. Commerce CHIPS' $10 million BAA minimum is the clearest documented reason Microelectronics has almost no seed lane, and should be re-confirmed if the program's structure changes again.",
+              "confidence": []
+            },
+            {
+              "html": "Two of the four originally-unmapped matrix tokens are now resolved (Commerce CHIPS, and MCDC/RIF/ARPA-E filled in cells that were previously generic). DARPA BTO, service SBIR/STTR, and direct DoW stakes remain deliberately unmapped: DARPA BTO is a different DARPA office than the one with a directory entry, service SBIR/STTR is intentionally generic per this map's SBIR/STTR scope decision, and direct DoW stakes describes a practice (section 6) rather than a single named vehicle.",
+              "confidence": []
             },
             {
               "html": "Section 3.7 (State and regional programs) is new to this revision and is explicitly out of scope for the rest of the map's analytical apparatus: neither MassVentures nor the Texas Space Commission feeds the capital map matrix or the sector pathway grid, and no attempt was made to inventory all 50 states. California was checked and found to have no comparable centralized program; that is reported as a finding, not a gap still open.",
@@ -1947,7 +2052,7 @@
                 "confidence": []
               },
               {
-                "html": "STALE",
+                "html": "UNVERIFIED",
                 "confidence": []
               }
             ],
@@ -2324,6 +2429,10 @@
             {
               "html": "MassVentures (mass-ventures.com) and Commonwealth of Massachusetts press releases on the START Grant program; Texas Space Commission (space.texas.gov) releases on the Space Exploration and Aeronautics Research Fund; CalSEED (calseed.fund) on its clean-energy-only scope",
               "confidence": []
+            },
+            {
+              "html": "Commerce.gov and NIST CHIPS for America program pages, and DLA Piper coverage of the April 2026 CHIPS BAA amendment, for the Commerce CHIPS Program Office; Defense Logistics Agency and Hoover Institution coverage of National Defense Stockpile offtake structures, and reporting on the US SIIE, LLC special purpose vehicle; Manufacturing USA network pages and NextFlex (nextflex.us) for the REARM special call",
+              "confidence": []
             }
           ]
         }
@@ -2657,6 +2766,44 @@
       "summary": "Real industrial-base dollars, run by the Defense Production Act Investments Office under the Assistant Secretary of Defense for Industrial Base Policy."
     },
     {
+      "id": "v-national-defense-stockpile",
+      "heading": "National Defense Stockpile",
+      "section": 4,
+      "group": "Department of War",
+      "body": [
+        "DOW"
+      ],
+      "instruments": [
+        "CONTRACT"
+      ],
+      "eligibility": [],
+      "meta": [
+        "Defense Logistics Agency"
+      ],
+      "heat": "HOT",
+      "openness": "LOW",
+      "summary": "The government's offtake buyer of last resort for materials the US doesn't produce domestically in sufficient quantity, managed by the Defense Logistics Agency and financed by its own NDS Transaction Fund rather than annual appropriations a…"
+    },
+    {
+      "id": "v-nextflex-and-the-manufacturing-usa-network",
+      "heading": "NextFlex and the Manufacturing USA network",
+      "section": 4,
+      "group": "Department of War",
+      "body": [
+        "DOW"
+      ],
+      "instruments": [
+        "CONTRACT"
+      ],
+      "eligibility": [],
+      "meta": [
+        "nonprofit consortia, cost-share"
+      ],
+      "heat": "OPEN",
+      "openness": "LOW",
+      "summary": "Manufacturing USA is a network of roughly 17 public-private manufacturing institutes; the ones with a live Department of War tie include NextFlex (flexible hybrid electronics, San Jose), MxD (digital manufacturing, Chicago), BioMADE and Bio…"
+    },
+    {
       "id": "v-darpa-commercial-strategy-office-and-venture-horizons",
       "heading": "DARPA Commercial Strategy Office and Venture Horizons",
       "section": 4,
@@ -2927,6 +3074,26 @@
       "summary": "The US development finance agency, doing equity and debt for overseas and allied supply chains, and part of the same critical-minerals financing push as EXIM."
     },
     {
+      "id": "v-commerce-chips-program-office",
+      "heading": "Commerce CHIPS Program Office",
+      "section": 4,
+      "group": "Trade and development finance",
+      "body": [
+        "TRADE"
+      ],
+      "instruments": [
+        "CREDIT",
+        "EQUITY"
+      ],
+      "eligibility": [],
+      "meta": [
+        "Washington, D.C."
+      ],
+      "heat": "HOT",
+      "openness": "LOW",
+      "summary": "The roughly $50 billion CHIPS for America program at the Department of Commerce, funding domestic semiconductor manufacturing capacity, advanced R&D, and supply-chain resilience."
+    },
+    {
       "id": "v-nato-diana",
       "heading": "NATO DIANA",
       "section": 4,
@@ -3095,14 +3262,13 @@
   "meta": {
     "sections": 11,
     "tables": 3,
-    "vehicles": 29,
+    "vehicles": 32,
     "sectorSubsections": 7,
-    "words": 8850,
+    "words": 9691,
     "confidence": {
       "PENDING LEGISLATION": 2,
-      "STALE": 1,
-      "CUMULATIVE — REFRESH": 5,
-      "UNVERIFIED": 22
+      "UNVERIFIED": 26,
+      "CUMULATIVE — REFRESH": 5
     },
     "generated": "September 2026"
   }

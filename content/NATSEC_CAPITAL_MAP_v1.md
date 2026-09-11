@@ -32,7 +32,7 @@ Six instrument types down the side. Three company stages across the top. Each ve
 | Instrument type | Pre-seed / seed | Series A / B | Growth / scale |
 | --- | --- | --- | --- |
 | Non-dilutive capital | NSIC, Space Ventures, NSF Seed Fund, NASA SBIR, DHS SVIP, NATO DIANA, AUKUS Pillar II, ARPA-E | NSIC | (gap) |
-| First contract / OTA | DIU CSO, DARPA BTO, service SBIR/STTR, MCDC | DIU CSO, Replicator/PRIME, RIF | DPA Title III awards |
+| First contract / OTA | DIU CSO, DARPA BTO, service SBIR/STTR, MCDC | DIU CSO, Replicator/PRIME, RIF | DPA Title III awards, National Defense Stockpile |
 | Matching capital | AFVentures TACFI | AFVentures STRATFI | (gap) |
 | Strategic equity | In-Q-Tel | In-Q-Tel | OSC equity [PENDING LEGISLATION], direct DoW stakes |
 | Fund-level | (gap) | SBIC-CT | SBIC-CT |
@@ -105,7 +105,7 @@ A joint Department of War and Small Business Administration program that license
 
 **HEAT: HOT   OPENNESS: HIGH**
 
-The anchor seed door for hardware. Housed within DIU, authorized in the FY2019 National Defense Authorization Act, NSIC funds dual-use hardware startups that private capital underserves. Awards $500K to $3M over 12 to 18 months, open to companies at TRL 3 or higher, structured as Other Transaction agreements. Founders submit a pitch deck at any time, with no fixed solicitation window. It exists because less than 30% of US venture goes to hardware and less than 10% of that lands at early stages. NSIC money also blocks untrusted foreign capital from the cap table. Hardware only. Software may be part of the product but not the primary work. Director Tex Schenkkan [STALE, confirm current].
+The anchor seed door for hardware. Housed within DIU, authorized in the FY2019 National Defense Authorization Act, NSIC funds dual-use hardware startups that private capital underserves. Awards $500K to $3M over 12 to 18 months, open to companies at TRL 3 or higher, structured as Other Transaction agreements. Founders submit a pitch deck at any time, with no fixed solicitation window. It exists because less than 30% of US venture goes to hardware and less than 10% of that lands at early stages. NSIC money also blocks untrusted foreign capital from the cap table. Hardware only. Software may be part of the product but not the primary work. Director Tex Schenkkan, and a March 2026 NSIC document still refers to him in the role [UNVERIFIED, confirmed via a secondary source rather than nsic.mil's leadership page directly].
 
 #### Defense Innovation Unit (DIU)
 
@@ -145,6 +145,22 @@ The Space Force branch of AFWERX. Space Ventures puts the Space Force in an earl
 **HEAT: HOT   OPENNESS: MED**
 
 Real industrial-base dollars, run by the Defense Production Act Investments Office under the Assistant Secretary of Defense for Industrial Base Policy. Title III money scales domestic production of critical materials, biomanufactured inputs, and other supply-chain capacity. It reaches companies as awards rather than equity or loans, and it interfaces closely with OSC and DoE on the large deals. The Department's biomanufacturing push runs partly through Title III (see section 4.6).
+
+#### National Defense Stockpile
+
+`DOW`   ·   `CONTRACT`   ·   Defense Logistics Agency
+
+**HEAT: HOT   OPENNESS: LOW**
+
+The government's offtake buyer of last resort for materials the US doesn't produce domestically in sufficient quantity, managed by the Defense Logistics Agency and financed by its own NDS Transaction Fund rather than annual appropriations alone. The FY2026 NDAA allocated a further $2 billion under Section 1412, tied to a list of roughly 50 "applicable critical minerals." It does not write a check to a company; it commits to buy, sometimes at a guaranteed minimum floor price with shared upside, structured as a long-dated offtake agreement (recent structures run to whichever comes later of a delivered-volume threshold or 20 years after a facility starts commercial operation). US Vanadium's three-year vanadium pentoxide supply contract is a recent example. Some of the largest recent deals route through a government-and-private special purpose vehicle (US SIIE, LLC) rather than the Stockpile buying directly [UNVERIFIED, exact division of labor between DLA direct purchases and the SPV structure not confirmed at this revision]. This is a late-stage, production-scale door, not a seed one: a company needs a facility already built or close to it before an offtake agreement means anything.
+
+#### NextFlex and the Manufacturing USA network
+
+`DOW`   ·   `CONTRACT`   ·   nonprofit consortia, cost-share
+
+**HEAT: OPEN   OPENNESS: LOW**
+
+Manufacturing USA is a network of roughly 17 public-private manufacturing institutes; the ones with a live Department of War tie include NextFlex (flexible hybrid electronics, San Jose), MxD (digital manufacturing, Chicago), BioMADE and BioFabUSA (bioindustrial and biofabrication manufacturing), and AFFOA (advanced fibers and textiles). These are cost-share, project-based awards through the institute, not grants or loans directly from DoW. The clearest current DoW tie is NextFlex's Robotic Enhancements for Armaments Manufacturing (REARM) special call, run on NextFlex's behalf to modernize the munitions industrial base [UNVERIFIED, REARM award size not found in this pass despite a direct search; check nextflex.us before citing a figure]. This is a hardware and industrial-base door, closer to a cost-share partnership than free money, and it sits at whatever TRL and company stage the specific call names rather than a single fixed stage.
 
 #### DARPA Commercial Strategy Office and Venture Horizons
 
@@ -272,6 +288,14 @@ The US export credit agency, with a $135 billion aggregate exposure cap and a na
 **HEAT: OPEN   OPENNESS: LOW**
 
 The US development finance agency, doing equity and debt for overseas and allied supply chains, and part of the same critical-minerals financing push as EXIM. Relevant where a company's supply chain runs through allied countries. Coordinated with EXIM through the Minerals Security Partnership Finance Network.
+
+#### Commerce CHIPS Program Office
+
+`TRADE`   ·   `CREDIT` `EQUITY`   ·   Washington, D.C.
+
+**HEAT: HOT   OPENNESS: LOW**
+
+The roughly $50 billion CHIPS for America program at the Department of Commerce, funding domestic semiconductor manufacturing capacity, advanced R&D, and supply-chain resilience. It is the vehicle most often named across this map's sector tabs as "the giant" in microelectronics, but it is not a seed-stage door. As of an April 2026 amendment, its main BAA runs two paths: an R&D Project Path (cost-shared research awards) and an Investment Fund Path (commercialization-oriented, structured for equity-style returns), both carrying a $10 million minimum award [UNVERIFIED, current minimum and path structure, confirm before citing]. That floor makes it a program for consortia, major research universities, and established companies, not a small applicant. Separately, the CHIPS Act directs Commerce to capitalize an investment fund, run with the National Semiconductor Technology Center, aimed at startups and startup-academia-industry collaborations, though this fund's current size and activity level were not confirmed in this pass. Microelectronics has almost no clean seed lane, and this entry is a large part of why.
 
 ### 3.5 Allied and multinational
 
@@ -415,7 +439,7 @@ Adjacent, not core: HHS BARDA and its DRIVe accelerator fund medical countermeas
 
 Shape: capital-heavy, closer to the minerals shape.
 
-The Commerce CHIPS Program Office is the giant here, plus OSC (microelectronics is a covered category), DIU, and the Defense Microelectronics Activity. Two non-defense doors reach in too, both from their own stated scope rather than a defense mandate: EXIM's CTEP names semiconductors as one of its 10 transformational export areas, and NSF America's Seed Fund names semiconductors alongside AI and robotics. This tab is the thinnest-built in the map and should get the same research pass the other six already had.
+The Commerce CHIPS Program Office is the giant here (now its own entry in 3.4), plus OSC (microelectronics is a covered category), DIU, and the Defense Microelectronics Activity. Two non-defense doors reach in too, both from their own stated scope rather than a defense mandate: EXIM's CTEP names semiconductors as one of its 10 transformational export areas, and NSF America's Seed Fund names semiconductors alongside AI and robotics. NextFlex, the Manufacturing USA flexible-electronics institute, touches this space too, though its clearest current DoW tie (the REARM special call) is aimed at munitions manufacturing rather than microelectronics specifically. The seed lane here is close to nonexistent: CHIPS' own BAA now carries a $10M minimum award, which rules out a seed company applying directly.
 
 ## 5. Coordination and policy
 
@@ -467,7 +491,7 @@ What this map does not yet nail down, stated as gaps rather than filled.
 - OSC covered-category count is cited as both 31 and 34 across current sources. Not reconciled here.
 - OSC equity authority is pending in the FY2027 National Defense Authorization Act and not enacted. Every reference to OSC equity carries that marker.
 - EDU structure and mandate are still forming and thinly documented.
-- NSIC leadership (Tex Schenkkan) is from an older source and may be stale.
+- NSIC leadership (Tex Schenkkan): a March 2026 NSIC document still names him, downgraded from STALE to UNVERIFIED this revision. Still worth a direct nsic.mil check before citing to a founder.
 - DHS SVIP award ceiling and phase structure are not confirmed at this revision.
 - The DARPA Commercial Strategy Office scorecard is cumulative since 2018 and should be refreshed before any external use.
 - DoE Energy Dominance Financing is a 2026 rename of the Loan Programs Office; its current lending posture under the new name should be confirmed.
@@ -478,6 +502,8 @@ What this map does not yet nail down, stated as gaps rather than filled.
 - The sector pathway grid now applies two rules beyond literal name-matching in each sector's own paragraph. First, Hardware's stated rule that "every physical-product sector inherits this spine" is applied to Space and Marine for all six spine vehicles (NSIC, DIU, AFVentures, NATO DIANA, OSC, DPA Title III), even on the sectors whose own write-up does not re-name every one of them. Second, EXIM and NSF are lit on sectors named in their own directory entries (EXIM's CTEP: AI, biotech, semiconductors; NSF: AI, semiconductors, robotics) rather than only where a sector's own paragraph happens to cite them. Both rules are logged here because they are structural judgment calls, not literal transcription, even though every vehicle placed this way is grounded in that vehicle's own stated scope.
 - AUKUS Pillar II is new to this revision (3.5) and is thinly documented on purpose: its US-side company-facing money runs through DIU's participation in a jointly-run Innovation Challenge series rather than a dedicated AUKUS budget, the 2025 challenge round paid Australian and UK companies rather than an open trilateral pool, and a proposed multi-sovereign private-capital fund does not yet exist. Confirm current US-company eligibility before citing this as a reachable door.
 - Three more federal vehicles were added this revision: the Rapid Innovation Fund (3.1), the Medical CBRN Defense Consortium (3.1), and ARPA-E (3.3). All three were researched via live search, carry the same heavier [UNVERIFIED] load as the other search-derived blocks above, and should be checked against USD(A&S), medcbrn.org, and arpa-e-foa.energy.gov respectively before external use. MCDC in particular is now the primary non-dilutive-adjacent citation for the Biotech and biosecurity sector; confirm its current open requests for prototype proposals before naming a specific one to a founder.
+- Three more vehicles were added on a second pass through Microelectronics and Critical minerals specifically: the National Defense Stockpile (3.1), Commerce CHIPS Program Office (3.4, resolving a token that previously rendered unmapped in the matrix), and NextFlex and the Manufacturing USA network (3.1). NextFlex's REARM award size was searched for directly and not found; that entry says so rather than guessing a figure. Commerce CHIPS' $10 million BAA minimum is the clearest documented reason Microelectronics has almost no seed lane, and should be re-confirmed if the program's structure changes again.
+- Two of the four originally-unmapped matrix tokens are now resolved (Commerce CHIPS, and MCDC/RIF/ARPA-E filled in cells that were previously generic). DARPA BTO, service SBIR/STTR, and direct DoW stakes remain deliberately unmapped: DARPA BTO is a different DARPA office than the one with a directory entry, service SBIR/STTR is intentionally generic per this map's SBIR/STTR scope decision, and direct DoW stakes describes a practice (section 6) rather than a single named vehicle.
 - Section 3.7 (State and regional programs) is new to this revision and is explicitly out of scope for the rest of the map's analytical apparatus: neither MassVentures nor the Texas Space Commission feeds the capital map matrix or the sector pathway grid, and no attempt was made to inventory all 50 states. California was checked and found to have no comparable centralized program; that is reported as a finding, not a gap still open.
 
 ## 9. Key names
@@ -489,7 +515,7 @@ What this map does not yet nail down, stated as gaps rather than filled.
 | Stephen Winchell | Director, DARPA | VERIFIED |
 | Sha-Chelle Devlin Manning | Chief of Commercial Strategy, DARPA | VERIFIED |
 | Jeffrey Singleton | US representative to NATO DIANA | VERIFIED |
-| Tex Schenkkan | Director, NSIC | STALE |
+| Tex Schenkkan | Director, NSIC | UNVERIFIED |
 | Doug Burgum | Chair, National Energy Dominance Council (Secretary of the Interior) | UNVERIFIED |
 | Chris Wright | Vice Chair, National Energy Dominance Council (Secretary of Energy) | UNVERIFIED |
 
@@ -546,3 +572,4 @@ Primary federal and institutional sources take precedence. Confirm all figures a
 - Australian Department of Defence and UK government releases on the 2025 AUKUS Maritime Innovation Challenge; CSIS and United States Studies Centre analysis of AUKUS Pillar II structure and financing; State Department and Atlantic Council coverage of the 2025 ITAR exemption for AUKUS
 - business.defense.gov and defenseinnovationmarketplace.dtic.mil program pages for the Rapid Innovation Fund; medcbrn.org and CDMRP-adjacent coverage for the Medical CBRN Defense Consortium; arpa-e-foa.energy.gov and the ARPA-E Vision OPEN 2024 FOA for ARPA-E award structure
 - MassVentures (mass-ventures.com) and Commonwealth of Massachusetts press releases on the START Grant program; Texas Space Commission (space.texas.gov) releases on the Space Exploration and Aeronautics Research Fund; CalSEED (calseed.fund) on its clean-energy-only scope
+- Commerce.gov and NIST CHIPS for America program pages, and DLA Piper coverage of the April 2026 CHIPS BAA amendment, for the Commerce CHIPS Program Office; Defense Logistics Agency and Hoover Institution coverage of National Defense Stockpile offtake structures, and reporting on the US SIIE, LLC special purpose vehicle; Manufacturing USA network pages and NextFlex (nextflex.us) for the REARM special call
