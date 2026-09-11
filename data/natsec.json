@@ -171,49 +171,91 @@
     },
     {
       "number": 2,
-      "title": "The six shapes of money",
+      "title": "Instrument types",
       "id": "s2",
       "intro": [
         {
-          "type": "para",
-          "raw": "Non-dilutive capital. A grant or award that the company keeps without giving up equity or taking on debt. NSIC, the service venture arms, NSF and NASA seed funds, and NATO DIANA. The cleanest money at seed.",
-          "html": "Non-dilutive capital. A grant or award that the company keeps without giving up equity or taking on debt. NSIC, the service venture arms, NSF and NASA seed funds, and NATO DIANA. The cleanest money at seed.",
-          "text": "Non-dilutive capital. A grant or award that the company keeps without giving up equity or taking on debt. NSIC, the service venture arms, NSF and NASA seed funds, and NATO DIANA. The cleanest money at seed.",
-          "confidence": []
+          "type": "h4",
+          "heading": "Non-dilutive capital",
+          "headingHtml": "Non-dilutive capital",
+          "tag": null,
+          "heat": null
         },
         {
           "type": "para",
-          "raw": "First contract / OTA. A prototype or production contract, usually through Other Transaction Authority under 10 U.S.C. 4022. Not investment. The value is first government revenue and a proof point that de-risks a private round. DIU's Commercial Solutions Opening is the model.",
-          "html": "First contract / OTA. A prototype or production contract, usually through Other Transaction Authority under 10 U.S.C. 4022. Not investment. The value is first government revenue and a proof point that de-risks a private round. DIU's Commercial Solutions Opening is the model.",
-          "text": "First contract / OTA. A prototype or production contract, usually through Other Transaction Authority under 10 U.S.C. 4022. Not investment. The value is first government revenue and a proof point that de-risks a private round. DIU's Commercial Solutions Opening is the model.",
+          "raw": "A grant or award that the company keeps without giving up equity or taking on debt. NSIC, the service venture arms, NSF and NASA seed funds, and NATO DIANA. The cleanest money at seed.",
+          "html": "A grant or award that the company keeps without giving up equity or taking on debt. NSIC, the service venture arms, NSF and NASA seed funds, and NATO DIANA. The cleanest money at seed.",
+          "text": "A grant or award that the company keeps without giving up equity or taking on debt. NSIC, the service venture arms, NSF and NASA seed funds, and NATO DIANA. The cleanest money at seed.",
           "confidence": []
         },
         {
-          "type": "para",
-          "raw": "Matching capital. A government award that requires the company to bring private or other government dollars alongside it. AFVentures STRATFI and TACFI. The structure pulls a venture firm's own check in next to the government's.",
-          "html": "Matching capital. A government award that requires the company to bring private or other government dollars alongside it. AFVentures STRATFI and TACFI. The structure pulls a venture firm's own check in next to the government's.",
-          "text": "Matching capital. A government award that requires the company to bring private or other government dollars alongside it. AFVentures STRATFI and TACFI. The structure pulls a venture firm's own check in next to the government's.",
-          "confidence": []
+          "type": "h4",
+          "heading": "First contract / OTA",
+          "headingHtml": "First contract / OTA",
+          "tag": null,
+          "heat": null
         },
         {
           "type": "para",
-          "raw": "Strategic equity. The government or an affiliated nonprofit takes an ownership stake. In-Q-Tel has done this for the Intelligence Community for years. The Department of War started doing it directly in 2025, and a statutory equity authority for OSC is pending. Section 6 covers this.",
-          "html": "Strategic equity. The government or an affiliated nonprofit takes an ownership stake. In-Q-Tel has done this for the Intelligence Community for years. The Department of War started doing it directly in 2025, and a statutory equity authority for OSC is pending. Section 6 covers this.",
-          "text": "Strategic equity. The government or an affiliated nonprofit takes an ownership stake. In-Q-Tel has done this for the Intelligence Community for years. The Department of War started doing it directly in 2025, and a statutory equity authority for OSC is pending. Section 6 covers this.",
+          "raw": "A prototype or production contract, usually through Other Transaction Authority under 10 U.S.C. 4022. Not investment. The value is first government revenue and a proof point that de-risks a private round. DIU's Commercial Solutions Opening is the model.",
+          "html": "A prototype or production contract, usually through Other Transaction Authority under 10 U.S.C. 4022. Not investment. The value is first government revenue and a proof point that de-risks a private round. DIU's Commercial Solutions Opening is the model.",
+          "text": "A prototype or production contract, usually through Other Transaction Authority under 10 U.S.C. 4022. Not investment. The value is first government revenue and a proof point that de-risks a private round. DIU's Commercial Solutions Opening is the model.",
           "confidence": []
         },
         {
-          "type": "para",
-          "raw": "Fund-level. The government backs a fund rather than a company. SBIC-CT lets a licensed private fund borrow against its private capital, then deploy at normal venture check sizes. This is the vehicle a venture firm interacts with as a manager.",
-          "html": "Fund-level. The government backs a fund rather than a company. SBIC-CT lets a licensed private fund borrow against its private capital, then deploy at normal venture check sizes. This is the vehicle a venture firm interacts with as a manager.",
-          "text": "Fund-level. The government backs a fund rather than a company. SBIC-CT lets a licensed private fund borrow against its private capital, then deploy at normal venture check sizes. This is the vehicle a venture firm interacts with as a manager.",
-          "confidence": []
+          "type": "h4",
+          "heading": "Matching capital",
+          "headingHtml": "Matching capital",
+          "tag": null,
+          "heat": null
         },
         {
           "type": "para",
-          "raw": "Scale credit. Large loans and loan guarantees for facilities, equipment, and production. OSC, DoE Energy Dominance Financing, EXIM, DFC, and Commerce CHIPS. Ten-figure programs, project-shaped, late-stage.",
-          "html": "Scale credit. Large loans and loan guarantees for facilities, equipment, and production. OSC, DoE Energy Dominance Financing, EXIM, DFC, and Commerce CHIPS. Ten-figure programs, project-shaped, late-stage.",
-          "text": "Scale credit. Large loans and loan guarantees for facilities, equipment, and production. OSC, DoE Energy Dominance Financing, EXIM, DFC, and Commerce CHIPS. Ten-figure programs, project-shaped, late-stage.",
+          "raw": "A government award that requires the company to bring private or other government dollars alongside it. AFVentures STRATFI and TACFI. The structure pulls a venture firm's own check in next to the government's.",
+          "html": "A government award that requires the company to bring private or other government dollars alongside it. AFVentures STRATFI and TACFI. The structure pulls a venture firm's own check in next to the government's.",
+          "text": "A government award that requires the company to bring private or other government dollars alongside it. AFVentures STRATFI and TACFI. The structure pulls a venture firm's own check in next to the government's.",
+          "confidence": []
+        },
+        {
+          "type": "h4",
+          "heading": "Strategic equity",
+          "headingHtml": "Strategic equity",
+          "tag": null,
+          "heat": null
+        },
+        {
+          "type": "para",
+          "raw": "The government or an affiliated nonprofit takes an ownership stake. In-Q-Tel has done this for the Intelligence Community for years. The Department of War started doing it directly in 2025, and a statutory equity authority for OSC is pending. Section 6 covers this.",
+          "html": "The government or an affiliated nonprofit takes an ownership stake. In-Q-Tel has done this for the Intelligence Community for years. The Department of War started doing it directly in 2025, and a statutory equity authority for OSC is pending. Section 6 covers this.",
+          "text": "The government or an affiliated nonprofit takes an ownership stake. In-Q-Tel has done this for the Intelligence Community for years. The Department of War started doing it directly in 2025, and a statutory equity authority for OSC is pending. Section 6 covers this.",
+          "confidence": []
+        },
+        {
+          "type": "h4",
+          "heading": "Fund-level",
+          "headingHtml": "Fund-level",
+          "tag": null,
+          "heat": null
+        },
+        {
+          "type": "para",
+          "raw": "The government backs a fund rather than a company. SBIC-CT lets a licensed private fund borrow against its private capital, then deploy at normal venture check sizes. This is the vehicle a venture firm interacts with as a manager.",
+          "html": "The government backs a fund rather than a company. SBIC-CT lets a licensed private fund borrow against its private capital, then deploy at normal venture check sizes. This is the vehicle a venture firm interacts with as a manager.",
+          "text": "The government backs a fund rather than a company. SBIC-CT lets a licensed private fund borrow against its private capital, then deploy at normal venture check sizes. This is the vehicle a venture firm interacts with as a manager.",
+          "confidence": []
+        },
+        {
+          "type": "h4",
+          "heading": "Scale credit",
+          "headingHtml": "Scale credit",
+          "tag": null,
+          "heat": null
+        },
+        {
+          "type": "para",
+          "raw": "Large loans and loan guarantees for facilities, equipment, and production. OSC, DoE Energy Dominance Financing, EXIM, DFC, and Commerce CHIPS. Ten-figure programs, project-shaped, late-stage.",
+          "html": "Large loans and loan guarantees for facilities, equipment, and production. OSC, DoE Energy Dominance Financing, EXIM, DFC, and Commerce CHIPS. Ten-figure programs, project-shaped, late-stage.",
+          "text": "Large loans and loan guarantees for facilities, equipment, and production. OSC, DoE Energy Dominance Financing, EXIM, DFC, and Commerce CHIPS. Ten-figure programs, project-shaped, late-stage.",
           "confidence": []
         }
       ],
@@ -2034,7 +2076,7 @@
       "rows": [
         [
           {
-            "html": "2. The six shapes of money",
+            "html": "2. Instrument types",
             "confidence": []
           },
           {
@@ -2213,7 +2255,8 @@
         "Washington, D.C."
       ],
       "heat": "HOT",
-      "openness": "LOW"
+      "openness": "LOW",
+      "summary": "The Department of War's finance office, created December 2022 and codified in Section 903 of the FY2024 National Defense Authorization Act."
     },
     {
       "id": "v-sbic-critical-technology-initiative-sbic-ct",
@@ -2231,7 +2274,8 @@
         "joint DoW-SBA"
       ],
       "heat": "OPEN",
-      "openness": "LOW"
+      "openness": "LOW",
+      "summary": "A joint Department of War and Small Business Administration program that licenses private funds and lets them borrow up to $175M per fund against the private capital they raise."
     },
     {
       "id": "v-national-security-innovation-capital-nsic",
@@ -2250,7 +2294,8 @@
         "Mountain View, CA"
       ],
       "heat": "HOT",
-      "openness": "HIGH"
+      "openness": "HIGH",
+      "summary": "The anchor seed door for hardware."
     },
     {
       "id": "v-defense-innovation-unit-diu",
@@ -2268,7 +2313,8 @@
         "Mountain View, CA"
       ],
       "heat": "HOT",
-      "openness": "HIGH"
+      "openness": "HIGH",
+      "summary": "The Pentagon's commercial-technology bridge and the universal front door."
     },
     {
       "id": "v-afwerx-afventures",
@@ -2286,7 +2332,8 @@
         "Department of the Air Force"
       ],
       "heat": "OPEN",
-      "openness": "MED"
+      "openness": "MED",
+      "summary": "AFWERX is the Air Force innovation arm, with four arms of its own (AFVentures, Spark, Prime, SpaceWERX)."
     },
     {
       "id": "v-spacewerx-space-ventures",
@@ -2305,7 +2352,8 @@
         "Space Force"
       ],
       "heat": "OPEN",
-      "openness": "MED"
+      "openness": "MED",
+      "summary": "The Space Force branch of AFWERX."
     },
     {
       "id": "v-defense-production-act-title-iii",
@@ -2324,7 +2372,8 @@
         "DPA Investments Office"
       ],
       "heat": "HOT",
-      "openness": "MED"
+      "openness": "MED",
+      "summary": "Real industrial-base dollars, run by the Defense Production Act Investments Office under the Assistant Secretary of Defense for Industrial Base Policy."
     },
     {
       "id": "v-darpa-commercial-strategy-office-and-venture-horizons",
@@ -2342,7 +2391,8 @@
         "Arlington, VA"
       ],
       "heat": "OPEN",
-      "openness": "MED"
+      "openness": "MED",
+      "summary": "DARPA funds R&D through grants and contracts, not investment, and is often mistaken for an investor."
     },
     {
       "id": "v-economic-defense-unit-edu",
@@ -2361,7 +2411,8 @@
         "Washington, D.C."
       ],
       "heat": "WATCH",
-      "openness": "LOW"
+      "openness": "LOW",
+      "summary": "A recent Department of War creation working alongside OSC, staffed with recruits from Goldman Sachs, JPMorgan, and other Wall Street firms."
     },
     {
       "id": "v-army-applications-laboratory-aal-and-xtech",
@@ -2379,7 +2430,8 @@
         "under Army Transformation and Training Command (T2COM)"
       ],
       "heat": "HOT",
-      "openness": "HIGH"
+      "openness": "HIGH",
+      "summary": "The Army's non-traditional-innovator front door, formerly under Army Futures Command."
     },
     {
       "id": "v-navalx-and-the-tech-bridge-network",
@@ -2398,7 +2450,8 @@
         "Washington, D.C., with a nationwide Tech Bridge network"
       ],
       "heat": "OPEN",
-      "openness": "MED"
+      "openness": "MED",
+      "summary": "The Department of the Navy's innovation-facilitation office, paired with the Office of Naval Research to run a nationwide network of regional Tech Bridges, a franchise model connecting warfare centers, academia, and industry for technology…"
     },
     {
       "id": "v-office-of-naval-research-onr-sbir-sttr",
@@ -2416,7 +2469,8 @@
         "Arlington, VA"
       ],
       "heat": "HOT",
-      "openness": "MED"
+      "openness": "MED",
+      "summary": "The Navy and Marine Corps' SBIR/STTR program, spanning more than 30 science and technology areas."
     },
     {
       "id": "v-sofwerx",
@@ -2434,7 +2488,8 @@
         "Tampa, FL, for USSOCOM"
       ],
       "heat": "HOT",
-      "openness": "HIGH"
+      "openness": "HIGH",
+      "summary": "Special Operations Command's commercial-technology engagement hub, run by the nonprofit DEFENSEWERX under a partnership intermediary agreement with USSOCOM."
     },
     {
       "id": "v-marine-corps-warfighting-laboratory-mcwl",
@@ -2452,7 +2507,8 @@
         "Quantico, VA"
       ],
       "heat": "WATCH",
-      "openness": "MED"
+      "openness": "MED",
+      "summary": "The Marine Corps' concepts-and-experimentation lab, running rapid prototyping under Other Transaction Authority and periodic calls for concepts through the Commandant's Innovation Challenge and the USMC Innovation Challenge."
     },
     {
       "id": "v-in-q-tel-iqt",
@@ -2470,7 +2526,8 @@
         "Tysons, VA and Menlo Park, CA"
       ],
       "heat": "HOT",
-      "openness": "MED"
+      "openness": "MED",
+      "summary": "The Intelligence Community's venture arm and, in practice, the only active IC equity vehicle."
     },
     {
       "id": "v-doe-energy-dominance-financing-formerly-the-loan-programs-office",
@@ -2488,7 +2545,8 @@
         "Washington, D.C."
       ],
       "heat": "HOT",
-      "openness": "LOW"
+      "openness": "LOW",
+      "summary": "The Department of Energy's credit vehicle, rebranded in 2026 from the Loan Programs Office to the Energy Dominance Financing Program, alongside a new Office of Critical Minerals and Energy Innovation."
     },
     {
       "id": "v-export-import-bank-exim",
@@ -2506,7 +2564,8 @@
         "Washington, D.C."
       ],
       "heat": "HOT",
-      "openness": "LOW"
+      "openness": "LOW",
+      "summary": "The US export credit agency, with a $135 billion aggregate exposure cap and a national security lane."
     },
     {
       "id": "v-development-finance-corporation-dfc",
@@ -2525,7 +2584,8 @@
         "Washington, D.C."
       ],
       "heat": "OPEN",
-      "openness": "LOW"
+      "openness": "LOW",
+      "summary": "The US development finance agency, doing equity and debt for overseas and allied supply chains, and part of the same critical-minerals financing push as EXIM."
     },
     {
       "id": "v-nato-diana",
@@ -2545,7 +2605,8 @@
         "HQ London; North American office Halifax; US sites Boston and Seattle"
       ],
       "heat": "OPEN",
-      "openness": "MED"
+      "openness": "MED",
+      "summary": "The Defence Innovation Accelerator for the North Atlantic."
     },
     {
       "id": "v-nato-innovation-fund-nif",
@@ -2563,7 +2624,8 @@
       ],
       "meta": [],
       "heat": "WATCH",
-      "openness": "LOW"
+      "openness": "LOW",
+      "summary": "A separate 1 billion euro-plus equity fund with 24 participating NATO nations."
     },
     {
       "id": "v-nsf-america-s-seed-fund",
@@ -2581,7 +2643,8 @@
         "nationwide"
       ],
       "heat": "OPEN",
-      "openness": "HIGH"
+      "openness": "HIGH",
+      "summary": "The National Science Foundation's SBIR/STTR program, roughly $200M a year to about 400 companies, up to $2M per company, no equity taken."
     },
     {
       "id": "v-nasa-sbir-sttr-and-space-act-agreements",
@@ -2600,7 +2663,8 @@
         "nationwide"
       ],
       "heat": "OPEN",
-      "openness": "HIGH"
+      "openness": "HIGH",
+      "summary": "NASA has no venture arm."
     },
     {
       "id": "v-dhs-svip",
@@ -2618,9 +2682,18 @@
         "Silicon Valley Innovation Program"
       ],
       "heat": "OPEN",
-      "openness": "MED"
+      "openness": "MED",
+      "summary": "The Department of Homeland Security Science and Technology Directorate's startup program, non-dilutive and structured through Other Transaction agreements, aimed at homeland security problems (border, cyber, first responder)."
     }
   ],
+  "instrumentDefs": {
+    "Non-dilutive capital": "A grant or award that the company keeps without giving up equity or taking on debt. NSIC, the service venture arms, NSF and NASA seed funds, and NATO DIANA. The cleanest money at seed.",
+    "First contract / OTA": "A prototype or production contract, usually through Other Transaction Authority under 10 U.S.C. 4022. Not investment. The value is first government revenue and a proof point that de-risks a private round. DIU's Commercial Solutions Opening is the model.",
+    "Matching capital": "A government award that requires the company to bring private or other government dollars alongside it. AFVentures STRATFI and TACFI. The structure pulls a venture firm's own check in next to the government's.",
+    "Strategic equity": "The government or an affiliated nonprofit takes an ownership stake. In-Q-Tel has done this for the Intelligence Community for years. The Department of War started doing it directly in 2025, and a statutory equity authority for OSC is pending. Section 6 covers this.",
+    "Fund-level": "The government backs a fund rather than a company. SBIC-CT lets a licensed private fund borrow against its private capital, then deploy at normal venture check sizes. This is the vehicle a venture firm interacts with as a manager.",
+    "Scale credit": "Large loans and loan guarantees for facilities, equipment, and production. OSC, DoE Energy Dominance Financing, EXIM, DFC, and Commerce CHIPS. Ten-figure programs, project-shaped, late-stage."
+  },
   "meta": {
     "sections": 11,
     "tables": 3,

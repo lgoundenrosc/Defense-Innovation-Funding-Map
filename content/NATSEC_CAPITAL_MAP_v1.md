@@ -7,7 +7,7 @@
 
 | 1. Overview | |
 | --- | --- |
-| 2. The six shapes of money | |
+| 2. Instrument types | |
 | 3. Vehicle directory | |
 | 3.1 Department of War | |
 | 3.2 Intelligence Community | |
@@ -42,19 +42,31 @@ Six instrument types down the side. Three company stages across the top. Each ve
 > A pre-seed company's reachable government money is non-dilutive and contract-shaped, in the low millions. NSIC writes $500K to $3M. DIU awards a prototype contract. NATO DIANA runs a non-dilutive challenge. These are the seed doors.
 > The bottom-right corner is loans and equity in the tens and hundreds of millions. OSC lends from a $10M floor. DoE and EXIM write nine and ten-figure project credit. Direct equity stakes run to $400M. A seed company reaches none of it without first becoming a scale company, and the only bridge across that gap is a fund the government backs, which is what SBIC-CT is.
 
-## 2. The six shapes of money
+## 2. Instrument types
 
-Non-dilutive capital. A grant or award that the company keeps without giving up equity or taking on debt. NSIC, the service venture arms, NSF and NASA seed funds, and NATO DIANA. The cleanest money at seed.
+#### Non-dilutive capital
 
-First contract / OTA. A prototype or production contract, usually through Other Transaction Authority under 10 U.S.C. 4022. Not investment. The value is first government revenue and a proof point that de-risks a private round. DIU's Commercial Solutions Opening is the model.
+A grant or award that the company keeps without giving up equity or taking on debt. NSIC, the service venture arms, NSF and NASA seed funds, and NATO DIANA. The cleanest money at seed.
 
-Matching capital. A government award that requires the company to bring private or other government dollars alongside it. AFVentures STRATFI and TACFI. The structure pulls a venture firm's own check in next to the government's.
+#### First contract / OTA
 
-Strategic equity. The government or an affiliated nonprofit takes an ownership stake. In-Q-Tel has done this for the Intelligence Community for years. The Department of War started doing it directly in 2025, and a statutory equity authority for OSC is pending. Section 6 covers this.
+A prototype or production contract, usually through Other Transaction Authority under 10 U.S.C. 4022. Not investment. The value is first government revenue and a proof point that de-risks a private round. DIU's Commercial Solutions Opening is the model.
 
-Fund-level. The government backs a fund rather than a company. SBIC-CT lets a licensed private fund borrow against its private capital, then deploy at normal venture check sizes. This is the vehicle a venture firm interacts with as a manager.
+#### Matching capital
 
-Scale credit. Large loans and loan guarantees for facilities, equipment, and production. OSC, DoE Energy Dominance Financing, EXIM, DFC, and Commerce CHIPS. Ten-figure programs, project-shaped, late-stage.
+A government award that requires the company to bring private or other government dollars alongside it. AFVentures STRATFI and TACFI. The structure pulls a venture firm's own check in next to the government's.
+
+#### Strategic equity
+
+The government or an affiliated nonprofit takes an ownership stake. In-Q-Tel has done this for the Intelligence Community for years. The Department of War started doing it directly in 2025, and a statutory equity authority for OSC is pending. Section 6 covers this.
+
+#### Fund-level
+
+The government backs a fund rather than a company. SBIC-CT lets a licensed private fund borrow against its private capital, then deploy at normal venture check sizes. This is the vehicle a venture firm interacts with as a manager.
+
+#### Scale credit
+
+Large loans and loan guarantees for facilities, equipment, and production. OSC, DoE Energy Dominance Financing, EXIM, DFC, and Commerce CHIPS. Ten-figure programs, project-shaped, late-stage.
 
 ## 3. Vehicle directory
 

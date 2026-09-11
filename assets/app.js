@@ -16,6 +16,7 @@
   function chip(cls, value, extra) {
     return '<span class="chip ' + cls + '-' + slug(value) + '">' + value + '</span>' + (extra || '');
   }
+  function escAttr(s) { return String(s).replace(/&/g, '&amp;').replace(/"/g, '&quot;').replace(/</g, '&lt;'); }
 
   /* ---------- vehicle registry ---------- */
 
@@ -113,6 +114,8 @@
     { key: 'FUND-LEVEL', label: 'Fund-level' },
     { key: 'CREDIT', label: 'Scale credit' }
   ];
+
+  var INSTRUMENT_DEFS = DOC.instrumentDefs || {};
 
   /* ---------- tabs ---------- */
 
@@ -242,7 +245,8 @@
         confHtml: confHtml,
         mapped: !!v,
         bodyTag: bodyTag,
-        id: v ? v.id : null
+        id: v ? v.id : null,
+        tip: v ? v.heading + '. ' + v.summary : ''
       };
     });
     return { gap: false, chips: chips };
@@ -251,7 +255,8 @@
   function matrixChipHtml(c) {
     var cls = 'mx-vehicle' + (c.mapped ? '' : ' unmapped');
     var link = c.mapped ? ' data-jump="' + c.id + '"' : '';
-    return '<span class="' + cls + '"' + link + '>' + c.name +
+    var tip = c.tip ? ' data-tip="' + escAttr(c.tip) + '" tabindex="0"' : '';
+    return '<span class="' + cls + '"' + link + tip + '>' + c.name +
       (c.bodyTag ? ' <span class="chip body-chip vb">' + c.bodyTag + '</span>' : '') +
       c.confHtml + '</span>';
   }
@@ -268,7 +273,9 @@
       var isPriorityRow = ri < 2; // non-dilutive, first contract / OTA
       var isScaleRow = false; // scale shading applied per-cell (growth column x credit/equity/fund-level rows)
       var scaleRows = ['Strategic equity', 'Fund-level', 'Scale credit'];
-      html += '<div class="mx-row-label' + (isPriorityRow ? ' mx-priority-label' : (scaleRows.indexOf(rowLabel) >= 0 ? ' mx-scale-label' : '')) + '">' + rowLabel + '</div>';
+      var rowDef = INSTRUMENT_DEFS[rowLabel];
+      var rowTip = rowDef ? ' data-tip="' + escAttr(rowLabel + '. ' + rowDef) + '" tabindex="0"' : '';
+      html += '<div class="mx-row-label' + (isPriorityRow ? ' mx-priority-label' : (scaleRows.indexOf(rowLabel) >= 0 ? ' mx-scale-label' : '')) + '"' + rowTip + '>' + rowLabel + '</div>';
       for (var col = 1; col <= 3; col++) {
         var cell = cellVehicleChips(row[col].html);
         var isPriorityCell = isPriorityRow && col === 1;
@@ -588,8 +595,57 @@
       $$('.sector-pane[hidden]').forEach(function (p) { p.hidden = false; });
     });
 
+    document.addEventListener('pointerover', function (e) {
+      var t = e.target.closest && e.target.closest('[data-tip]');
+      if (t) showVizTip(t, t.getAttribute('data-tip'));
+    });
+    document.addEventListener('pointerout', function (e) {
+      var t = e.target.closest && e.target.closest('[data-tip]');
+      if (t && !(e.relatedTarget && t.contains(e.relatedTarget))) hideVizTip();
+    });
+    document.addEventListener('focusin', function (e) {
+      var t = e.target.closest && e.target.closest('[data-tip]');
+      if (t) showVizTip(t, t.getAttribute('data-tip'));
+    });
+    document.addEventListener('focusout', function (e) {
+      var t = e.target.closest && e.target.closest('[data-tip]');
+      if (t) hideVizTip();
+    });
+
     select('overview');
   }
+
+  /* ---------- floating tooltips, for [data-tip] elements ----------
+     A CSS-only hover tooltip would get clipped by .matrix-wrap's
+     overflow-x: auto, so this uses a single fixed-position element
+     positioned in JS instead, the same approach the ARI build used for
+     its diagram nodes. */
+
+  var vizTip = null;
+  function ensureVizTip() {
+    if (vizTip) return vizTip;
+    vizTip = document.createElement('div');
+    vizTip.className = 'viz-tip';
+    vizTip.setAttribute('role', 'tooltip');
+    vizTip.hidden = true;
+    document.body.appendChild(vizTip);
+    return vizTip;
+  }
+  function showVizTip(target, text) {
+    if (!text) return;
+    var tip = ensureVizTip();
+    tip.textContent = text;
+    tip.hidden = false;
+    var r = target.getBoundingClientRect();
+    var tw = tip.offsetWidth, th = tip.offsetHeight;
+    var x = r.left + r.width / 2 - tw / 2;
+    var y = r.top - th - 10;
+    if (y < 8) y = r.bottom + 10;
+    x = Math.max(8, Math.min(x, window.innerWidth - tw - 8));
+    tip.style.left = x + 'px';
+    tip.style.top = y + 'px';
+  }
+  function hideVizTip() { if (vizTip) vizTip.hidden = true; }
 
   function toggleCollapsible(toggle, forceOpen) {
     var open = forceOpen === true ? true : toggle.getAttribute('aria-expanded') !== 'true';

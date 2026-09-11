@@ -258,6 +258,20 @@ for (let k = 1; k < h2Idx.length; k++) {
    Flat list of every vehicle card, in document order, for the matrix and
    sector grid to key off. */
 
+// Tooltip summary: the vehicle's own first sentence, verbatim. Capped only
+// as a safety limit, never reworded.
+function firstSentence(blocks) {
+  for (const b of blocks) {
+    if (b.type === 'para' || b.type === 'confidence') {
+      const t = b.text;
+      const idx = t.indexOf('. ');
+      if (idx > 0 && idx < 240) return t.slice(0, idx + 1);
+      return t.length > 240 ? t.slice(0, 240).trim() + '…' : t;
+    }
+  }
+  return '';
+}
+
 const vehicles = [];
 function collectVehicles(blocks, sectionNum, subTitle) {
   blocks.forEach((b) => {
@@ -273,6 +287,7 @@ function collectVehicles(blocks, sectionNum, subTitle) {
         meta: b.tag ? b.tag.meta : [],
         heat: b.heat ? b.heat.heat : null,
         openness: b.heat ? b.heat.openness : null,
+        summary: firstSentence(b.blocks),
       });
     }
   });
@@ -280,6 +295,24 @@ function collectVehicles(blocks, sectionNum, subTitle) {
 const sec4 = doc.sections.find((s) => s.number === 3);
 sec4.subsections.forEach((ss) => collectVehicles(ss.blocks, 4, ss.title));
 doc.vehicles = vehicles;
+
+/* ---------- instrument type definitions ----------
+   Section 2 pairs an #### heading with the paragraph right after it, one
+   per instrument type. Lifted verbatim for the matrix row tooltips. */
+
+const instrumentDefs = {};
+{
+  const sec2 = doc.sections.find((s) => s.number === 2);
+  let pendingName = null;
+  sec2.intro.forEach((b) => {
+    if (b.type === 'h4') { pendingName = b.heading; return; }
+    if (pendingName && (b.type === 'para' || b.type === 'confidence')) {
+      instrumentDefs[pendingName] = b.text;
+      pendingName = null;
+    }
+  });
+}
+doc.instrumentDefs = instrumentDefs;
 
 /* ---------- counts ---------- */
 
