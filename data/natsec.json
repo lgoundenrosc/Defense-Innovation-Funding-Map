@@ -394,9 +394,9 @@
               "blocks": [
                 {
                   "type": "para",
-                  "raw": "The anchor seed door for hardware. Housed within DIU, authorized in the FY2019 National Defense Authorization Act, NSIC funds dual-use hardware startups that private capital underserves. Awards $500K to $3M over 12 to 18 months, open to companies at TRL 3 or higher, structured as Other Transaction agreements. Founders submit a pitch deck at any time, with no fixed solicitation window. It exists because less than 30% of US venture goes to hardware and less than 10% of that lands at early stages. NSIC money also blocks untrusted foreign capital from the cap table. Hardware only. Software may be part of the product but not the primary work. Director Tex Schenkkan, and a March 2026 NSIC document still refers to him in the role [UNVERIFIED, confirmed via a secondary source rather than nsic.mil's leadership page directly].",
-                  "html": "The anchor seed door for hardware. Housed within DIU, authorized in the FY2019 National Defense Authorization Act, NSIC funds dual-use hardware startups that private capital underserves. Awards $500K to $3M over 12 to 18 months, open to companies at TRL 3 or higher, structured as Other Transaction agreements. Founders submit a pitch deck at any time, with no fixed solicitation window. It exists because less than 30% of US venture goes to hardware and less than 10% of that lands at early stages. NSIC money also blocks untrusted foreign capital from the cap table. Hardware only. Software may be part of the product but not the primary work. Director Tex Schenkkan, and a March 2026 NSIC document still refers to him in the role <span class=\"chip chip-conf conf-unverified\" data-conf=\"UNVERIFIED\">UNVERIFIED</span><span class=\"conf-extra\">confirmed via a secondary source rather than nsic.mil's leadership page directly</span>.",
-                  "text": "The anchor seed door for hardware. Housed within DIU, authorized in the FY2019 National Defense Authorization Act, NSIC funds dual-use hardware startups that private capital underserves. Awards $500K to $3M over 12 to 18 months, open to companies at TRL 3 or higher, structured as Other Transaction agreements. Founders submit a pitch deck at any time, with no fixed solicitation window. It exists because less than 30% of US venture goes to hardware and less than 10% of that lands at early stages. NSIC money also blocks untrusted foreign capital from the cap table. Hardware only. Software may be part of the product but not the primary work. Director Tex Schenkkan, and a March 2026 NSIC document still refers to him in the role UNVERIFIED.",
+                  "raw": "The anchor seed door for hardware. Housed within DIU, authorized in the FY2019 National Defense Authorization Act, NSIC funds dual-use hardware startups that private capital underserves. Awards $500K to $3M over 12 to 18 months, open to companies at TRL 3 or higher, structured as Other Transaction agreements. Founders submit a pitch deck at any time, with no fixed solicitation window. It exists because less than 30% of US venture goes to hardware and less than 10% of that lands at early stages. NSIC money also blocks untrusted foreign capital from the cap table. Hardware only. Software may be part of the product but not the primary work. Director Tex Schenkkan, named consistently across a March 2026 NSIC document, NSIC's LinkedIn page, and DIU's own program materials as of this revision [UNVERIFIED, still not pulled directly from nsic.mil's own leadership page rather than these secondary and semi-official sources, but multiple independent 2026 sources now agree].",
+                  "html": "The anchor seed door for hardware. Housed within DIU, authorized in the FY2019 National Defense Authorization Act, NSIC funds dual-use hardware startups that private capital underserves. Awards $500K to $3M over 12 to 18 months, open to companies at TRL 3 or higher, structured as Other Transaction agreements. Founders submit a pitch deck at any time, with no fixed solicitation window. It exists because less than 30% of US venture goes to hardware and less than 10% of that lands at early stages. NSIC money also blocks untrusted foreign capital from the cap table. Hardware only. Software may be part of the product but not the primary work. Director Tex Schenkkan, named consistently across a March 2026 NSIC document, NSIC's LinkedIn page, and DIU's own program materials as of this revision <span class=\"chip chip-conf conf-unverified\" data-conf=\"UNVERIFIED\">UNVERIFIED</span><span class=\"conf-extra\">still not pulled directly from nsic.mil's own leadership page rather than these secondary and semi-official sources, but multiple independent 2026 sources now agree</span>.",
+                  "text": "The anchor seed door for hardware. Housed within DIU, authorized in the FY2019 National Defense Authorization Act, NSIC funds dual-use hardware startups that private capital underserves. Awards $500K to $3M over 12 to 18 months, open to companies at TRL 3 or higher, structured as Other Transaction agreements. Founders submit a pitch deck at any time, with no fixed solicitation window. It exists because less than 30% of US venture goes to hardware and less than 10% of that lands at early stages. NSIC money also blocks untrusted foreign capital from the cap table. Hardware only. Software may be part of the product but not the primary work. Director Tex Schenkkan, named consistently across a March 2026 NSIC document, NSIC's LinkedIn page, and DIU's own program materials as of this revision UNVERIFIED.",
                   "confidence": [
                     "UNVERIFIED"
                   ]
@@ -706,8 +706,8 @@
             },
             {
               "type": "vehicle",
-              "heading": "Rapid Innovation Fund (RIF)",
-              "headingHtml": "Rapid Innovation Fund (RIF)",
+              "heading": "Rapid Innovation Fund (RIF), now Rapid Integrated Scalable Enterprise (RISE)",
+              "headingHtml": "Rapid Innovation Fund (RIF), now Rapid Integrated Scalable Enterprise (RISE)",
               "tag": {
                 "body": [
                   "DOW"
@@ -728,11 +728,10 @@
               "blocks": [
                 {
                   "type": "para",
-                  "raw": "A cross-service, OSD-level bridge that inserts a small business's technology into an existing acquisition program, run by the Office of Small Business Programs under the Under Secretary of Defense for Acquisition and Sustainment rather than any single service. Individual project awards are capped at $3M with up to 24 months of performance; a Direct-to-Phase-II track (built on a prior SBIR/STTR Phase I) runs up to $1.75M. On 13 April 2026 the Small Business Innovation and Economic Security Act reauthorized SBIR/STTR government-wide after a lapse, and RIF's own 2026 cycle opened 4 March 2026 [UNVERIFIED, current cycle dates and whether the program is mid-solicitation, confirm before citing]. Competitive: over 20 white papers are submitted for every award, roughly a 5% hit rate [UNVERIFIED, hit-rate figure from a secondary source, confirm against USD(A&S) reporting].",
-                  "html": "A cross-service, OSD-level bridge that inserts a small business's technology into an existing acquisition program, run by the Office of Small Business Programs under the Under Secretary of Defense for Acquisition and Sustainment rather than any single service. Individual project awards are capped at $3M with up to 24 months of performance; a Direct-to-Phase-II track (built on a prior SBIR/STTR Phase I) runs up to $1.75M. On 13 April 2026 the Small Business Innovation and Economic Security Act reauthorized SBIR/STTR government-wide after a lapse, and RIF's own 2026 cycle opened 4 March 2026 <span class=\"chip chip-conf conf-unverified\" data-conf=\"UNVERIFIED\">UNVERIFIED</span><span class=\"conf-extra\">current cycle dates and whether the program is mid-solicitation, confirm before citing</span>. Competitive: over 20 white papers are submitted for every award, roughly a 5% hit rate <span class=\"chip chip-conf conf-unverified\" data-conf=\"UNVERIFIED\">UNVERIFIED</span><span class=\"conf-extra\">hit-rate figure from a secondary source, confirm against USD(A&amp;S) reporting</span>.",
-                  "text": "A cross-service, OSD-level bridge that inserts a small business's technology into an existing acquisition program, run by the Office of Small Business Programs under the Under Secretary of Defense for Acquisition and Sustainment rather than any single service. Individual project awards are capped at $3M with up to 24 months of performance; a Direct-to-Phase-II track (built on a prior SBIR/STTR Phase I) runs up to $1.75M. On 13 April 2026 the Small Business Innovation and Economic Security Act reauthorized SBIR/STTR government-wide after a lapse, and RIF's own 2026 cycle opened 4 March 2026 UNVERIFIED. Competitive: over 20 white papers are submitted for every award, roughly a 5% hit rate UNVERIFIED.",
+                  "raw": "A cross-service, OSD-level bridge that inserts a small business's technology into an existing acquisition program, run by the Office of Small Business Programs under the Under Secretary of Defense for Acquisition and Sustainment rather than any single service. The program has been renamed from Rapid Innovation Fund to Rapid Integrated Scalable Enterprise (RIF-RISE), confirmed via the Office of Small Business Programs' own program page. Individual project awards are capped at $3M with up to 24 months of performance; a Direct-to-Phase-II track (built on a prior SBIR/STTR Phase I) runs up to $1.75M. On 13 April 2026 the Small Business Innovation and Economic Security Act reauthorized SBIR/STTR government-wide after a lapse, and RIF-RISE's 2026 cycle opened 4 March 2026, confirmed against the program's own solicitation postings. Competitive: over 20 white papers are submitted for every award, roughly a 5% hit rate [UNVERIFIED, hit-rate figure from a secondary source, confirm against USD(A&S) reporting].",
+                  "html": "A cross-service, OSD-level bridge that inserts a small business's technology into an existing acquisition program, run by the Office of Small Business Programs under the Under Secretary of Defense for Acquisition and Sustainment rather than any single service. The program has been renamed from Rapid Innovation Fund to Rapid Integrated Scalable Enterprise (RIF-RISE), confirmed via the Office of Small Business Programs' own program page. Individual project awards are capped at $3M with up to 24 months of performance; a Direct-to-Phase-II track (built on a prior SBIR/STTR Phase I) runs up to $1.75M. On 13 April 2026 the Small Business Innovation and Economic Security Act reauthorized SBIR/STTR government-wide after a lapse, and RIF-RISE's 2026 cycle opened 4 March 2026, confirmed against the program's own solicitation postings. Competitive: over 20 white papers are submitted for every award, roughly a 5% hit rate <span class=\"chip chip-conf conf-unverified\" data-conf=\"UNVERIFIED\">UNVERIFIED</span><span class=\"conf-extra\">hit-rate figure from a secondary source, confirm against USD(A&amp;S) reporting</span>.",
+                  "text": "A cross-service, OSD-level bridge that inserts a small business's technology into an existing acquisition program, run by the Office of Small Business Programs under the Under Secretary of Defense for Acquisition and Sustainment rather than any single service. The program has been renamed from Rapid Innovation Fund to Rapid Integrated Scalable Enterprise (RIF-RISE), confirmed via the Office of Small Business Programs' own program page. Individual project awards are capped at $3M with up to 24 months of performance; a Direct-to-Phase-II track (built on a prior SBIR/STTR Phase I) runs up to $1.75M. On 13 April 2026 the Small Business Innovation and Economic Security Act reauthorized SBIR/STTR government-wide after a lapse, and RIF-RISE's 2026 cycle opened 4 March 2026, confirmed against the program's own solicitation postings. Competitive: over 20 white papers are submitted for every award, roughly a 5% hit rate UNVERIFIED.",
                   "confidence": [
-                    "UNVERIFIED",
                     "UNVERIFIED"
                   ]
                 }
@@ -761,12 +760,11 @@
               "blocks": [
                 {
                   "type": "para",
-                  "raw": "An Other Transaction Authority consortium under the Defense Health Agency that funds development of medical countermeasures against chemical, biological, radiological, and nuclear threats: vaccines, therapeutics, diagnostics, and biosurveillance tools. Over $7.8 billion awarded since inception [CUMULATIVE — REFRESH]. Explicitly open to biotech startups and SBIR performers alongside primes and academia, not just traditional defense contractors, and runs regular open requests for prototype proposals rather than a single annual cycle; 2026 requests included mRNA vaccine platforms for biological threat agents, with antibody and emerging-threat therapeutics requests following [UNVERIFIED, exact current open requests change frequently, confirm at medcbrn.org before citing]. This is the closest thing the Biotech and biosecurity sector has to a real non-dilutive-adjacent seed door beyond a DARPA BTO award.",
-                  "html": "An Other Transaction Authority consortium under the Defense Health Agency that funds development of medical countermeasures against chemical, biological, radiological, and nuclear threats: vaccines, therapeutics, diagnostics, and biosurveillance tools. Over $7.8 billion awarded since inception <span class=\"chip chip-conf conf-cumulative-refresh\" data-conf=\"CUMULATIVE — REFRESH\">CUMULATIVE — REFRESH</span>. Explicitly open to biotech startups and SBIR performers alongside primes and academia, not just traditional defense contractors, and runs regular open requests for prototype proposals rather than a single annual cycle; 2026 requests included mRNA vaccine platforms for biological threat agents, with antibody and emerging-threat therapeutics requests following <span class=\"chip chip-conf conf-unverified\" data-conf=\"UNVERIFIED\">UNVERIFIED</span><span class=\"conf-extra\">exact current open requests change frequently, confirm at medcbrn.org before citing</span>. This is the closest thing the Biotech and biosecurity sector has to a real non-dilutive-adjacent seed door beyond a DARPA BTO award.",
-                  "text": "An Other Transaction Authority consortium under the Defense Health Agency that funds development of medical countermeasures against chemical, biological, radiological, and nuclear threats: vaccines, therapeutics, diagnostics, and biosurveillance tools. Over $7.8 billion awarded since inception CUMULATIVE — REFRESH. Explicitly open to biotech startups and SBIR performers alongside primes and academia, not just traditional defense contractors, and runs regular open requests for prototype proposals rather than a single annual cycle; 2026 requests included mRNA vaccine platforms for biological threat agents, with antibody and emerging-threat therapeutics requests following UNVERIFIED. This is the closest thing the Biotech and biosecurity sector has to a real non-dilutive-adjacent seed door beyond a DARPA BTO award.",
+                  "raw": "An Other Transaction Authority consortium under the Defense Health Agency that funds development of medical countermeasures against chemical, biological, radiological, and nuclear threats: vaccines, therapeutics, diagnostics, and biosurveillance tools. Over $7.8 billion awarded since inception [CUMULATIVE — REFRESH]. Explicitly open to biotech startups and SBIR performers alongside primes and academia, not just traditional defense contractors, and runs regular open requests for prototype proposals rather than a single annual cycle; as of this revision the open request for prototype proposals covers mRNA vaccine platforms for biological threat agents, with accelerated-antibody and emerging-threat-therapeutics requests named as next up [confirmed directly at medcbrn.org; by nature this list turns over often, re-check before citing a specific open request to a founder]. This is the closest thing the Biotech and biosecurity sector has to a real non-dilutive-adjacent seed door beyond a DARPA BTO award.",
+                  "html": "An Other Transaction Authority consortium under the Defense Health Agency that funds development of medical countermeasures against chemical, biological, radiological, and nuclear threats: vaccines, therapeutics, diagnostics, and biosurveillance tools. Over $7.8 billion awarded since inception <span class=\"chip chip-conf conf-cumulative-refresh\" data-conf=\"CUMULATIVE — REFRESH\">CUMULATIVE — REFRESH</span>. Explicitly open to biotech startups and SBIR performers alongside primes and academia, not just traditional defense contractors, and runs regular open requests for prototype proposals rather than a single annual cycle; as of this revision the open request for prototype proposals covers mRNA vaccine platforms for biological threat agents, with accelerated-antibody and emerging-threat-therapeutics requests named as next up <span class=\"aside\">[confirmed directly at medcbrn.org; by nature this list turns over often, re-check before citing a specific open request to a founder]</span>. This is the closest thing the Biotech and biosecurity sector has to a real non-dilutive-adjacent seed door beyond a DARPA BTO award.",
+                  "text": "An Other Transaction Authority consortium under the Defense Health Agency that funds development of medical countermeasures against chemical, biological, radiological, and nuclear threats: vaccines, therapeutics, diagnostics, and biosurveillance tools. Over $7.8 billion awarded since inception CUMULATIVE — REFRESH. Explicitly open to biotech startups and SBIR performers alongside primes and academia, not just traditional defense contractors, and runs regular open requests for prototype proposals rather than a single annual cycle; as of this revision the open request for prototype proposals covers mRNA vaccine platforms for biological threat agents, with accelerated-antibody and emerging-threat-therapeutics requests named as next up confirmed directly at medcbrn.org; by nature this list turns over often, re-check before citing a specific open request to a founder. This is the closest thing the Biotech and biosecurity sector has to a real non-dilutive-adjacent seed door beyond a DARPA BTO award.",
                   "confidence": [
-                    "CUMULATIVE — REFRESH",
-                    "UNVERIFIED"
+                    "CUMULATIVE — REFRESH"
                   ]
                 }
               ]
@@ -906,12 +904,11 @@
               "blocks": [
                 {
                   "type": "para",
-                  "raw": "Special Operations Command's commercial-technology engagement hub, run by the nonprofit DEFENSEWERX under a partnership intermediary agreement with USSOCOM. It strips out much of the friction of a traditional base or security posture, giving non-traditional companies room to run rapid prototyping engagements directly with SOF operators. Pathways include direct contracts, Other Transaction agreements, SBIR/STTR, CRADAs, and prize competitions. Cumulative since 2015: 664 projects run through Collaborative Project Orders, and roughly $528.8 million contracted across 1,921 purchase orders and business-to-business agreements [CUMULATIVE — REFRESH]. The open Engage SOF solicitation runs an estimated $500,000 to $5 million per award, with a 31 December 2026 deadline [UNVERIFIED, solicitation terms change frequently, confirm before citing].",
-                  "html": "Special Operations Command's commercial-technology engagement hub, run by the nonprofit DEFENSEWERX under a partnership intermediary agreement with USSOCOM. It strips out much of the friction of a traditional base or security posture, giving non-traditional companies room to run rapid prototyping engagements directly with SOF operators. Pathways include direct contracts, Other Transaction agreements, SBIR/STTR, CRADAs, and prize competitions. Cumulative since 2015: 664 projects run through Collaborative Project Orders, and roughly $528.8 million contracted across 1,921 purchase orders and business-to-business agreements <span class=\"chip chip-conf conf-cumulative-refresh\" data-conf=\"CUMULATIVE — REFRESH\">CUMULATIVE — REFRESH</span>. The open Engage SOF solicitation runs an estimated $500,000 to $5 million per award, with a 31 December 2026 deadline <span class=\"chip chip-conf conf-unverified\" data-conf=\"UNVERIFIED\">UNVERIFIED</span><span class=\"conf-extra\">solicitation terms change frequently, confirm before citing</span>.",
-                  "text": "Special Operations Command's commercial-technology engagement hub, run by the nonprofit DEFENSEWERX under a partnership intermediary agreement with USSOCOM. It strips out much of the friction of a traditional base or security posture, giving non-traditional companies room to run rapid prototyping engagements directly with SOF operators. Pathways include direct contracts, Other Transaction agreements, SBIR/STTR, CRADAs, and prize competitions. Cumulative since 2015: 664 projects run through Collaborative Project Orders, and roughly $528.8 million contracted across 1,921 purchase orders and business-to-business agreements CUMULATIVE — REFRESH. The open Engage SOF solicitation runs an estimated $500,000 to $5 million per award, with a 31 December 2026 deadline UNVERIFIED.",
+                  "raw": "Special Operations Command's commercial-technology engagement hub, run by the nonprofit DEFENSEWERX under a partnership intermediary agreement with USSOCOM. It strips out much of the friction of a traditional base or security posture, giving non-traditional companies room to run rapid prototyping engagements directly with SOF operators. Pathways include direct contracts, Other Transaction agreements, SBIR/STTR, CRADAs, and prize competitions. Cumulative since 2015: 664 projects run through Collaborative Project Orders, and roughly $528.8 million contracted across 1,921 purchase orders and business-to-business agreements [CUMULATIVE — REFRESH]. The open Engage SOF (eSOF) solicitation runs an estimated $500,000 to $5 million per award, with a deadline of 31 December 2026, 22:59 CST, confirmed against USSOCOM's own eSOF submission page as of this revision. eSOF functions as the digital front door for the whole engagement: companies submit against published Capabilities of Interest and matches get prioritized for assessment, experimentation, prototyping, or acquisition. As with any open, standing solicitation, terms can shift; re-check before citing a specific award figure to a founder.",
+                  "html": "Special Operations Command's commercial-technology engagement hub, run by the nonprofit DEFENSEWERX under a partnership intermediary agreement with USSOCOM. It strips out much of the friction of a traditional base or security posture, giving non-traditional companies room to run rapid prototyping engagements directly with SOF operators. Pathways include direct contracts, Other Transaction agreements, SBIR/STTR, CRADAs, and prize competitions. Cumulative since 2015: 664 projects run through Collaborative Project Orders, and roughly $528.8 million contracted across 1,921 purchase orders and business-to-business agreements <span class=\"chip chip-conf conf-cumulative-refresh\" data-conf=\"CUMULATIVE — REFRESH\">CUMULATIVE — REFRESH</span>. The open Engage SOF (eSOF) solicitation runs an estimated $500,000 to $5 million per award, with a deadline of 31 December 2026, 22:59 CST, confirmed against USSOCOM's own eSOF submission page as of this revision. eSOF functions as the digital front door for the whole engagement: companies submit against published Capabilities of Interest and matches get prioritized for assessment, experimentation, prototyping, or acquisition. As with any open, standing solicitation, terms can shift; re-check before citing a specific award figure to a founder.",
+                  "text": "Special Operations Command's commercial-technology engagement hub, run by the nonprofit DEFENSEWERX under a partnership intermediary agreement with USSOCOM. It strips out much of the friction of a traditional base or security posture, giving non-traditional companies room to run rapid prototyping engagements directly with SOF operators. Pathways include direct contracts, Other Transaction agreements, SBIR/STTR, CRADAs, and prize competitions. Cumulative since 2015: 664 projects run through Collaborative Project Orders, and roughly $528.8 million contracted across 1,921 purchase orders and business-to-business agreements CUMULATIVE — REFRESH. The open Engage SOF (eSOF) solicitation runs an estimated $500,000 to $5 million per award, with a deadline of 31 December 2026, 22:59 CST, confirmed against USSOCOM's own eSOF submission page as of this revision. eSOF functions as the digital front door for the whole engagement: companies submit against published Capabilities of Interest and matches get prioritized for assessment, experimentation, prototyping, or acquisition. As with any open, standing solicitation, terms can shift; re-check before citing a specific award figure to a founder.",
                   "confidence": [
-                    "CUMULATIVE — REFRESH",
-                    "UNVERIFIED"
+                    "CUMULATIVE — REFRESH"
                   ]
                 }
               ]
@@ -1068,9 +1065,9 @@
               "blocks": [
                 {
                   "type": "para",
-                  "raw": "DoE's early-stage, non-dilutive energy technology program, the actual seed-stage door DoE offers, distinct from Energy Dominance Financing's scale-credit mandate. Funds technology explicitly \"too early for private capital and outside the scope of conventional DoE programs.\" Award size varies by program; the Vision OPEN 2024 solicitation ran $250K to $10M with a roughly $3M average, and both focused programs (specific technical targets) and open solicitations (any energy technology area) run in parallel, with both accepting applications from startups as well as research institutions [UNVERIFIED, current 2026 solicitation calendar and award ranges not confirmed at this revision]. Not defense-specific, but the clearest non-dilutive door for a critical-minerals or energy-adjacent national security company at seed, a stage the Critical minerals sector otherwise lacks almost entirely.",
-                  "html": "DoE's early-stage, non-dilutive energy technology program, the actual seed-stage door DoE offers, distinct from Energy Dominance Financing's scale-credit mandate. Funds technology explicitly \"too early for private capital and outside the scope of conventional DoE programs.\" Award size varies by program; the Vision OPEN 2024 solicitation ran $250K to $10M with a roughly $3M average, and both focused programs (specific technical targets) and open solicitations (any energy technology area) run in parallel, with both accepting applications from startups as well as research institutions <span class=\"chip chip-conf conf-unverified\" data-conf=\"UNVERIFIED\">UNVERIFIED</span><span class=\"conf-extra\">current 2026 solicitation calendar and award ranges not confirmed at this revision</span>. Not defense-specific, but the clearest non-dilutive door for a critical-minerals or energy-adjacent national security company at seed, a stage the Critical minerals sector otherwise lacks almost entirely.",
-                  "text": "DoE's early-stage, non-dilutive energy technology program, the actual seed-stage door DoE offers, distinct from Energy Dominance Financing's scale-credit mandate. Funds technology explicitly \"too early for private capital and outside the scope of conventional DoE programs.\" Award size varies by program; the Vision OPEN 2024 solicitation ran $250K to $10M with a roughly $3M average, and both focused programs (specific technical targets) and open solicitations (any energy technology area) run in parallel, with both accepting applications from startups as well as research institutions UNVERIFIED. Not defense-specific, but the clearest non-dilutive door for a critical-minerals or energy-adjacent national security company at seed, a stage the Critical minerals sector otherwise lacks almost entirely.",
+                  "raw": "DoE's early-stage, non-dilutive energy technology program, the actual seed-stage door DoE offers, distinct from Energy Dominance Financing's scale-credit mandate. Funds technology explicitly \"too early for private capital and outside the scope of conventional DoE programs.\" Award size varies by program; the Vision OPEN 2024 solicitation ran $250K to $10M with a roughly $3M average, and both focused programs (specific technical targets) and open solicitations (any energy technology area) run in parallel, with both accepting applications from startups as well as research institutions. The confirmed live 2026 solicitation is IGNIITE, aimed at early-career energy innovators: concept papers were due 29 May 2026, awards are capped at $500K, and total program funding runs around $10M, a smaller and more targeted call than a full OPEN round [UNVERIFIED, whether a full OPEN-style solicitation follows IGNIITE later in 2026 or 2027 not confirmed at this revision; OPEN has historically run on a roughly three-year cycle, last held in 2024]. Not defense-specific, but the clearest non-dilutive door for a critical-minerals or energy-adjacent national security company at seed, a stage the Critical minerals sector otherwise lacks almost entirely.",
+                  "html": "DoE's early-stage, non-dilutive energy technology program, the actual seed-stage door DoE offers, distinct from Energy Dominance Financing's scale-credit mandate. Funds technology explicitly \"too early for private capital and outside the scope of conventional DoE programs.\" Award size varies by program; the Vision OPEN 2024 solicitation ran $250K to $10M with a roughly $3M average, and both focused programs (specific technical targets) and open solicitations (any energy technology area) run in parallel, with both accepting applications from startups as well as research institutions. The confirmed live 2026 solicitation is IGNIITE, aimed at early-career energy innovators: concept papers were due 29 May 2026, awards are capped at $500K, and total program funding runs around $10M, a smaller and more targeted call than a full OPEN round <span class=\"chip chip-conf conf-unverified\" data-conf=\"UNVERIFIED\">UNVERIFIED</span><span class=\"conf-extra\">whether a full OPEN-style solicitation follows IGNIITE later in 2026 or 2027 not confirmed at this revision; OPEN has historically run on a roughly three-year cycle, last held in 2024</span>. Not defense-specific, but the clearest non-dilutive door for a critical-minerals or energy-adjacent national security company at seed, a stage the Critical minerals sector otherwise lacks almost entirely.",
+                  "text": "DoE's early-stage, non-dilutive energy technology program, the actual seed-stage door DoE offers, distinct from Energy Dominance Financing's scale-credit mandate. Funds technology explicitly \"too early for private capital and outside the scope of conventional DoE programs.\" Award size varies by program; the Vision OPEN 2024 solicitation ran $250K to $10M with a roughly $3M average, and both focused programs (specific technical targets) and open solicitations (any energy technology area) run in parallel, with both accepting applications from startups as well as research institutions. The confirmed live 2026 solicitation is IGNIITE, aimed at early-career energy innovators: concept papers were due 29 May 2026, awards are capped at $500K, and total program funding runs around $10M, a smaller and more targeted call than a full OPEN round UNVERIFIED. Not defense-specific, but the clearest non-dilutive door for a critical-minerals or energy-adjacent national security company at seed, a stage the Critical minerals sector otherwise lacks almost entirely.",
                   "confidence": [
                     "UNVERIFIED"
                   ]
@@ -1169,9 +1166,9 @@
               "blocks": [
                 {
                   "type": "para",
-                  "raw": "The roughly $50 billion CHIPS for America program at the Department of Commerce, funding domestic semiconductor manufacturing capacity, advanced R&D, and supply-chain resilience. It is the vehicle most often named across this map's sector tabs as \"the giant\" in microelectronics, but it is not a seed-stage door. As of an April 2026 amendment, its main BAA runs two paths: an R&D Project Path (cost-shared research awards) and an Investment Fund Path (commercialization-oriented, structured for equity-style returns), both carrying a $10 million minimum award [UNVERIFIED, current minimum and path structure, confirm before citing]. That floor makes it a program for consortia, major research universities, and established companies, not a small applicant. Separately, the CHIPS Act directs Commerce to capitalize an investment fund, run with the National Semiconductor Technology Center, aimed at startups and startup-academia-industry collaborations, though this fund's current size and activity level were not confirmed in this pass. Microelectronics has almost no clean seed lane, and this entry is a large part of why.",
-                  "html": "The roughly $50 billion CHIPS for America program at the Department of Commerce, funding domestic semiconductor manufacturing capacity, advanced R&amp;D, and supply-chain resilience. It is the vehicle most often named across this map's sector tabs as \"the giant\" in microelectronics, but it is not a seed-stage door. As of an April 2026 amendment, its main BAA runs two paths: an R&amp;D Project Path (cost-shared research awards) and an Investment Fund Path (commercialization-oriented, structured for equity-style returns), both carrying a $10 million minimum award <span class=\"chip chip-conf conf-unverified\" data-conf=\"UNVERIFIED\">UNVERIFIED</span><span class=\"conf-extra\">current minimum and path structure, confirm before citing</span>. That floor makes it a program for consortia, major research universities, and established companies, not a small applicant. Separately, the CHIPS Act directs Commerce to capitalize an investment fund, run with the National Semiconductor Technology Center, aimed at startups and startup-academia-industry collaborations, though this fund's current size and activity level were not confirmed in this pass. Microelectronics has almost no clean seed lane, and this entry is a large part of why.",
-                  "text": "The roughly $50 billion CHIPS for America program at the Department of Commerce, funding domestic semiconductor manufacturing capacity, advanced R&D, and supply-chain resilience. It is the vehicle most often named across this map's sector tabs as \"the giant\" in microelectronics, but it is not a seed-stage door. As of an April 2026 amendment, its main BAA runs two paths: an R&D Project Path (cost-shared research awards) and an Investment Fund Path (commercialization-oriented, structured for equity-style returns), both carrying a $10 million minimum award UNVERIFIED. That floor makes it a program for consortia, major research universities, and established companies, not a small applicant. Separately, the CHIPS Act directs Commerce to capitalize an investment fund, run with the National Semiconductor Technology Center, aimed at startups and startup-academia-industry collaborations, though this fund's current size and activity level were not confirmed in this pass. Microelectronics has almost no clean seed lane, and this entry is a large part of why.",
+                  "raw": "The roughly $50 billion CHIPS for America program at the Department of Commerce, funding domestic semiconductor manufacturing capacity, advanced R&D, and supply-chain resilience. It is the vehicle most often named across this map's sector tabs as \"the giant\" in microelectronics, but it is not a seed-stage door. As of an April 2026 amendment, confirmed against the CHIPS Research and Development Office's own restructuring, its main BAA runs two paths: an R&D Project Path (cost-shared research awards) and an Investment Fund Path (commercialization-oriented, structured for equity-style returns), both carrying a $10 million minimum award, and both accepting applications on a rolling basis through 30 September 2029. That floor makes it a program for consortia, major research universities, and established companies, not a small applicant. Separately, the CHIPS Act directs Commerce to capitalize an investment fund, run with the National Semiconductor Technology Center, aimed at startups and startup-academia-industry collaborations. The CHIPS Research and Development Office's total direct appropriation is $11 billion, split across four programs: $5 billion to the NSTC, $3 billion to a NIST Manufacturing USA institute, $2 billion to NIST's own CHIPS R&D activity, and $1 billion to the National Advanced Packaging Manufacturing Program [UNVERIFIED, the startup-focused investment fund's own carve-out within the NSTC's $5 billion, separate from the NSTC's broader R&D mission, not isolated as its own figure at this revision]. Microelectronics has almost no clean seed lane, and this entry is a large part of why.",
+                  "html": "The roughly $50 billion CHIPS for America program at the Department of Commerce, funding domestic semiconductor manufacturing capacity, advanced R&amp;D, and supply-chain resilience. It is the vehicle most often named across this map's sector tabs as \"the giant\" in microelectronics, but it is not a seed-stage door. As of an April 2026 amendment, confirmed against the CHIPS Research and Development Office's own restructuring, its main BAA runs two paths: an R&amp;D Project Path (cost-shared research awards) and an Investment Fund Path (commercialization-oriented, structured for equity-style returns), both carrying a $10 million minimum award, and both accepting applications on a rolling basis through 30 September 2029. That floor makes it a program for consortia, major research universities, and established companies, not a small applicant. Separately, the CHIPS Act directs Commerce to capitalize an investment fund, run with the National Semiconductor Technology Center, aimed at startups and startup-academia-industry collaborations. The CHIPS Research and Development Office's total direct appropriation is $11 billion, split across four programs: $5 billion to the NSTC, $3 billion to a NIST Manufacturing USA institute, $2 billion to NIST's own CHIPS R&amp;D activity, and $1 billion to the National Advanced Packaging Manufacturing Program <span class=\"chip chip-conf conf-unverified\" data-conf=\"UNVERIFIED\">UNVERIFIED</span><span class=\"conf-extra\">the startup-focused investment fund's own carve-out within the NSTC's $5 billion, separate from the NSTC's broader R&amp;D mission, not isolated as its own figure at this revision</span>. Microelectronics has almost no clean seed lane, and this entry is a large part of why.",
+                  "text": "The roughly $50 billion CHIPS for America program at the Department of Commerce, funding domestic semiconductor manufacturing capacity, advanced R&D, and supply-chain resilience. It is the vehicle most often named across this map's sector tabs as \"the giant\" in microelectronics, but it is not a seed-stage door. As of an April 2026 amendment, confirmed against the CHIPS Research and Development Office's own restructuring, its main BAA runs two paths: an R&D Project Path (cost-shared research awards) and an Investment Fund Path (commercialization-oriented, structured for equity-style returns), both carrying a $10 million minimum award, and both accepting applications on a rolling basis through 30 September 2029. That floor makes it a program for consortia, major research universities, and established companies, not a small applicant. Separately, the CHIPS Act directs Commerce to capitalize an investment fund, run with the National Semiconductor Technology Center, aimed at startups and startup-academia-industry collaborations. The CHIPS Research and Development Office's total direct appropriation is $11 billion, split across four programs: $5 billion to the NSTC, $3 billion to a NIST Manufacturing USA institute, $2 billion to NIST's own CHIPS R&D activity, and $1 billion to the National Advanced Packaging Manufacturing Program UNVERIFIED. Microelectronics has almost no clean seed lane, and this entry is a large part of why.",
                   "confidence": [
                     "UNVERIFIED"
                   ]
@@ -1290,20 +1287,17 @@
               "blocks": [
                 {
                   "type": "para",
-                  "raw": "The advanced-capabilities pillar of the US-UK-Australia security pact, covering undersea capabilities, quantum technology, artificial intelligence, autonomy, advanced cyber, hypersonics, and electronic warfare, a far wider technology set than maritime alone. Pillar II is primarily an export-control and technology-sharing reform, not a funding program: a 2025 ITAR exemption lets the three countries trade controlled defense articles and technical data without a license in most cases, though an Excluded Technology List still requires one for the most sensitive items [UNVERIFIED, current scope of the Excluded Technology List not confirmed at this revision].",
-                  "html": "The advanced-capabilities pillar of the US-UK-Australia security pact, covering undersea capabilities, quantum technology, artificial intelligence, autonomy, advanced cyber, hypersonics, and electronic warfare, a far wider technology set than maritime alone. Pillar II is primarily an export-control and technology-sharing reform, not a funding program: a 2025 ITAR exemption lets the three countries trade controlled defense articles and technical data without a license in most cases, though an Excluded Technology List still requires one for the most sensitive items <span class=\"chip chip-conf conf-unverified\" data-conf=\"UNVERIFIED\">UNVERIFIED</span><span class=\"conf-extra\">current scope of the Excluded Technology List not confirmed at this revision</span>.",
-                  "text": "The advanced-capabilities pillar of the US-UK-Australia security pact, covering undersea capabilities, quantum technology, artificial intelligence, autonomy, advanced cyber, hypersonics, and electronic warfare, a far wider technology set than maritime alone. Pillar II is primarily an export-control and technology-sharing reform, not a funding program: a 2025 ITAR exemption lets the three countries trade controlled defense articles and technical data without a license in most cases, though an Excluded Technology List still requires one for the most sensitive items UNVERIFIED.",
-                  "confidence": [
-                    "UNVERIFIED"
-                  ]
+                  "raw": "The advanced-capabilities pillar of the US-UK-Australia security pact, covering undersea capabilities, quantum technology, artificial intelligence, autonomy, advanced cyber, hypersonics, and electronic warfare, a far wider technology set than maritime alone. Pillar II is primarily an export-control and technology-sharing reform, not a funding program: a 2025 ITAR exemption lets the three countries trade controlled defense articles and technical data without a license in most cases, though an Excluded Technology List still requires one for the most sensitive items. That list is broader than industry expected going in, broad enough that AUKUS defense ministers used their May 2026 meeting to commit publicly to narrowing it, but as of this revision no narrowed list has actually been published [confirmed direction of travel; the list's current line-by-line scope itself remains undisclosed].",
+                  "html": "The advanced-capabilities pillar of the US-UK-Australia security pact, covering undersea capabilities, quantum technology, artificial intelligence, autonomy, advanced cyber, hypersonics, and electronic warfare, a far wider technology set than maritime alone. Pillar II is primarily an export-control and technology-sharing reform, not a funding program: a 2025 ITAR exemption lets the three countries trade controlled defense articles and technical data without a license in most cases, though an Excluded Technology List still requires one for the most sensitive items. That list is broader than industry expected going in, broad enough that AUKUS defense ministers used their May 2026 meeting to commit publicly to narrowing it, but as of this revision no narrowed list has actually been published <span class=\"aside\">[confirmed direction of travel; the list's current line-by-line scope itself remains undisclosed]</span>.",
+                  "text": "The advanced-capabilities pillar of the US-UK-Australia security pact, covering undersea capabilities, quantum technology, artificial intelligence, autonomy, advanced cyber, hypersonics, and electronic warfare, a far wider technology set than maritime alone. Pillar II is primarily an export-control and technology-sharing reform, not a funding program: a 2025 ITAR exemption lets the three countries trade controlled defense articles and technical data without a license in most cases, though an Excluded Technology List still requires one for the most sensitive items. That list is broader than industry expected going in, broad enough that AUKUS defense ministers used their May 2026 meeting to commit publicly to narrowing it, but as of this revision no narrowed list has actually been published confirmed direction of travel; the list's current line-by-line scope itself remains undisclosed.",
+                  "confidence": []
                 },
                 {
                   "type": "para",
-                  "raw": "The company-facing money runs through an AUKUS Innovation Challenge series, run jointly by Australia's Advanced Strategic Capabilities Accelerator (ASCA), the UK Defence Innovation Organisation, and DIU on the US side, rather than through a dedicated AUKUS budget line. The 2025 Maritime Innovation Challenge awarded $6.2M to Australian companies and £3M to UK companies; both cohorts read as domestic awards to each country's own companies rather than an open trilateral pool [UNVERIFIED, whether a US company can win through the US leg via DIU, and on what terms, is not confirmed at this revision]. AUKUS governments have also said outright that government money alone will not be enough to fund Pillar II's capabilities, and are consulting with private capital on a multi-sovereign public-private innovation fund that does not yet exist [UNVERIFIED, this fund is a proposal, not a live vehicle, as of this revision].",
-                  "html": "The company-facing money runs through an AUKUS Innovation Challenge series, run jointly by Australia's Advanced Strategic Capabilities Accelerator (ASCA), the UK Defence Innovation Organisation, and DIU on the US side, rather than through a dedicated AUKUS budget line. The 2025 Maritime Innovation Challenge awarded $6.2M to Australian companies and £3M to UK companies; both cohorts read as domestic awards to each country's own companies rather than an open trilateral pool <span class=\"chip chip-conf conf-unverified\" data-conf=\"UNVERIFIED\">UNVERIFIED</span><span class=\"conf-extra\">whether a US company can win through the US leg via DIU, and on what terms, is not confirmed at this revision</span>. AUKUS governments have also said outright that government money alone will not be enough to fund Pillar II's capabilities, and are consulting with private capital on a multi-sovereign public-private innovation fund that does not yet exist <span class=\"chip chip-conf conf-unverified\" data-conf=\"UNVERIFIED\">UNVERIFIED</span><span class=\"conf-extra\">this fund is a proposal, not a live vehicle, as of this revision</span>.",
-                  "text": "The company-facing money runs through an AUKUS Innovation Challenge series, run jointly by Australia's Advanced Strategic Capabilities Accelerator (ASCA), the UK Defence Innovation Organisation, and DIU on the US side, rather than through a dedicated AUKUS budget line. The 2025 Maritime Innovation Challenge awarded $6.2M to Australian companies and £3M to UK companies; both cohorts read as domestic awards to each country's own companies rather than an open trilateral pool UNVERIFIED. AUKUS governments have also said outright that government money alone will not be enough to fund Pillar II's capabilities, and are consulting with private capital on a multi-sovereign public-private innovation fund that does not yet exist UNVERIFIED.",
+                  "raw": "The company-facing money runs through an AUKUS Innovation Challenge series, run jointly by Australia's Advanced Strategic Capabilities Accelerator (ASCA), the UK Defence Innovation Organisation, and DIU on the US side, rather than through a dedicated AUKUS budget line. The 2025 Maritime Innovation Challenge's Stage 1 was open to entrants from any nation, and a US entrant did win through the DIU leg: Florida Atlantic University took a $1M award for an underwater-communications system, alongside the $6.2M paid to Australian companies and further UK awards [confirmed; note FAU is a university, not a startup, so this proves the US leg pays out but not yet that a US company specifically has won through it]. A follow-on challenge focused on undersea communications and autonomy expects to award roughly $9M across the full trilateral alliance for three to 10 proposals ahead of a late-2026 demonstration exercise. AUKUS governments have also said outright that government money alone will not be enough to fund Pillar II's capabilities, and are consulting with private capital on a multi-sovereign public-private innovation fund that does not yet exist [UNVERIFIED, this fund is a proposal, not a live vehicle, as of this revision].",
+                  "html": "The company-facing money runs through an AUKUS Innovation Challenge series, run jointly by Australia's Advanced Strategic Capabilities Accelerator (ASCA), the UK Defence Innovation Organisation, and DIU on the US side, rather than through a dedicated AUKUS budget line. The 2025 Maritime Innovation Challenge's Stage 1 was open to entrants from any nation, and a US entrant did win through the DIU leg: Florida Atlantic University took a $1M award for an underwater-communications system, alongside the $6.2M paid to Australian companies and further UK awards <span class=\"aside\">[confirmed; note FAU is a university, not a startup, so this proves the US leg pays out but not yet that a US company specifically has won through it]</span>. A follow-on challenge focused on undersea communications and autonomy expects to award roughly $9M across the full trilateral alliance for three to 10 proposals ahead of a late-2026 demonstration exercise. AUKUS governments have also said outright that government money alone will not be enough to fund Pillar II's capabilities, and are consulting with private capital on a multi-sovereign public-private innovation fund that does not yet exist <span class=\"chip chip-conf conf-unverified\" data-conf=\"UNVERIFIED\">UNVERIFIED</span><span class=\"conf-extra\">this fund is a proposal, not a live vehicle, as of this revision</span>.",
+                  "text": "The company-facing money runs through an AUKUS Innovation Challenge series, run jointly by Australia's Advanced Strategic Capabilities Accelerator (ASCA), the UK Defence Innovation Organisation, and DIU on the US side, rather than through a dedicated AUKUS budget line. The 2025 Maritime Innovation Challenge's Stage 1 was open to entrants from any nation, and a US entrant did win through the DIU leg: Florida Atlantic University took a $1M award for an underwater-communications system, alongside the $6.2M paid to Australian companies and further UK awards confirmed; note FAU is a university, not a startup, so this proves the US leg pays out but not yet that a US company specifically has won through it. A follow-on challenge focused on undersea communications and autonomy expects to award roughly $9M across the full trilateral alliance for three to 10 proposals ahead of a late-2026 demonstration exercise. AUKUS governments have also said outright that government money alone will not be enough to fund Pillar II's capabilities, and are consulting with private capital on a multi-sovereign public-private innovation fund that does not yet exist UNVERIFIED.",
                   "confidence": [
-                    "UNVERIFIED",
                     "UNVERIFIED"
                   ]
                 },
@@ -1680,9 +1674,9 @@
         },
         {
           "type": "para",
-          "raw": "National Security Commission on Emerging Biotechnology. A congressionally chartered commission that published its final report and action plan, \"Charting the Future of Biotechnology: An Action Plan for American Security and Prosperity,\" on 8 April 2025. The report sets out 49 recommendations across six pillars, including standing up a National Biotechnology Coordination Office inside the Executive Office of the President, mobilizing private capital to scale US biomanufacturing, and tightening outbound-investment rules to keep US capital out of Chinese biotechnology development [UNVERIFIED, which recommendations have since been enacted is not confirmed at this revision]. The policy body driving the biotech authorities in section 4.6.",
-          "html": "National Security Commission on Emerging Biotechnology. A congressionally chartered commission that published its final report and action plan, \"Charting the Future of Biotechnology: An Action Plan for American Security and Prosperity,\" on 8 April 2025. The report sets out 49 recommendations across six pillars, including standing up a National Biotechnology Coordination Office inside the Executive Office of the President, mobilizing private capital to scale US biomanufacturing, and tightening outbound-investment rules to keep US capital out of Chinese biotechnology development <span class=\"chip chip-conf conf-unverified\" data-conf=\"UNVERIFIED\">UNVERIFIED</span><span class=\"conf-extra\">which recommendations have since been enacted is not confirmed at this revision</span>. The policy body driving the biotech authorities in section 4.6.",
-          "text": "National Security Commission on Emerging Biotechnology. A congressionally chartered commission that published its final report and action plan, \"Charting the Future of Biotechnology: An Action Plan for American Security and Prosperity,\" on 8 April 2025. The report sets out 49 recommendations across six pillars, including standing up a National Biotechnology Coordination Office inside the Executive Office of the President, mobilizing private capital to scale US biomanufacturing, and tightening outbound-investment rules to keep US capital out of Chinese biotechnology development UNVERIFIED. The policy body driving the biotech authorities in section 4.6.",
+          "raw": "National Security Commission on Emerging Biotechnology. A congressionally chartered commission that published its final report and action plan, \"Charting the Future of Biotechnology: An Action Plan for American Security and Prosperity,\" on 8 April 2025. The report sets out 49 recommendations across six pillars, including standing up a National Biotechnology Coordination Office inside the Executive Office of the President, mobilizing private capital to scale US biomanufacturing, and tightening outbound-investment rules to keep US capital out of Chinese biotechnology development. Enactment is now tracked across two NDAAs: the FY2025 NDAA already carried an earlier tranche of the Commission's recommendations, and the FY2026 NDAA, signed 18 December 2025, enacted the BIOSECURE Act (restricting federal contracting with named Chinese biotechnology companies) plus further authorities and resources for DoW biotechnology tools and training [UNVERIFIED, which specific line items in the FY2026 NDAA trace back to which of the Commission's 49 recommendations, versus BIOSECURE running on its own separate legislative track, not confirmed at this revision]. The policy body driving the biotech authorities in section 4.6.",
+          "html": "National Security Commission on Emerging Biotechnology. A congressionally chartered commission that published its final report and action plan, \"Charting the Future of Biotechnology: An Action Plan for American Security and Prosperity,\" on 8 April 2025. The report sets out 49 recommendations across six pillars, including standing up a National Biotechnology Coordination Office inside the Executive Office of the President, mobilizing private capital to scale US biomanufacturing, and tightening outbound-investment rules to keep US capital out of Chinese biotechnology development. Enactment is now tracked across two NDAAs: the FY2025 NDAA already carried an earlier tranche of the Commission's recommendations, and the FY2026 NDAA, signed 18 December 2025, enacted the BIOSECURE Act (restricting federal contracting with named Chinese biotechnology companies) plus further authorities and resources for DoW biotechnology tools and training <span class=\"chip chip-conf conf-unverified\" data-conf=\"UNVERIFIED\">UNVERIFIED</span><span class=\"conf-extra\">which specific line items in the FY2026 NDAA trace back to which of the Commission's 49 recommendations, versus BIOSECURE running on its own separate legislative track, not confirmed at this revision</span>. The policy body driving the biotech authorities in section 4.6.",
+          "text": "National Security Commission on Emerging Biotechnology. A congressionally chartered commission that published its final report and action plan, \"Charting the Future of Biotechnology: An Action Plan for American Security and Prosperity,\" on 8 April 2025. The report sets out 49 recommendations across six pillars, including standing up a National Biotechnology Coordination Office inside the Executive Office of the President, mobilizing private capital to scale US biomanufacturing, and tightening outbound-investment rules to keep US capital out of Chinese biotechnology development. Enactment is now tracked across two NDAAs: the FY2025 NDAA already carried an earlier tranche of the Commission's recommendations, and the FY2026 NDAA, signed 18 December 2025, enacted the BIOSECURE Act (restricting federal contracting with named Chinese biotechnology companies) plus further authorities and resources for DoW biotechnology tools and training UNVERIFIED. The policy body driving the biotech authorities in section 4.6.",
           "confidence": [
             "UNVERIFIED"
           ]
@@ -1809,9 +1803,16 @@
       "intro": [
         {
           "type": "para",
-          "raw": "What this map does not yet nail down, stated as gaps rather than filled.",
-          "html": "What this map does not yet nail down, stated as gaps rather than filled.",
-          "text": "What this map does not yet nail down, stated as gaps rather than filled.",
+          "raw": "What this map does not yet nail down, stated as gaps rather than filled. This list is current as of this revision; resolved items are removed rather than kept as a change log, so their absence here means they were checked and closed, not that they were never a concern.",
+          "html": "What this map does not yet nail down, stated as gaps rather than filled. This list is current as of this revision; resolved items are removed rather than kept as a change log, so their absence here means they were checked and closed, not that they were never a concern.",
+          "text": "What this map does not yet nail down, stated as gaps rather than filled. This list is current as of this revision; resolved items are removed rather than kept as a change log, so their absence here means they were checked and closed, not that they were never a concern.",
+          "confidence": []
+        },
+        {
+          "type": "para",
+          "raw": "**Department of War core vehicles**",
+          "html": "<strong>Department of War core vehicles</strong>",
+          "text": "Department of War core vehicles",
           "confidence": []
         },
         {
@@ -1819,94 +1820,143 @@
           "ordered": false,
           "items": [
             {
-              "html": "OSC covered-category count: partially reconciled this revision. 31 is the FY2024 NDAA's own statutory count; a partial list of those categories now appears in the OSC entry (3.1), sourced from a secondary summary rather than the statute or OSC's own Investment Strategy directly, so the full 31-item list still needs a primary-source check. The 34 figure appears to describe the pilot program specifically rather than the full statutory authority, which would make the two numbers non-contradictory (describing different things) rather than in conflict, but that reading is not confirmed either.",
+              "html": "OSC's full 31-category list is assembled from a partial secondary source, not the statute or OSC's own Investment Strategy directly; the complete list still needs a primary-source pull. The competing 34 figure most likely describes the pilot program specifically rather than the full statutory authority, a different scope rather than a contradiction, but that reading itself is unconfirmed.",
               "confidence": []
             },
             {
-              "html": "OSC equity authority is pending in the FY2027 National Defense Authorization Act and not enacted. Every reference to OSC equity carries that marker.",
+              "html": "OSC's equity authority is pending in the FY2027 National Defense Authorization Act and not enacted. Every reference to OSC equity carries that marker.",
               "confidence": []
             },
             {
-              "html": "EDU structure and mandate are still forming and thinly documented.",
+              "html": "EDU's structure and mandate are still forming and thinly documented.",
               "confidence": []
             },
             {
-              "html": "NSIC leadership (Tex Schenkkan): a March 2026 NSIC document still names him, downgraded from STALE to UNVERIFIED this revision. Still worth a direct nsic.mil check before citing to a founder.",
+              "html": "DHS SVIP's award ceiling is confirmed at up to $2M over 24 months, but the current per-phase breakdown within that structure is not confirmed against dhs.gov directly.",
               "confidence": []
             },
             {
-              "html": "DHS SVIP award ceiling and phase structure: updated this revision to up to $2M over 24 months, a wider figure than the previously cited ~$800K, but the current per-phase breakdown is still not confirmed against dhs.gov directly. Two adjacent DHS S&amp;T programs (Transition to Practice, the Homeland Security Startup Studio with FedTech) were added as a mention within the same entry; neither is a capital door.",
+              "html": "The DARPA Commercial Strategy Office's office-wide scorecard is cumulative since 2018 and needs a refresh; a separate, narrower figure for the Embedded Entrepreneur Initiative specifically (since 2022) sits alongside it, and the two measure different populations over different windows, so don't add them together.",
               "confidence": []
             },
             {
-              "html": "The DARPA Commercial Strategy Office scorecard is cumulative since 2018 and should be refreshed before any external use. A narrower, more recent figure specific to the Embedded Entrepreneur Initiative (since 2022) was added alongside it this revision; the two figures measure different populations over different windows and should not be added together or treated as the same claim.",
+              "html": "National Defense Stockpile: the exact division of labor between direct DLA purchases and the US SIIE, LLC special-purpose-vehicle structure used on the largest recent deals is not confirmed.",
               "confidence": []
             },
             {
-              "html": "DoE Energy Dominance Financing: current lending posture confirmed and written up this revision, with several large 2026 deals (Southern Company, Westinghouse, American Electric Power) and a simultaneous unwind of prior-administration obligations. Deal terms and closing status should still be reconfirmed before external use given how fast this program is moving.",
+              "html": "NextFlex's REARM special call: award size has now been searched for directly twice across two revisions and still isn't publicly posted; nextflex.us is the place to check before citing a figure.",
               "confidence": []
             },
             {
-              "html": "NSIN was added as an adjacent, non-capital mention within the DIU entry (3.1): talent and deal-flow programs (Hacking for Defense, X-Force Fellowship, Defense Innovation Summer Fellowship), not a funding vehicle. No standalone entry.",
+              "html": "RIF-RISE's roughly 5% hit rate comes from a secondary source, not USD(A&amp;S) reporting directly.",
               "confidence": []
             },
             {
-              "html": "NavalX's Tech Bridge count was updated to 18 sites (from \"more than a dozen\"), with a partial site list; the full 18-site list should be confirmed at navalx.navy.mil before citing. AAL was confirmed still operating under T2COM as of this revision via an April-May 2026 Fort Hood experimentation event; a separate, unrelated T2COM leadership-change story surfaced in the same research pass and was deliberately left out of this map as irrelevant to capital-vehicle analysis and involving a named individual's personnel status rather than program structure.",
+              "html": "MCWL: the Marine Innovation Unit's relationship to MCWL, and whether it does any company-facing funding itself, is unconfirmed.",
               "confidence": []
-            },
-            {
-              "html": "Navy's $30M SBIR/STTR broad agency announcement, SOFWERX's solicitation deadline, and the four coordination bodies' current rosters were not re-checked this revision. Still open.",
-              "confidence": []
-            },
-            {
-              "html": "This map deprioritises SBIR and STTR by design. Army, Navy, and SOCOM service on-ramps got a deeper pass in this revision (the five Department of War entries added under 3.1 after Economic Defense Unit); Air Force, Space Force, and civil-agency SBIR/STTR are still named only as an on-ramp, not inventoried in full. The Missile Defense Agency was checked separately and its SBIR/STTR program does not appear distinct enough from the generic \"service SBIR/STTR\" bucket to warrant its own entry; it follows the standard DoD-wide release cadence with no MDA-specific award structure found.",
-              "confidence": []
-            },
-            {
-              "html": "The five entries added to 3.1 covering Army, Navy, and SOCOM service on-ramps (Army Applications Laboratory and xTech, NavalX and the Tech Bridge network, Office of Naval Research SBIR/STTR, SOFWERX, and Marine Corps Warfighting Laboratory) were researched separately from the rest of this document and carry a heavier <span class=\"chip chip-conf conf-unverified\" data-conf=\"UNVERIFIED\">UNVERIFIED</span> load as a result. Confirm current award sizes and program status against primary .mil sources before citing any figure in that block externally.",
-              "confidence": [
-                "UNVERIFIED"
-              ]
-            },
-            {
-              "html": "Section 5's coverage of the National Security Capital Forum, the National Energy Dominance Council, the Minerals Security Partnership Finance Network, and the National Security Commission on Emerging Biotechnology was researched the same way as the service entries above (live search, not the original content package) and carries the same heavier <span class=\"chip chip-conf conf-unverified\" data-conf=\"UNVERIFIED\">UNVERIFIED</span> load. Membership rosters, meeting cadence, and which biotech-commission recommendations have been enacted all need a primary-source check before external use.",
-              "confidence": [
-                "UNVERIFIED"
-              ]
-            },
-            {
-              "html": "Software, AI and autonomy, and cyber were folded into a single sector tab in this revision. The merge changes which vehicles appear lit on that tab (NSF America's Seed Fund, DHS SVIP, and NATO DIANA now show as non-dilutive doors there); the underlying source prose for each of the three original sub-sectors was preserved, not rewritten, and only the tab grouping and the non-dilutive read changed.",
-              "confidence": []
-            },
-            {
-              "html": "The sector pathway grid now applies two rules beyond literal name-matching in each sector's own paragraph. First, Hardware's stated rule that \"every physical-product sector inherits this spine\" is applied to Space and Marine for all six spine vehicles (NSIC, DIU, AFVentures, NATO DIANA, OSC, DPA Title III), even on the sectors whose own write-up does not re-name every one of them. Second, EXIM and NSF are lit on sectors named in their own directory entries (EXIM's CTEP: AI, biotech, semiconductors; NSF: AI, semiconductors, robotics) rather than only where a sector's own paragraph happens to cite them. Both rules are logged here because they are structural judgment calls, not literal transcription, even though every vehicle placed this way is grounded in that vehicle's own stated scope.",
-              "confidence": []
-            },
-            {
-              "html": "AUKUS Pillar II is new to this revision (3.5) and is thinly documented on purpose: its US-side company-facing money runs through DIU's participation in a jointly-run Innovation Challenge series rather than a dedicated AUKUS budget, the 2025 challenge round paid Australian and UK companies rather than an open trilateral pool, and a proposed multi-sovereign private-capital fund does not yet exist. Confirm current US-company eligibility before citing this as a reachable door.",
-              "confidence": []
-            },
-            {
-              "html": "Three more federal vehicles were added this revision: the Rapid Innovation Fund (3.1), the Medical CBRN Defense Consortium (3.1), and ARPA-E (3.3). All three were researched via live search, carry the same heavier <span class=\"chip chip-conf conf-unverified\" data-conf=\"UNVERIFIED\">UNVERIFIED</span> load as the other search-derived blocks above, and should be checked against USD(A&amp;S), medcbrn.org, and arpa-e-foa.energy.gov respectively before external use. MCDC in particular is now the primary non-dilutive-adjacent citation for the Biotech and biosecurity sector; confirm its current open requests for prototype proposals before naming a specific one to a founder.",
-              "confidence": [
-                "UNVERIFIED"
-              ]
-            },
-            {
-              "html": "Three more vehicles were added on a second pass through Microelectronics and Critical minerals specifically: the National Defense Stockpile (3.1), Commerce CHIPS Program Office (3.4, resolving a token that previously rendered unmapped in the matrix), and NextFlex and the Manufacturing USA network (3.1). NextFlex's REARM award size was searched for directly and not found; that entry says so rather than guessing a figure. Commerce CHIPS' $10 million BAA minimum is the clearest documented reason Microelectronics has almost no seed lane, and should be re-confirmed if the program's structure changes again.",
-              "confidence": []
-            },
-            {
-              "html": "Two of the four originally-unmapped matrix tokens are now resolved (Commerce CHIPS, and MCDC/RIF/ARPA-E filled in cells that were previously generic). DARPA BTO, service SBIR/STTR, and direct DoW stakes remain deliberately unmapped: DARPA BTO is a different DARPA office than the one with a directory entry, service SBIR/STTR is intentionally generic per this map's SBIR/STTR scope decision, and direct DoW stakes describes a practice (section 6) rather than a single named vehicle.",
-              "confidence": []
-            },
-            {
-              "html": "State and regional programs (section 12) grew again this revision, from five entries to fourteen: California, Connecticut, Florida, Georgia, Michigan, Ohio, Virginia, and Washington were added to the existing Illinois, Massachusetts, New York, Texas, and Utah entries, and Maine was added as the ninth new entry. The section's scope also widened partway through this research: earlier passes looked for defense-specific state programs only; this pass widened to state-run technology and innovation capital generally, which is why California and Florida (checked earlier and passed over for lacking a defense-specific match) now have entries built on their general SSBCI equity programs instead. That same broadened lens was not retroactively re-applied to every previously-skipped state; it only reached the states actually searched this revision. It remains explicitly out of scope for the rest of the map's analytical apparatus: none of its entries feed the capital map matrix or the sector pathway grid, and this is a representative sample rather than a 50-state inventory, a scope choice stated directly in the section's own introduction now rather than left implicit. Texas was re-checked specifically for an equity vehicle beyond SEARF and none was found; its SSBCI allocation runs entirely through credit programs, not equity. Every entry in this section carries the same heavier <span class=\"chip chip-conf conf-unverified\" data-conf=\"UNVERIFIED\">UNVERIFIED</span> load as the rest of this revision's search-derived material.",
-              "confidence": [
-                "UNVERIFIED"
-              ]
             }
           ]
+        },
+        {
+          "type": "para",
+          "raw": "**Service on-ramps and allied doors**",
+          "html": "<strong>Service on-ramps and allied doors</strong>",
+          "text": "Service on-ramps and allied doors",
+          "confidence": []
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            {
+              "html": "NavalX's Tech Bridge count is confirmed at 18 sites, but the full 18-site list is still partial; confirm the complete roster at navalx.navy.mil before citing it.",
+              "confidence": []
+            },
+            {
+              "html": "Navy's $30M SBIR/STTR broad-agency-announcement program: confirmed to exist through a Department of the Navy release, but its exact current name and solicitation status weren't pinned down against a live BAA this revision.",
+              "confidence": []
+            },
+            {
+              "html": "ARPA-E: the live 2026 solicitation (IGNIITE, capped at $500K, concept papers due 29 May 2026) is confirmed, but whether a full OPEN-style solicitation follows later in 2026 or in 2027 is not.",
+              "confidence": []
+            },
+            {
+              "html": "Commerce CHIPS: the startup-focused National Semiconductor Technology Center investment fund's own dollar carve-out, separate from the NSTC's $5 billion broader R&amp;D mission, is still not isolated as its own figure.",
+              "confidence": []
+            },
+            {
+              "html": "AUKUS Pillar II: the Excluded Technology List's actual current scope remains undisclosed even though AUKUS defense ministers publicly committed to narrowing it in May 2026. A US entity has now won through the DIU leg of the Innovation Challenge (Florida Atlantic University, $1M, Maritime Innovation Challenge), which confirms the pathway pays out, but FAU is a university, not a startup, so whether a US company specifically can win through it, and on what terms, is still unconfirmed. The proposed multi-sovereign private-capital fund remains a proposal, not a live vehicle.",
+              "confidence": []
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "raw": "**Coordination bodies (section 5)**",
+          "html": "<strong>Coordination bodies (section 5)</strong>",
+          "text": "Coordination bodies (section 5)",
+          "confidence": []
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            {
+              "html": "National Security Capital Forum: meeting cadence and concrete outputs to date are not confirmed.",
+              "confidence": []
+            },
+            {
+              "html": "National Energy Dominance Council: membership runs to at least 19 officials by executive order, but the full current roster beyond the named chair, vice-chair, and a few named members is not confirmed.",
+              "confidence": []
+            },
+            {
+              "html": "Minerals Security Partnership Finance Network: the cited $600M potential Dubbo rare-earths debt package's deal status and final terms are not confirmed.",
+              "confidence": []
+            },
+            {
+              "html": "National Security Commission on Emerging Biotechnology: enactment is now tracked across the FY2025 and FY2026 NDAAs, the latter carrying the BIOSECURE Act, but which specific FY2026 line items trace back to which of the Commission's 49 recommendations, versus running on a separate legislative track entirely, is not confirmed.",
+              "confidence": []
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "raw": "**SBIR/STTR scope** This map deprioritises SBIR and STTR by design. Army, Navy, and SOCOM service on-ramps got a deeper pass across two revisions; Air Force, Space Force, and civil-agency SBIR/STTR are still named only as an on-ramp, not inventoried in full. The Missile Defense Agency was checked separately and its SBIR/STTR program isn't distinct enough from the generic \"service SBIR/STTR\" bucket to warrant its own entry.",
+          "html": "<strong>SBIR/STTR scope</strong> This map deprioritises SBIR and STTR by design. Army, Navy, and SOCOM service on-ramps got a deeper pass across two revisions; Air Force, Space Force, and civil-agency SBIR/STTR are still named only as an on-ramp, not inventoried in full. The Missile Defense Agency was checked separately and its SBIR/STTR program isn't distinct enough from the generic \"service SBIR/STTR\" bucket to warrant its own entry.",
+          "text": "SBIR/STTR scope This map deprioritises SBIR and STTR by design. Army, Navy, and SOCOM service on-ramps got a deeper pass across two revisions; Air Force, Space Force, and civil-agency SBIR/STTR are still named only as an on-ramp, not inventoried in full. The Missile Defense Agency was checked separately and its SBIR/STTR program isn't distinct enough from the generic \"service SBIR/STTR\" bucket to warrant its own entry.",
+          "confidence": []
+        },
+        {
+          "type": "para",
+          "raw": "**Structural judgment calls** (documentation, not open questions)",
+          "html": "<strong>Structural judgment calls</strong> (documentation, not open questions)",
+          "text": "Structural judgment calls (documentation, not open questions)",
+          "confidence": []
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            {
+              "html": "Software, AI and autonomy, and cyber run as one merged sector tab; the underlying source prose for each of the three original sub-sectors was preserved, only the tab grouping and non-dilutive read changed.",
+              "confidence": []
+            },
+            {
+              "html": "The sector pathway grid applies two rules beyond literal name-matching: every physical-product sector (Hardware, Space, Marine) inherits the same six spine vehicles even where a sector's own paragraph doesn't re-name all of them, and EXIM and NSF are lit wherever their own directory entries name a sector, not only where that sector's paragraph happens to cite them.",
+              "confidence": []
+            },
+            {
+              "html": "Three matrix tokens remain deliberately unmapped: DARPA BTO (a different DARPA office than the one with a directory entry), service SBIR/STTR (intentionally generic per this map's SBIR/STTR scope decision), and direct DoW stakes (a practice covered in section 6, not a single named vehicle).",
+              "confidence": []
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "raw": "**State and regional programs (section 12)** 17 entries across 17 states, covering the states found across three research passes plus two (California, Florida) pulled in once the section's scope widened from defense-specific programs to state-run technology and innovation capital generally. This remains explicitly out of scope for the rest of the map's analytical apparatus, none of its entries feed the capital map matrix or the sector pathway grid, and it is a representative sample, not a 50-state census; a state's absence means it wasn't checked. Every entry in this section carries a heavier UNVERIFIED load than the rest of the document, mostly current deployment figures and fund balances that are inherently harder to pin down at a state level than a single federal program's terms.",
+          "html": "<strong>State and regional programs (section 12)</strong> 17 entries across 17 states, covering the states found across three research passes plus two (California, Florida) pulled in once the section's scope widened from defense-specific programs to state-run technology and innovation capital generally. This remains explicitly out of scope for the rest of the map's analytical apparatus, none of its entries feed the capital map matrix or the sector pathway grid, and it is a representative sample, not a 50-state census; a state's absence means it wasn't checked. Every entry in this section carries a heavier UNVERIFIED load than the rest of the document, mostly current deployment figures and fund balances that are inherently harder to pin down at a state level than a single federal program's terms.",
+          "text": "State and regional programs (section 12) 17 entries across 17 states, covering the states found across three research passes plus two (California, Florida) pulled in once the section's scope widened from defense-specific programs to state-run technology and innovation capital generally. This remains explicitly out of scope for the rest of the map's analytical apparatus, none of its entries feed the capital map matrix or the sector pathway grid, and it is a representative sample, not a 50-state census; a state's absence means it wasn't checked. Every entry in this section carries a heavier UNVERIFIED load than the rest of the document, mostly current deployment figures and fund balances that are inherently harder to pin down at a state level than a single federal program's terms.",
+          "confidence": []
         }
       ],
       "subsections": []
@@ -2428,6 +2478,38 @@
               "confidence": []
             },
             {
+              "html": "USD(A&amp;S) Office of Small Business Programs RIF-RISE program page, business.defense.gov, for the Rapid Innovation Fund's rename to Rapid Integrated Scalable Enterprise",
+              "confidence": []
+            },
+            {
+              "html": "medcbrn.org current requests for prototype proposals page, for MCDC's live and upcoming open requests",
+              "confidence": []
+            },
+            {
+              "html": "USSOCOM Engage SOF (eSOF) submission portal, for the confirmed solicitation deadline and Capabilities of Interest structure",
+              "confidence": []
+            },
+            {
+              "html": "ARPA-E IGNIITE 2026 program page and BW&amp;CO coverage, for the confirmed live 2026 solicitation",
+              "confidence": []
+            },
+            {
+              "html": "CHIPS Research and Development Office restructuring coverage (DLA Piper, April 2026) and CRDO's own $11 billion appropriation breakdown across the NSTC, NIST Manufacturing USA, NIST CHIPS R&amp;D, and NAPMP",
+              "confidence": []
+            },
+            {
+              "html": "Australian Department of Defence and Ocean News coverage of the 2026 AUKUS Innovation Challenge awards, including Florida Atlantic University's $1M award; reporting on the May 2026 AUKUS Defence Ministers' meeting and the Excluded Technology List",
+              "confidence": []
+            },
+            {
+              "html": "National Security Commission on Emerging Biotechnology and Senate Biotech Caucus coverage of the FY2026 NDAA's BIOSECURE Act provisions",
+              "confidence": []
+            },
+            {
+              "html": "AZ Venture Capital Inc. and Arizona Commerce Authority program pages, azcommerce.com/ssbci; NC Rural Center's NCInvest pages, ncruralcenter.org; NC Department of Commerce coverage of the state Board of Science, Technology and Innovation's FY2026 grant round; Pennsylvania DCED and SSTI coverage of PA-SSBCI's Ben Franklin Technology Partners and Life Sciences Greenhouses delivery model",
+              "confidence": []
+            },
+            {
               "html": "National Security Commission on Emerging Biotechnology, \"Charting the Future of Biotechnology: An Action Plan for American Security and Prosperity\" (8 April 2025), and CRS summary IN12546",
               "confidence": []
             },
@@ -2481,10 +2563,42 @@
         },
         {
           "type": "para",
-          "raw": "Given that, this section stops well short of a 50-state inventory. It covers the states found in earlier passes (Massachusetts, Texas, New York, Illinois, Utah), the large-economy states asked about directly in this pass (Virginia, Ohio, Michigan, Washington, Georgia, and the smaller-economy Maine and Connecticut), and two more (California, Florida) that the broadened lens pulled in once general SSBCI equity programs, not just defense-specific ones, were in scope. A state's absence from this list means it wasn't checked, not that it lacks a program; treat this as a representative sample, not a census.",
-          "html": "Given that, this section stops well short of a 50-state inventory. It covers the states found in earlier passes (Massachusetts, Texas, New York, Illinois, Utah), the large-economy states asked about directly in this pass (Virginia, Ohio, Michigan, Washington, Georgia, and the smaller-economy Maine and Connecticut), and two more (California, Florida) that the broadened lens pulled in once general SSBCI equity programs, not just defense-specific ones, were in scope. A state's absence from this list means it wasn't checked, not that it lacks a program; treat this as a representative sample, not a census.",
-          "text": "Given that, this section stops well short of a 50-state inventory. It covers the states found in earlier passes (Massachusetts, Texas, New York, Illinois, Utah), the large-economy states asked about directly in this pass (Virginia, Ohio, Michigan, Washington, Georgia, and the smaller-economy Maine and Connecticut), and two more (California, Florida) that the broadened lens pulled in once general SSBCI equity programs, not just defense-specific ones, were in scope. A state's absence from this list means it wasn't checked, not that it lacks a program; treat this as a representative sample, not a census.",
+          "raw": "Given that, this section stops well short of a 50-state inventory. It covers the states found in earlier passes (Massachusetts, Texas, New York, Illinois, Utah), the large-economy states asked about directly in two follow-up passes (Virginia, Ohio, Michigan, Washington, Georgia, North Carolina, Arizona, Pennsylvania, and the smaller-economy Maine and Connecticut), and two more (California, Florida) that the broadened lens pulled in once general SSBCI equity programs, not just defense-specific ones, were in scope. A state's absence from this list means it wasn't checked, not that it lacks a program; treat this as a representative sample, not a census.",
+          "html": "Given that, this section stops well short of a 50-state inventory. It covers the states found in earlier passes (Massachusetts, Texas, New York, Illinois, Utah), the large-economy states asked about directly in two follow-up passes (Virginia, Ohio, Michigan, Washington, Georgia, North Carolina, Arizona, Pennsylvania, and the smaller-economy Maine and Connecticut), and two more (California, Florida) that the broadened lens pulled in once general SSBCI equity programs, not just defense-specific ones, were in scope. A state's absence from this list means it wasn't checked, not that it lacks a program; treat this as a representative sample, not a census.",
+          "text": "Given that, this section stops well short of a 50-state inventory. It covers the states found in earlier passes (Massachusetts, Texas, New York, Illinois, Utah), the large-economy states asked about directly in two follow-up passes (Virginia, Ohio, Michigan, Washington, Georgia, North Carolina, Arizona, Pennsylvania, and the smaller-economy Maine and Connecticut), and two more (California, Florida) that the broadened lens pulled in once general SSBCI equity programs, not just defense-specific ones, were in scope. A state's absence from this list means it wasn't checked, not that it lacks a program; treat this as a representative sample, not a census.",
           "confidence": []
+        },
+        {
+          "type": "vehicle",
+          "heading": "Arizona Multi-Fund Venture Capital Program",
+          "headingHtml": "Arizona Multi-Fund Venture Capital Program",
+          "tag": {
+            "body": [
+              "CIVIL"
+            ],
+            "instruments": [
+              "FUND-LEVEL"
+            ],
+            "eligibility": [],
+            "meta": [
+              "Arizona"
+            ]
+          },
+          "heat": {
+            "heat": "OPEN",
+            "openness": "MED"
+          },
+          "blocks": [
+            {
+              "type": "para",
+              "raw": "A fund-of-funds program administered by the nonprofit AZ Venture Capital Inc. (AVC) under the Arizona Commerce Authority, one leg of a three-program SSBCI suite that also runs a loan guarantee and a direct equity co-investment track, all through the same state agency. AVC anchors Arizona's life-sciences and tech ecosystem in Phoenix and Tucson: a 2026 example is a $5M AVC investment into Xcellerant Ventures' fund, bringing $7M in new funding to Arizona health-tech startups, and AVC separately joined as an investor in NovaWave Capital's AI venture studio launch with the Arizona Commerce Authority at CES 2026 [UNVERIFIED, current total AVC deployment and remaining SSBCI allocation not confirmed at this revision]. Not defense-specific.",
+              "html": "A fund-of-funds program administered by the nonprofit AZ Venture Capital Inc. (AVC) under the Arizona Commerce Authority, one leg of a three-program SSBCI suite that also runs a loan guarantee and a direct equity co-investment track, all through the same state agency. AVC anchors Arizona's life-sciences and tech ecosystem in Phoenix and Tucson: a 2026 example is a $5M AVC investment into Xcellerant Ventures' fund, bringing $7M in new funding to Arizona health-tech startups, and AVC separately joined as an investor in NovaWave Capital's AI venture studio launch with the Arizona Commerce Authority at CES 2026 <span class=\"chip chip-conf conf-unverified\" data-conf=\"UNVERIFIED\">UNVERIFIED</span><span class=\"conf-extra\">current total AVC deployment and remaining SSBCI allocation not confirmed at this revision</span>. Not defense-specific.",
+              "text": "A fund-of-funds program administered by the nonprofit AZ Venture Capital Inc. (AVC) under the Arizona Commerce Authority, one leg of a three-program SSBCI suite that also runs a loan guarantee and a direct equity co-investment track, all through the same state agency. AVC anchors Arizona's life-sciences and tech ecosystem in Phoenix and Tucson: a 2026 example is a $5M AVC investment into Xcellerant Ventures' fund, bringing $7M in new funding to Arizona health-tech startups, and AVC separately joined as an investor in NovaWave Capital's AI venture studio launch with the Arizona Commerce Authority at CES 2026 UNVERIFIED. Not defense-specific.",
+              "confidence": [
+                "UNVERIFIED"
+              ]
+            }
+          ]
         },
         {
           "type": "vehicle",
@@ -2746,6 +2860,38 @@
         },
         {
           "type": "vehicle",
+          "heading": "NCInvest (North Carolina Rural Center)",
+          "headingHtml": "NCInvest (North Carolina Rural Center)",
+          "tag": {
+            "body": [
+              "CIVIL"
+            ],
+            "instruments": [
+              "FUND-LEVEL"
+            ],
+            "eligibility": [],
+            "meta": [
+              "North Carolina"
+            ]
+          },
+          "heat": {
+            "heat": "OPEN",
+            "openness": "MED"
+          },
+          "blocks": [
+            {
+              "type": "para",
+              "raw": "A $32M SSBCI-backed fund-of-funds program administered by the NC Rural Center, investing across 10 venture capital funds nationally that in turn back North Carolina-based founders; at least 54% of that money is earmarked for Socially and Economically Disadvantaged Individuals. Not defense-specific, but a separate, smaller North Carolina vehicle is: the state's Board of Science, Technology and Innovation runs its own direct technology-commercialization grants, and its FY2026 round named defense explicitly as one of the funded industries, awarding more than $2.4M across 50 grants to 46 small businesses spanning pharmaceuticals, healthcare, defense, advanced materials, seafood production, and space [UNVERIFIED, per-award size and whether \"defense\" here means dual-use hardware or a broader industry label, not confirmed at this revision].",
+              "html": "A $32M SSBCI-backed fund-of-funds program administered by the NC Rural Center, investing across 10 venture capital funds nationally that in turn back North Carolina-based founders; at least 54% of that money is earmarked for Socially and Economically Disadvantaged Individuals. Not defense-specific, but a separate, smaller North Carolina vehicle is: the state's Board of Science, Technology and Innovation runs its own direct technology-commercialization grants, and its FY2026 round named defense explicitly as one of the funded industries, awarding more than $2.4M across 50 grants to 46 small businesses spanning pharmaceuticals, healthcare, defense, advanced materials, seafood production, and space <span class=\"chip chip-conf conf-unverified\" data-conf=\"UNVERIFIED\">UNVERIFIED</span><span class=\"conf-extra\">per-award size and whether \"defense\" here means dual-use hardware or a broader industry label, not confirmed at this revision</span>.",
+              "text": "A $32M SSBCI-backed fund-of-funds program administered by the NC Rural Center, investing across 10 venture capital funds nationally that in turn back North Carolina-based founders; at least 54% of that money is earmarked for Socially and Economically Disadvantaged Individuals. Not defense-specific, but a separate, smaller North Carolina vehicle is: the state's Board of Science, Technology and Innovation runs its own direct technology-commercialization grants, and its FY2026 round named defense explicitly as one of the funded industries, awarding more than $2.4M across 50 grants to 46 small businesses spanning pharmaceuticals, healthcare, defense, advanced materials, seafood production, and space UNVERIFIED.",
+              "confidence": [
+                "UNVERIFIED"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "vehicle",
           "heading": "New York State Innovation Venture Capital Fund",
           "headingHtml": "New York State Innovation Venture Capital Fund",
           "tag": {
@@ -2807,6 +2953,39 @@
               "text": "Ohio's technology-commercialization program, running continuously since 2002 and structurally closer to a state-run non-dilutive grant pipeline than a fund. Its Technology Validation and Start-up Fund has issued 411 awards totaling more than $69M since 2012, with Phase 2 start-up awards running up to $200,000 for companies moving research out of Ohio universities, nonprofit labs, and federal laboratories toward the market CUMULATIVE — REFRESH. A companion vehicle, the TechGrowth Ohio Fund, invests the same Third Frontier dollars, matched by Ohio University, as actual venture capital: $12.78M under management, writing pre-seed and seed checks. Funding priorities include advanced manufacturing, materials, and sensors, categories that overlap with this map's Hardware and Microelectronics sectors even though the program itself is not defense-gated.",
               "confidence": [
                 "CUMULATIVE — REFRESH"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "vehicle",
+          "heading": "Pennsylvania SSBCI (Ben Franklin Technology Partners / Life Sciences Greenhouses)",
+          "headingHtml": "Pennsylvania SSBCI (Ben Franklin Technology Partners / Life Sciences Greenhouses)",
+          "tag": {
+            "body": [
+              "CIVIL"
+            ],
+            "instruments": [
+              "FUND-LEVEL",
+              "EQUITY"
+            ],
+            "eligibility": [],
+            "meta": [
+              "Pennsylvania"
+            ]
+          },
+          "heat": {
+            "heat": "OPEN",
+            "openness": "MED"
+          },
+          "blocks": [
+            {
+              "type": "para",
+              "raw": "Pennsylvania's $246.8M SSBCI allocation, run by the Department of Community and Economic Development but deployed through a distinct regional-intermediary model rather than one central fund: the Ben Franklin Technology Partners (four regional BFTPs) and the Life Sciences Greenhouses make the actual loan, venture-capital, and collateral-support investments in their own territories [UNVERIFIED, current per-region deployment split and remaining balances not confirmed at this revision]. That regional structure means a Pennsylvania company's actual point of contact is its local BFTP or LSG, not a single state office. Not defense-specific.",
+              "html": "Pennsylvania's $246.8M SSBCI allocation, run by the Department of Community and Economic Development but deployed through a distinct regional-intermediary model rather than one central fund: the Ben Franklin Technology Partners (four regional BFTPs) and the Life Sciences Greenhouses make the actual loan, venture-capital, and collateral-support investments in their own territories <span class=\"chip chip-conf conf-unverified\" data-conf=\"UNVERIFIED\">UNVERIFIED</span><span class=\"conf-extra\">current per-region deployment split and remaining balances not confirmed at this revision</span>. That regional structure means a Pennsylvania company's actual point of contact is its local BFTP or LSG, not a single state office. Not defense-specific.",
+              "text": "Pennsylvania's $246.8M SSBCI allocation, run by the Department of Community and Economic Development but deployed through a distinct regional-intermediary model rather than one central fund: the Ben Franklin Technology Partners (four regional BFTPs) and the Life Sciences Greenhouses make the actual loan, venture-capital, and collateral-support investments in their own territories UNVERIFIED. That regional structure means a Pennsylvania company's actual point of contact is its local BFTP or LSG, not a single state office. Not defense-specific.",
+              "confidence": [
+                "UNVERIFIED"
               ]
             }
           ]
@@ -3354,8 +3533,8 @@
       "summary": "A recent Department of War creation working alongside OSC, staffed with recruits from Goldman Sachs, JPMorgan, and other Wall Street firms."
     },
     {
-      "id": "v-rapid-innovation-fund-rif",
-      "heading": "Rapid Innovation Fund (RIF)",
+      "id": "v-rapid-innovation-fund-rif-now-rapid-integrated-scalable-enterprise-rise",
+      "heading": "Rapid Innovation Fund (RIF), now Rapid Integrated Scalable Enterprise (RISE)",
       "section": 4,
       "group": "Department of War",
       "body": [
@@ -3724,6 +3903,25 @@
       "summary": "The Department of Homeland Security Science and Technology Directorate's startup program, non-dilutive and structured through Other Transaction agreements, aimed at homeland security problems (border, cyber, first responder)."
     },
     {
+      "id": "v-arizona-multi-fund-venture-capital-program",
+      "heading": "Arizona Multi-Fund Venture Capital Program",
+      "section": 12,
+      "group": "State and regional programs",
+      "body": [
+        "CIVIL"
+      ],
+      "instruments": [
+        "FUND-LEVEL"
+      ],
+      "eligibility": [],
+      "meta": [
+        "Arizona"
+      ],
+      "heat": "OPEN",
+      "openness": "MED",
+      "summary": "A fund-of-funds program administered by the nonprofit AZ Venture Capital Inc."
+    },
+    {
       "id": "v-california-ibank-expanding-venture-capital-access-program",
       "heading": "California IBank — Expanding Venture Capital Access Program",
       "section": 12,
@@ -3878,6 +4076,25 @@
       "summary": "A $75M SSBCI-backed program run by the Michigan Economic Development Corporation, investing as a limited partner in venture funds that in turn back early-stage, technology-based Michigan companies."
     },
     {
+      "id": "v-ncinvest-north-carolina-rural-center",
+      "heading": "NCInvest (North Carolina Rural Center)",
+      "section": 12,
+      "group": "State and regional programs",
+      "body": [
+        "CIVIL"
+      ],
+      "instruments": [
+        "FUND-LEVEL"
+      ],
+      "eligibility": [],
+      "meta": [
+        "North Carolina"
+      ],
+      "heat": "OPEN",
+      "openness": "MED",
+      "summary": "A $32M SSBCI-backed fund-of-funds program administered by the NC Rural Center, investing across 10 venture capital funds nationally that in turn back North Carolina-based founders; at least 54% of that money is earmarked for Socially and Ec…"
+    },
+    {
       "id": "v-new-york-state-innovation-venture-capital-fund",
       "heading": "New York State Innovation Venture Capital Fund",
       "section": 12,
@@ -3916,6 +4133,26 @@
       "heat": "OPEN",
       "openness": "MED",
       "summary": "Ohio's technology-commercialization program, running continuously since 2002 and structurally closer to a state-run non-dilutive grant pipeline than a fund."
+    },
+    {
+      "id": "v-pennsylvania-ssbci-ben-franklin-technology-partners-life-sciences-greenhouses",
+      "heading": "Pennsylvania SSBCI (Ben Franklin Technology Partners / Life Sciences Greenhouses)",
+      "section": 12,
+      "group": "State and regional programs",
+      "body": [
+        "CIVIL"
+      ],
+      "instruments": [
+        "FUND-LEVEL",
+        "EQUITY"
+      ],
+      "eligibility": [],
+      "meta": [
+        "Pennsylvania"
+      ],
+      "heat": "OPEN",
+      "openness": "MED",
+      "summary": "Pennsylvania's $246.8M SSBCI allocation, run by the Department of Community and Economic Development but deployed through a distinct regional-intermediary model rather than one central fund: the Ben Franklin Technology Partners (four region…"
     },
     {
       "id": "v-texas-space-commission-searf",
@@ -4006,12 +4243,12 @@
   "meta": {
     "sections": 12,
     "tables": 3,
-    "vehicles": 44,
+    "vehicles": 47,
     "sectorSubsections": 7,
-    "words": 12741,
+    "words": 13257,
     "confidence": {
       "PENDING LEGISLATION": 2,
-      "UNVERIFIED": 43,
+      "UNVERIFIED": 41,
       "CUMULATIVE — REFRESH": 6
     },
     "generated": "September 2026"

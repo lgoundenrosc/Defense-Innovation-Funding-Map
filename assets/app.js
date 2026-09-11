@@ -52,7 +52,7 @@
     "NSF America's Seed Fund": 'NSF Seed Fund',
     'NASA SBIR/STTR and Space Act Agreements': 'NASA SBIR',
     'DHS SVIP': 'DHS SVIP',
-    'Rapid Innovation Fund (RIF)': 'RIF',
+    'Rapid Innovation Fund (RIF), now Rapid Integrated Scalable Enterprise (RISE)': 'RIF',
     'Medical CBRN Defense Consortium (MCDC)': 'MCDC',
     'ARPA-E': 'ARPA-E',
     'National Defense Stockpile': 'National Defense Stockpile',
@@ -87,7 +87,7 @@
     'EDU': 'Economic Defense Unit (EDU)',
     'DPA Title III awards': 'Defense Production Act Title III',
     'MCDC': 'Medical CBRN Defense Consortium (MCDC)',
-    'RIF': 'Rapid Innovation Fund (RIF)',
+    'RIF': 'Rapid Innovation Fund (RIF), now Rapid Integrated Scalable Enterprise (RISE)',
     'ARPA-E': 'ARPA-E',
     'National Defense Stockpile': 'National Defense Stockpile',
     'Commerce CHIPS': 'Commerce CHIPS Program Office'

@@ -351,7 +351,7 @@ writeFileSync(OUT_JS, 'window.__NATSEC__ = ' + JSON.stringify(doc) + ';\n');
 
 console.log('sections :', doc.meta.sections, '(want 12)');
 console.log('tables   :', doc.meta.tables);
-console.log('vehicles :', doc.meta.vehicles, '(want ~45)');
+console.log('vehicles :', doc.meta.vehicles, '(want ~47)');
 console.log('sector subtabs:', doc.meta.sectorSubsections, '(want 7)');
 console.log('words    :', doc.meta.words);
 console.log('markers  :', JSON.stringify(conf));
