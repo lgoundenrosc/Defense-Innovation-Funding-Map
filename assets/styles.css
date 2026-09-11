@@ -200,12 +200,39 @@ tbody td:first-child { font-weight: 600; color: var(--navy); }
 
 .vehicle-card {
   background: #fff; border: 1px solid var(--grey-line); border-left: 4px solid var(--rust);
-  border-radius: 5px; padding: 16px 20px 6px; margin: 0 0 18px;
+  border-radius: 5px; margin: 0 0 14px; overflow: hidden;
 }
+.veh-toggle {
+  display: block; width: 100%; text-align: left; appearance: none; border: 0; background: transparent;
+  cursor: pointer; padding: 14px 40px 12px 20px; position: relative; font-family: inherit;
+}
+.veh-toggle:hover { background: #FAFAF7; }
+.veh-toggle:focus-visible { outline: 2px solid var(--gold); outline-offset: -2px; }
 .vehicle-card h4.veh-h { margin: 0 0 8px; font-size: 16.5px; color: var(--navy); }
 .veh-tagline { font-family: var(--mono); font-size: 11px; color: var(--ink-soft); margin: 0 0 10px; display: flex; flex-wrap: wrap; gap: 6px; align-items: center; }
 .veh-loc { text-transform: none; letter-spacing: 0; }
 .veh-sep { color: var(--gold); }
+.veh-caret {
+  position: absolute; top: 14px; right: 16px; font-family: var(--mono); font-size: 16px; color: var(--rust);
+  width: 18px; text-align: center; line-height: 1.3;
+}
+.veh-body { padding: 0 20px 16px; }
+.veh-body > :first-child { margin-top: 2px; }
+.vehicle-card.is-hidden { display: none; }
+
+/* ---------- collapsible policy cards (coordination and policy) ---------- */
+
+.policy-card { background: #fff; border: 1px solid var(--grey-line); border-radius: 5px; margin: 0 0 12px; overflow: hidden; }
+.policy-toggle {
+  display: flex; align-items: baseline; gap: 10px; width: 100%; text-align: left; appearance: none;
+  border: 0; background: var(--grey-wash); cursor: pointer; padding: 11px 16px; font-family: inherit;
+  font-size: 14.5px; color: var(--navy); font-weight: 700;
+}
+.policy-toggle:hover { background: #E0E0DC; }
+.policy-toggle:focus-visible { outline: 2px solid var(--gold); outline-offset: -2px; }
+.policy-name { flex: 1; }
+.policy-caret { font-family: var(--mono); font-size: 15px; color: var(--rust); width: 14px; flex: none; }
+.policy-body { padding: 14px 16px 2px; }
 
 .filters {
   display: flex; flex-wrap: wrap; gap: 16px; align-items: center;
@@ -336,6 +363,9 @@ tbody td:first-child { font-weight: 600; color: var(--navy); }
   .table-scroll { overflow: visible; }
   h3.sub-h, h4.sub-h4 { page-break-after: avoid; }
   .sector-pane[hidden] { display: block !important; }
+  .veh-body[hidden], .policy-body[hidden] { display: block !important; }
+  .veh-caret, .policy-caret { display: none; }
+  .veh-toggle, .policy-toggle { cursor: default; background: transparent !important; padding-right: 20px; }
   .sector-pane { page-break-before: always; }
   .sector-pane:first-child { page-break-before: avoid; }
   .term { border-bottom: 0; }

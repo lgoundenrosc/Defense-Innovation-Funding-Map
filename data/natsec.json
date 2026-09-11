@@ -10,73 +10,9 @@
       "intro": [
         {
           "type": "para",
-          "raw": "This document maps the government capital a national security startup can reach, from a lab-stage idea to a company at scale. It answers three questions for any founder or investor. Which office holds the money. What shape the money is. And where in a company's life that money bites.",
-          "html": "This document maps the government capital a national security startup can reach, from a lab-stage idea to a company at scale. It answers three questions for any founder or investor. Which office holds the money. What shape the money is. And where in a company's life that money bites.",
-          "text": "This document maps the government capital a national security startup can reach, from a lab-stage idea to a company at scale. It answers three questions for any founder or investor. Which office holds the money. What shape the money is. And where in a company's life that money bites.",
-          "confidence": []
-        },
-        {
-          "type": "para",
-          "raw": "The federal picture is not one thing. Some offices write loans. Some hand out matching grants. Some buy prototypes and call it investment. And inside the last year, some began buying equity. The map sorts them so a reader can see, at a glance, which doors open at seed and which only open at scale.",
-          "html": "The federal picture is not one thing. Some offices write loans. Some hand out matching grants. Some buy prototypes and call it investment. And inside the last year, some began buying equity. The map sorts them so a reader can see, at a glance, which doors open at seed and which only open at scale.",
-          "text": "The federal picture is not one thing. Some offices write loans. Some hand out matching grants. Some buy prototypes and call it investment. And inside the last year, some began buying equity. The map sorts them so a reader can see, at a glance, which doors open at seed and which only open at scale.",
-          "confidence": []
-        },
-        {
-          "type": "para",
-          "raw": "The demand context is real. Venture investment into US defense tech reached more than $14.6 billion in 2026, up from $9.6 billion in 2025. The government is trying to pull more private capital in behind it, and the vehicles below are the tools it uses.",
-          "html": "The demand context is real. Venture investment into US defense tech reached more than $14.6 billion in 2026, up from $9.6 billion in 2025. The government is trying to pull more private capital in behind it, and the vehicles below are the tools it uses.",
-          "text": "The demand context is real. Venture investment into US defense tech reached more than $14.6 billion in 2026, up from $9.6 billion in 2025. The government is trying to pull more private capital in behind it, and the vehicles below are the tools it uses.",
-          "confidence": []
-        },
-        {
-          "type": "h4",
-          "heading": "How to read this document",
-          "headingHtml": "How to read this document",
-          "tag": null,
-          "heat": null
-        },
-        {
-          "type": "para",
-          "raw": "Start at section 2, the capital map. The grid crosses company stage against the shape of the money. The green block at the top left is where a seed company's real doors are. The navy block at the bottom right is where the large dollars sit, and a seed company cannot reach them directly.",
-          "html": "Start at section 2, the capital map. The grid crosses company stage against the shape of the money. The green block at the top left is where a seed company's real doors are. The navy block at the bottom right is where the large dollars sit, and a seed company cannot reach them directly.",
-          "text": "Start at section 2, the capital map. The grid crosses company stage against the shape of the money. The green block at the top left is where a seed company's real doors are. The navy block at the bottom right is where the large dollars sit, and a seed company cannot reach them directly.",
-          "confidence": []
-        },
-        {
-          "type": "para",
-          "raw": "Section 4 is the directory: one entry per vehicle, with a heat chip for how much money is moving now and an openness chip for how reachable it is by an early company.",
-          "html": "Section 4 is the directory: one entry per vehicle, with a heat chip for how much money is moving now and an openness chip for how reachable it is by an early company.",
-          "text": "Section 4 is the directory: one entry per vehicle, with a heat chip for how much money is moving now and an openness chip for how reachable it is by an early company.",
-          "confidence": []
-        },
-        {
-          "type": "para",
-          "raw": "Section 5 is the sector view. Each tab shows the same six instrument rows and lights up the vehicles that serve that sector. Overlap between tabs is deliberate. A hardware company and a space company share several doors, and the map shows that rather than hiding it.",
-          "html": "Section 5 is the sector view. Each tab shows the same six instrument rows and lights up the vehicles that serve that sector. Overlap between tabs is deliberate. A hardware company and a space company share several doors, and the map shows that rather than hiding it.",
-          "text": "Section 5 is the sector view. Each tab shows the same six instrument rows and lights up the vehicles that serve that sector. Overlap between tabs is deliberate. A hardware company and a space company share several doors, and the map shows that rather than hiding it.",
-          "confidence": []
-        },
-        {
-          "type": "para",
-          "raw": "Every fact carries its confidence state. Unmarked means verified as of September 2026. A marked claim carries a chip. Gaps are shown as gaps, never filled with a plausible guess.",
-          "html": "Every fact carries its confidence state. Unmarked means verified as of September 2026. A marked claim carries a chip. Gaps are shown as gaps, never filled with a plausible guess.",
-          "text": "Every fact carries its confidence state. Unmarked means verified as of September 2026. A marked claim carries a chip. Gaps are shown as gaps, never filled with a plausible guess.",
-          "confidence": []
-        }
-      ],
-      "subsections": []
-    },
-    {
-      "number": 2,
-      "title": "The capital map",
-      "id": "s2",
-      "intro": [
-        {
-          "type": "para",
-          "raw": "Six instrument types down the side. Three company stages across the top. Each vehicle lands where it first bites. The full profile of each vehicle is in section 4.",
-          "html": "Six instrument types down the side. Three company stages across the top. Each vehicle lands where it first bites. The full profile of each vehicle is in section 4.",
-          "text": "Six instrument types down the side. Three company stages across the top. Each vehicle lands where it first bites. The full profile of each vehicle is in section 4.",
+          "raw": "Six instrument types down the side. Three company stages across the top. Each vehicle lands where it first bites. The full profile of each vehicle is in section 3.",
+          "html": "Six instrument types down the side. Three company stages across the top. Each vehicle lands where it first bites. The full profile of each vehicle is in section 3.",
+          "text": "Six instrument types down the side. Three company stages across the top. Each vehicle lands where it first bites. The full profile of each vehicle is in section 3.",
           "confidence": []
         },
         {
@@ -234,9 +170,9 @@
       "subsections": []
     },
     {
-      "number": 3,
+      "number": 2,
       "title": "The six shapes of money",
-      "id": "s3",
+      "id": "s2",
       "intro": [
         {
           "type": "para",
@@ -261,9 +197,9 @@
         },
         {
           "type": "para",
-          "raw": "Strategic equity. The government or an affiliated nonprofit takes an ownership stake. In-Q-Tel has done this for the Intelligence Community for years. The Department of War started doing it directly in 2025, and a statutory equity authority for OSC is pending. Section 7 covers this.",
-          "html": "Strategic equity. The government or an affiliated nonprofit takes an ownership stake. In-Q-Tel has done this for the Intelligence Community for years. The Department of War started doing it directly in 2025, and a statutory equity authority for OSC is pending. Section 7 covers this.",
-          "text": "Strategic equity. The government or an affiliated nonprofit takes an ownership stake. In-Q-Tel has done this for the Intelligence Community for years. The Department of War started doing it directly in 2025, and a statutory equity authority for OSC is pending. Section 7 covers this.",
+          "raw": "Strategic equity. The government or an affiliated nonprofit takes an ownership stake. In-Q-Tel has done this for the Intelligence Community for years. The Department of War started doing it directly in 2025, and a statutory equity authority for OSC is pending. Section 6 covers this.",
+          "html": "Strategic equity. The government or an affiliated nonprofit takes an ownership stake. In-Q-Tel has done this for the Intelligence Community for years. The Department of War started doing it directly in 2025, and a statutory equity authority for OSC is pending. Section 6 covers this.",
+          "text": "Strategic equity. The government or an affiliated nonprofit takes an ownership stake. In-Q-Tel has done this for the Intelligence Community for years. The Department of War started doing it directly in 2025, and a statutory equity authority for OSC is pending. Section 6 covers this.",
           "confidence": []
         },
         {
@@ -284,15 +220,15 @@
       "subsections": []
     },
     {
-      "number": 4,
+      "number": 3,
       "title": "Vehicle directory",
-      "id": "s4",
+      "id": "s3",
       "intro": [],
       "subsections": [
         {
-          "number": "4.1",
+          "number": "3.1",
           "title": "Department of War",
-          "id": "s4-1",
+          "id": "s3-1",
           "blocks": [
             {
               "type": "vehicle",
@@ -453,9 +389,9 @@
                 },
                 {
                   "type": "para",
-                  "raw": "Two DIU threads matter beyond the general CSO. The Replicator initiative and the maritime PRIME CSO push unmanned systems to scale. And the OnRamp Hub program places regional intake nodes around the country. New OnRamp Hubs are sub-awardees under a single cooperative agreement held by the Applied Research Institute, not contracts with DIU directly. [Rosc has a live bid in this program; see section 8, kept out of the neutral entry deliberately.]",
-                  "html": "Two DIU threads matter beyond the general CSO. The Replicator initiative and the maritime PRIME CSO push unmanned systems to scale. And the OnRamp Hub program places regional intake nodes around the country. New OnRamp Hubs are sub-awardees under a single cooperative agreement held by the Applied Research Institute, not contracts with DIU directly. <span class=\"aside\">[Rosc has a live bid in this program; see section 8, kept out of the neutral entry deliberately.]</span>",
-                  "text": "Two DIU threads matter beyond the general CSO. The Replicator initiative and the maritime PRIME CSO push unmanned systems to scale. And the OnRamp Hub program places regional intake nodes around the country. New OnRamp Hubs are sub-awardees under a single cooperative agreement held by the Applied Research Institute, not contracts with DIU directly. Rosc has a live bid in this program; see section 8, kept out of the neutral entry deliberately.",
+                  "raw": "Two DIU threads matter beyond the general CSO. The Replicator initiative and the maritime PRIME CSO push unmanned systems to scale. And the OnRamp Hub program places regional intake nodes around the country. New OnRamp Hubs are sub-awardees under a single cooperative agreement held by the Applied Research Institute, not contracts with DIU directly. [Rosc has a live bid in this program; see section 7, kept out of the neutral entry deliberately.]",
+                  "html": "Two DIU threads matter beyond the general CSO. The Replicator initiative and the maritime PRIME CSO push unmanned systems to scale. And the OnRamp Hub program places regional intake nodes around the country. New OnRamp Hubs are sub-awardees under a single cooperative agreement held by the Applied Research Institute, not contracts with DIU directly. <span class=\"aside\">[Rosc has a live bid in this program; see section 7, kept out of the neutral entry deliberately.]</span>",
+                  "text": "Two DIU threads matter beyond the general CSO. The Replicator initiative and the maritime PRIME CSO push unmanned systems to scale. And the OnRamp Hub program places regional intake nodes around the country. New OnRamp Hubs are sub-awardees under a single cooperative agreement held by the Applied Research Institute, not contracts with DIU directly. Rosc has a live bid in this program; see section 7, kept out of the neutral entry deliberately.",
                   "confidence": []
                 }
               ]
@@ -566,9 +502,9 @@
               "blocks": [
                 {
                   "type": "para",
-                  "raw": "Real industrial-base dollars, run by the Defense Production Act Investments Office under the Assistant Secretary of Defense for Industrial Base Policy. Title III money scales domestic production of critical materials, biomanufactured inputs, and other supply-chain capacity. It reaches companies as awards rather than equity or loans, and it interfaces closely with OSC and DoE on the large deals. The Department's biomanufacturing push runs partly through Title III (see section 5.7).",
-                  "html": "Real industrial-base dollars, run by the Defense Production Act Investments Office under the Assistant Secretary of Defense for Industrial Base Policy. Title III money scales domestic production of critical materials, biomanufactured inputs, and other supply-chain capacity. It reaches companies as awards rather than equity or loans, and it interfaces closely with OSC and DoE on the large deals. The Department's biomanufacturing push runs partly through Title III (see section 5.7).",
-                  "text": "Real industrial-base dollars, run by the Defense Production Act Investments Office under the Assistant Secretary of Defense for Industrial Base Policy. Title III money scales domestic production of critical materials, biomanufactured inputs, and other supply-chain capacity. It reaches companies as awards rather than equity or loans, and it interfaces closely with OSC and DoE on the large deals. The Department's biomanufacturing push runs partly through Title III (see section 5.7).",
+                  "raw": "Real industrial-base dollars, run by the Defense Production Act Investments Office under the Assistant Secretary of Defense for Industrial Base Policy. Title III money scales domestic production of critical materials, biomanufactured inputs, and other supply-chain capacity. It reaches companies as awards rather than equity or loans, and it interfaces closely with OSC and DoE on the large deals. The Department's biomanufacturing push runs partly through Title III (see section 4.6).",
+                  "html": "Real industrial-base dollars, run by the Defense Production Act Investments Office under the Assistant Secretary of Defense for Industrial Base Policy. Title III money scales domestic production of critical materials, biomanufactured inputs, and other supply-chain capacity. It reaches companies as awards rather than equity or loans, and it interfaces closely with OSC and DoE on the large deals. The Department's biomanufacturing push runs partly through Title III (see section 4.6).",
+                  "text": "Real industrial-base dollars, run by the Defense Production Act Investments Office under the Assistant Secretary of Defense for Industrial Base Policy. Title III money scales domestic production of critical materials, biomanufactured inputs, and other supply-chain capacity. It reaches companies as awards rather than equity or loans, and it interfaces closely with OSC and DoE on the large deals. The Department's biomanufacturing push runs partly through Title III (see section 4.6).",
                   "confidence": []
                 }
               ]
@@ -831,9 +767,9 @@
           ]
         },
         {
-          "number": "4.2",
+          "number": "3.2",
           "title": "Intelligence Community",
-          "id": "s4-2",
+          "id": "s3-2",
           "blocks": [
             {
               "type": "vehicle",
@@ -875,9 +811,9 @@
           ]
         },
         {
-          "number": "4.3",
+          "number": "3.3",
           "title": "Energy",
-          "id": "s4-3",
+          "id": "s3-3",
           "blocks": [
             {
               "type": "vehicle",
@@ -912,9 +848,9 @@
           ]
         },
         {
-          "number": "4.4",
+          "number": "3.4",
           "title": "Trade and development finance",
-          "id": "s4-4",
+          "id": "s3-4",
           "blocks": [
             {
               "type": "vehicle",
@@ -980,9 +916,9 @@
           ]
         },
         {
-          "number": "4.5",
+          "number": "3.5",
           "title": "Allied and multinational",
-          "id": "s4-5",
+          "id": "s3-5",
           "blocks": [
             {
               "type": "vehicle",
@@ -1067,9 +1003,9 @@
           ]
         },
         {
-          "number": "4.6",
+          "number": "3.6",
           "title": "Civil agencies",
-          "id": "s4-6",
+          "id": "s3-6",
           "blocks": [
             {
               "type": "para",
@@ -1176,9 +1112,9 @@
       ]
     },
     {
-      "number": 5,
+      "number": 4,
       "title": "Sector pathways",
-      "id": "s5",
+      "id": "s4",
       "intro": [
         {
           "type": "para",
@@ -1190,9 +1126,9 @@
       ],
       "subsections": [
         {
-          "number": "5.1",
+          "number": "4.1",
           "title": "Hardware",
-          "id": "s5-1",
+          "id": "s4-1",
           "blocks": [
             {
               "type": "para",
@@ -1211,30 +1147,51 @@
           ]
         },
         {
-          "number": "5.2",
-          "title": "Software",
-          "id": "s5-2",
+          "number": "4.2",
+          "title": "Software, AI and autonomy, and cyber",
+          "id": "s4-2",
           "blocks": [
             {
               "type": "para",
-              "raw": "Shape: contract-led, not capital-led.",
-              "html": "Shape: contract-led, not capital-led.",
-              "text": "Shape: contract-led, not capital-led.",
+              "raw": "Shape: contract-led, not capital-led, across all three, though the non-dilutive check is thin rather than fully absent.",
+              "html": "Shape: contract-led, not capital-led, across all three, though the non-dilutive check is thin rather than fully absent.",
+              "text": "Shape: contract-led, not capital-led, across all three, though the non-dilutive check is thin rather than fully absent.",
               "confidence": []
             },
             {
               "type": "para",
-              "raw": "NSIC greys out here because it funds hardware only. A software founder's doors are the customer-and-contract kind: DIU CSO across all six portfolios, service software buyers, and SBIR through AFWERX. In-Q-Tel on the equity side. The message on this tab is that a software seed company chases a paying government customer, because the non-dilutive check mostly is not there.",
-              "html": "NSIC greys out here because it funds hardware only. A software founder's doors are the customer-and-contract kind: DIU CSO across all six portfolios, service software buyers, and SBIR through AFWERX. In-Q-Tel on the equity side. The message on this tab is that a software seed company chases a paying government customer, because the non-dilutive check mostly is not there.",
-              "text": "NSIC greys out here because it funds hardware only. A software founder's doors are the customer-and-contract kind: DIU CSO across all six portfolios, service software buyers, and SBIR through AFWERX. In-Q-Tel on the equity side. The message on this tab is that a software seed company chases a paying government customer, because the non-dilutive check mostly is not there.",
+              "raw": "NSIC greys out here, the same as on every non-hardware tab, because it funds hardware only. A software, AI, or cyber founder's doors are mostly the customer-and-contract kind: DIU CSO across all six portfolios, service software buyers, and SBIR through AFWERX. In-Q-Tel on the equity side. The message on this combined tab is that a company here chases a paying government customer first, because the non-dilutive check mostly is not there.",
+              "html": "NSIC greys out here, the same as on every non-hardware tab, because it funds hardware only. A software, AI, or cyber founder's doors are mostly the customer-and-contract kind: DIU CSO across all six portfolios, service software buyers, and SBIR through AFWERX. In-Q-Tel on the equity side. The message on this combined tab is that a company here chases a paying government customer first, because the non-dilutive check mostly is not there.",
+              "text": "NSIC greys out here, the same as on every non-hardware tab, because it funds hardware only. A software, AI, or cyber founder's doors are mostly the customer-and-contract kind: DIU CSO across all six portfolios, service software buyers, and SBIR through AFWERX. In-Q-Tel on the equity side. The message on this combined tab is that a company here chases a paying government customer first, because the non-dilutive check mostly is not there.",
+              "confidence": []
+            },
+            {
+              "type": "para",
+              "raw": "Two non-dilutive doors do reach across all three, and are worth naming rather than leaving the row looking emptier than it is. NSF America's Seed Fund is open to nearly all technology areas, AI included, and does not gate on a defense mandate. DHS SVIP names cyber directly as one of its three focus areas, alongside border and first-responder problems. Neither is likely to be the primary check for a company chasing a Department of War customer, but both are real, reachable, and non-dilutive.",
+              "html": "Two non-dilutive doors do reach across all three, and are worth naming rather than leaving the row looking emptier than it is. NSF America's Seed Fund is open to nearly all technology areas, AI included, and does not gate on a defense mandate. DHS SVIP names cyber directly as one of its three focus areas, alongside border and first-responder problems. Neither is likely to be the primary check for a company chasing a Department of War customer, but both are real, reachable, and non-dilutive.",
+              "text": "Two non-dilutive doors do reach across all three, and are worth naming rather than leaving the row looking emptier than it is. NSF America's Seed Fund is open to nearly all technology areas, AI included, and does not gate on a defense mandate. DHS SVIP names cyber directly as one of its three focus areas, alongside border and first-responder problems. Neither is likely to be the primary check for a company chasing a Department of War customer, but both are real, reachable, and non-dilutive.",
+              "confidence": []
+            },
+            {
+              "type": "para",
+              "raw": "For AI and autonomy specifically: DIU's AI/ML and autonomy portfolios, the CDAO Tradewinds Solutions Marketplace, Replicator, and In-Q-Tel. NATO DIANA also lists autonomy as one of its 10 challenge areas, which extends the allied non-dilutive door to this tab as well.",
+              "html": "For AI and autonomy specifically: DIU's AI/ML and autonomy portfolios, the CDAO Tradewinds Solutions Marketplace, Replicator, and In-Q-Tel. NATO DIANA also lists autonomy as one of its 10 challenge areas, which extends the allied non-dilutive door to this tab as well.",
+              "text": "For AI and autonomy specifically: DIU's AI/ML and autonomy portfolios, the CDAO Tradewinds Solutions Marketplace, Replicator, and In-Q-Tel. NATO DIANA also lists autonomy as one of its 10 challenge areas, which extends the allied non-dilutive door to this tab as well.",
+              "confidence": []
+            },
+            {
+              "type": "para",
+              "raw": "For cyber specifically, still the thinnest-documented of the three: DIU's cyber portfolio, In-Q-Tel, AFWERX SBIR, and DHS SVIP, with the NSA and Cyber Command acting as customers rather than capital doors.",
+              "html": "For cyber specifically, still the thinnest-documented of the three: DIU's cyber portfolio, In-Q-Tel, AFWERX SBIR, and DHS SVIP, with the NSA and Cyber Command acting as customers rather than capital doors.",
+              "text": "For cyber specifically, still the thinnest-documented of the three: DIU's cyber portfolio, In-Q-Tel, AFWERX SBIR, and DHS SVIP, with the NSA and Cyber Command acting as customers rather than capital doors.",
               "confidence": []
             }
           ]
         },
         {
-          "number": "5.3",
+          "number": "4.3",
           "title": "Critical minerals",
-          "id": "s5-3",
+          "id": "s4-3",
           "blocks": [
             {
               "type": "para",
@@ -1245,17 +1202,17 @@
             },
             {
               "type": "para",
-              "raw": "Pathways: DPA Title III, OSC loans and now OSC equity, DoE Energy Dominance Financing, EXIM CTEP and Project Vault, DFC for allied supply, Commerce CHIPS for processing tied to chips, and the National Defense Stockpile as an offtake buyer. Direct equity stakes now sit on top (section 7). A Rosc-stage minerals company mostly interacts through DoE grants and DPA early, then graduates into this stack.",
-              "html": "Pathways: DPA Title III, OSC loans and now OSC equity, DoE Energy Dominance Financing, EXIM CTEP and Project Vault, DFC for allied supply, Commerce CHIPS for processing tied to chips, and the National Defense Stockpile as an offtake buyer. Direct equity stakes now sit on top (section 7). A Rosc-stage minerals company mostly interacts through DoE grants and DPA early, then graduates into this stack.",
-              "text": "Pathways: DPA Title III, OSC loans and now OSC equity, DoE Energy Dominance Financing, EXIM CTEP and Project Vault, DFC for allied supply, Commerce CHIPS for processing tied to chips, and the National Defense Stockpile as an offtake buyer. Direct equity stakes now sit on top (section 7). A Rosc-stage minerals company mostly interacts through DoE grants and DPA early, then graduates into this stack.",
+              "raw": "Pathways: DPA Title III, OSC loans and now OSC equity, DoE Energy Dominance Financing, EXIM CTEP and Project Vault, DFC for allied supply, Commerce CHIPS for processing tied to chips, and the National Defense Stockpile as an offtake buyer. Direct equity stakes now sit on top (section 6). A Rosc-stage minerals company mostly interacts through DoE grants and DPA early, then graduates into this stack.",
+              "html": "Pathways: DPA Title III, OSC loans and now OSC equity, DoE Energy Dominance Financing, EXIM CTEP and Project Vault, DFC for allied supply, Commerce CHIPS for processing tied to chips, and the National Defense Stockpile as an offtake buyer. Direct equity stakes now sit on top (section 6). A Rosc-stage minerals company mostly interacts through DoE grants and DPA early, then graduates into this stack.",
+              "text": "Pathways: DPA Title III, OSC loans and now OSC equity, DoE Energy Dominance Financing, EXIM CTEP and Project Vault, DFC for allied supply, Commerce CHIPS for processing tied to chips, and the National Defense Stockpile as an offtake buyer. Direct equity stakes now sit on top (section 6). A Rosc-stage minerals company mostly interacts through DoE grants and DPA early, then graduates into this stack.",
               "confidence": []
             }
           ]
         },
         {
-          "number": "5.4",
+          "number": "4.4",
           "title": "Space",
-          "id": "s5-4",
+          "id": "s4-4",
           "blocks": [
             {
               "type": "para",
@@ -1274,9 +1231,9 @@
           ]
         },
         {
-          "number": "5.5",
+          "number": "4.5",
           "title": "Marine and maritime",
-          "id": "s5-5",
+          "id": "s4-5",
           "blocks": [
             {
               "type": "para",
@@ -1295,30 +1252,9 @@
           ]
         },
         {
-          "number": "5.6",
-          "title": "AI and autonomy",
-          "id": "s5-6",
-          "blocks": [
-            {
-              "type": "para",
-              "raw": "Shape: contract-led, cross-cutting.",
-              "html": "Shape: contract-led, cross-cutting.",
-              "text": "Shape: contract-led, cross-cutting.",
-              "confidence": []
-            },
-            {
-              "type": "para",
-              "raw": "DIU's AI/ML and autonomy portfolios, the CDAO Tradewinds Solutions Marketplace, Replicator, and In-Q-Tel. Big enough and general enough to warrant its own view, but the capital shape matches software: a contract and a customer, not a non-dilutive check.",
-              "html": "DIU's AI/ML and autonomy portfolios, the CDAO Tradewinds Solutions Marketplace, Replicator, and In-Q-Tel. Big enough and general enough to warrant its own view, but the capital shape matches software: a contract and a customer, not a non-dilutive check.",
-              "text": "DIU's AI/ML and autonomy portfolios, the CDAO Tradewinds Solutions Marketplace, Replicator, and In-Q-Tel. Big enough and general enough to warrant its own view, but the capital shape matches software: a contract and a customer, not a non-dilutive check.",
-              "confidence": []
-            }
-          ]
-        },
-        {
-          "number": "5.7",
+          "number": "4.6",
           "title": "Biotech and biosecurity",
-          "id": "s5-7",
+          "id": "s4-6",
           "blocks": [
             {
               "type": "para",
@@ -1354,30 +1290,9 @@
           ]
         },
         {
-          "number": "5.8",
-          "title": "Cyber (phase two)",
-          "id": "s5-8",
-          "blocks": [
-            {
-              "type": "para",
-              "raw": "Shape: contract-and-customer led.",
-              "html": "Shape: contract-and-customer led.",
-              "text": "Shape: contract-and-customer led.",
-              "confidence": []
-            },
-            {
-              "type": "para",
-              "raw": "DIU's cyber portfolio, In-Q-Tel, the NSA and Cyber Command as customers, AFWERX SBIR. Build after the first seven tabs.",
-              "html": "DIU's cyber portfolio, In-Q-Tel, the NSA and Cyber Command as customers, AFWERX SBIR. Build after the first seven tabs.",
-              "text": "DIU's cyber portfolio, In-Q-Tel, the NSA and Cyber Command as customers, AFWERX SBIR. Build after the first seven tabs.",
-              "confidence": []
-            }
-          ]
-        },
-        {
-          "number": "5.9",
+          "number": "4.7",
           "title": "Microelectronics and semiconductors (phase two)",
-          "id": "s5-9",
+          "id": "s4-7",
           "blocks": [
             {
               "type": "para",
@@ -1388,9 +1303,9 @@
             },
             {
               "type": "para",
-              "raw": "The Commerce CHIPS Program Office is the giant here, plus OSC (microelectronics is a covered category), DIU, and the Defense Microelectronics Activity. Build after the first seven tabs.",
-              "html": "The Commerce CHIPS Program Office is the giant here, plus OSC (microelectronics is a covered category), DIU, and the Defense Microelectronics Activity. Build after the first seven tabs.",
-              "text": "The Commerce CHIPS Program Office is the giant here, plus OSC (microelectronics is a covered category), DIU, and the Defense Microelectronics Activity. Build after the first seven tabs.",
+              "raw": "The Commerce CHIPS Program Office is the giant here, plus OSC (microelectronics is a covered category), DIU, and the Defense Microelectronics Activity. Build after the other six tabs.",
+              "html": "The Commerce CHIPS Program Office is the giant here, plus OSC (microelectronics is a covered category), DIU, and the Defense Microelectronics Activity. Build after the other six tabs.",
+              "text": "The Commerce CHIPS Program Office is the giant here, plus OSC (microelectronics is a covered category), DIU, and the Defense Microelectronics Activity. Build after the other six tabs.",
               "confidence": []
             }
           ]
@@ -1398,9 +1313,9 @@
       ]
     },
     {
-      "number": 6,
+      "number": 5,
       "title": "Coordination and policy",
-      "id": "s6",
+      "id": "s5",
       "intro": [
         {
           "type": "para",
@@ -1411,39 +1326,57 @@
         },
         {
           "type": "para",
-          "raw": "National Security Capital Forum. Established by Section 1092 of the FY2025 National Defense Authorization Act and chaired by the OSC director. The connective tissue on the Department of War side.",
-          "html": "National Security Capital Forum. Established by Section 1092 of the FY2025 National Defense Authorization Act and chaired by the OSC director. The connective tissue on the Department of War side.",
-          "text": "National Security Capital Forum. Established by Section 1092 of the FY2025 National Defense Authorization Act and chaired by the OSC director. The connective tissue on the Department of War side.",
-          "confidence": []
+          "raw": "National Security Capital Forum. Established by Section 1092 of the FY2025 National Defense Authorization Act (P.L. 118-159) and statutorily chaired by the OSC director. The statute directs it to convene domestic and international financiers, capital providers, investors, entrepreneurs, and business representatives alongside relevant federal officials and government and private entities of partner nations, to exchange information on transactions that support US national security interests. Section 876(c) of the FY2026 National Defense Authorization Act (P.L. 119-60) amended its duties, adding an explicit role as a clearinghouse for vetting potential investment transactions [UNVERIFIED, meeting cadence and concrete outputs to date not confirmed at this revision]. The connective tissue on the Department of War side.",
+          "html": "National Security Capital Forum. Established by Section 1092 of the FY2025 National Defense Authorization Act (P.L. 118-159) and statutorily chaired by the OSC director. The statute directs it to convene domestic and international financiers, capital providers, investors, entrepreneurs, and business representatives alongside relevant federal officials and government and private entities of partner nations, to exchange information on transactions that support US national security interests. Section 876(c) of the FY2026 National Defense Authorization Act (P.L. 119-60) amended its duties, adding an explicit role as a clearinghouse for vetting potential investment transactions <span class=\"chip chip-conf conf-unverified\" data-conf=\"UNVERIFIED\">UNVERIFIED</span><span class=\"conf-extra\">meeting cadence and concrete outputs to date not confirmed at this revision</span>. The connective tissue on the Department of War side.",
+          "text": "National Security Capital Forum. Established by Section 1092 of the FY2025 National Defense Authorization Act (P.L. 118-159) and statutorily chaired by the OSC director. The statute directs it to convene domestic and international financiers, capital providers, investors, entrepreneurs, and business representatives alongside relevant federal officials and government and private entities of partner nations, to exchange information on transactions that support US national security interests. Section 876(c) of the FY2026 National Defense Authorization Act (P.L. 119-60) amended its duties, adding an explicit role as a clearinghouse for vetting potential investment transactions UNVERIFIED. The connective tissue on the Department of War side.",
+          "confidence": [
+            "UNVERIFIED"
+          ]
         },
         {
           "type": "para",
-          "raw": "National Energy Dominance Council. The interagency body coordinating critical-minerals and energy action across the Department of Energy, the Department of War, Commerce, Interior, EXIM, and others.",
-          "html": "National Energy Dominance Council. The interagency body coordinating critical-minerals and energy action across the Department of Energy, the Department of War, Commerce, Interior, EXIM, and others.",
-          "text": "National Energy Dominance Council. The interagency body coordinating critical-minerals and energy action across the Department of Energy, the Department of War, Commerce, Interior, EXIM, and others.",
-          "confidence": []
+          "raw": "National Energy Dominance Council. Established by executive order on 14 February 2025, sitting inside the Executive Office of the President rather than at DoE or DoW. The Secretary of the Interior chairs it; the Secretary of Energy vice-chairs it. Membership runs to at least 19 officials, including the EPA Administrator, the Attorney General, and the President's Assistants for Domestic Policy, Economic Policy, and National Security Affairs [UNVERIFIED, exact current membership roster not confirmed at this revision]. Its mandate is broader than critical minerals or defense: permitting, production, generation, distribution, regulation, and transportation across all forms of US energy, feeding into a National Energy Dominance Strategy meant to cut red tape and pull in private investment. It is the interagency body coordinating critical-minerals and energy action across DoE, the Department of War, Commerce, Interior, and EXIM specifically.",
+          "html": "National Energy Dominance Council. Established by executive order on 14 February 2025, sitting inside the Executive Office of the President rather than at DoE or DoW. The Secretary of the Interior chairs it; the Secretary of Energy vice-chairs it. Membership runs to at least 19 officials, including the EPA Administrator, the Attorney General, and the President's Assistants for Domestic Policy, Economic Policy, and National Security Affairs <span class=\"chip chip-conf conf-unverified\" data-conf=\"UNVERIFIED\">UNVERIFIED</span><span class=\"conf-extra\">exact current membership roster not confirmed at this revision</span>. Its mandate is broader than critical minerals or defense: permitting, production, generation, distribution, regulation, and transportation across all forms of US energy, feeding into a National Energy Dominance Strategy meant to cut red tape and pull in private investment. It is the interagency body coordinating critical-minerals and energy action across DoE, the Department of War, Commerce, Interior, and EXIM specifically.",
+          "text": "National Energy Dominance Council. Established by executive order on 14 February 2025, sitting inside the Executive Office of the President rather than at DoE or DoW. The Secretary of the Interior chairs it; the Secretary of Energy vice-chairs it. Membership runs to at least 19 officials, including the EPA Administrator, the Attorney General, and the President's Assistants for Domestic Policy, Economic Policy, and National Security Affairs UNVERIFIED. Its mandate is broader than critical minerals or defense: permitting, production, generation, distribution, regulation, and transportation across all forms of US energy, feeding into a National Energy Dominance Strategy meant to cut red tape and pull in private investment. It is the interagency body coordinating critical-minerals and energy action across DoE, the Department of War, Commerce, Interior, and EXIM specifically.",
+          "confidence": [
+            "UNVERIFIED"
+          ]
         },
         {
           "type": "para",
-          "raw": "Minerals Security Partnership Finance Network. Links DFC, EXIM, and allied finance agencies on critical-minerals projects.",
-          "html": "Minerals Security Partnership Finance Network. Links DFC, EXIM, and allied finance agencies on critical-minerals projects.",
-          "text": "Minerals Security Partnership Finance Network. Links DFC, EXIM, and allied finance agencies on critical-minerals projects.",
-          "confidence": []
+          "raw": "Minerals Security Partnership Finance Network. Links DFC and EXIM to their counterpart export-credit and development-finance agencies across roughly 40 partner-country institutions, including Export Finance Australia, Export Development Canada, the European Investment Bank, KfW, Japan Bank for International Cooperation, JOGMEC, and the Export-Import Bank of Korea. The structure lets member agencies identify and co-finance de-risking opportunities on critical-minerals projects together rather than duplicating each other's diligence. EXIM has already used the network to help structure financing such as a $600 million potential debt package for the Dubbo rare-earths project in Australia [UNVERIFIED, deal status and final terms not confirmed at this revision].",
+          "html": "Minerals Security Partnership Finance Network. Links DFC and EXIM to their counterpart export-credit and development-finance agencies across roughly 40 partner-country institutions, including Export Finance Australia, Export Development Canada, the European Investment Bank, KfW, Japan Bank for International Cooperation, JOGMEC, and the Export-Import Bank of Korea. The structure lets member agencies identify and co-finance de-risking opportunities on critical-minerals projects together rather than duplicating each other's diligence. EXIM has already used the network to help structure financing such as a $600 million potential debt package for the Dubbo rare-earths project in Australia <span class=\"chip chip-conf conf-unverified\" data-conf=\"UNVERIFIED\">UNVERIFIED</span><span class=\"conf-extra\">deal status and final terms not confirmed at this revision</span>.",
+          "text": "Minerals Security Partnership Finance Network. Links DFC and EXIM to their counterpart export-credit and development-finance agencies across roughly 40 partner-country institutions, including Export Finance Australia, Export Development Canada, the European Investment Bank, KfW, Japan Bank for International Cooperation, JOGMEC, and the Export-Import Bank of Korea. The structure lets member agencies identify and co-finance de-risking opportunities on critical-minerals projects together rather than duplicating each other's diligence. EXIM has already used the network to help structure financing such as a $600 million potential debt package for the Dubbo rare-earths project in Australia UNVERIFIED.",
+          "confidence": [
+            "UNVERIFIED"
+          ]
         },
         {
           "type": "para",
-          "raw": "National Security Commission on Emerging Biotechnology. The policy body driving the biotech authorities in section 5.7.",
-          "html": "National Security Commission on Emerging Biotechnology. The policy body driving the biotech authorities in section 5.7.",
-          "text": "National Security Commission on Emerging Biotechnology. The policy body driving the biotech authorities in section 5.7.",
-          "confidence": []
+          "raw": "National Security Commission on Emerging Biotechnology. A congressionally chartered commission that published its final report and action plan, \"Charting the Future of Biotechnology: An Action Plan for American Security and Prosperity,\" on 8 April 2025. The report sets out 49 recommendations across six pillars, including standing up a National Biotechnology Coordination Office inside the Executive Office of the President, mobilizing private capital to scale US biomanufacturing, and tightening outbound-investment rules to keep US capital out of Chinese biotechnology development [UNVERIFIED, which recommendations have since been enacted is not confirmed at this revision]. The policy body driving the biotech authorities in section 4.6.",
+          "html": "National Security Commission on Emerging Biotechnology. A congressionally chartered commission that published its final report and action plan, \"Charting the Future of Biotechnology: An Action Plan for American Security and Prosperity,\" on 8 April 2025. The report sets out 49 recommendations across six pillars, including standing up a National Biotechnology Coordination Office inside the Executive Office of the President, mobilizing private capital to scale US biomanufacturing, and tightening outbound-investment rules to keep US capital out of Chinese biotechnology development <span class=\"chip chip-conf conf-unverified\" data-conf=\"UNVERIFIED\">UNVERIFIED</span><span class=\"conf-extra\">which recommendations have since been enacted is not confirmed at this revision</span>. The policy body driving the biotech authorities in section 4.6.",
+          "text": "National Security Commission on Emerging Biotechnology. A congressionally chartered commission that published its final report and action plan, \"Charting the Future of Biotechnology: An Action Plan for American Security and Prosperity,\" on 8 April 2025. The report sets out 49 recommendations across six pillars, including standing up a National Biotechnology Coordination Office inside the Executive Office of the President, mobilizing private capital to scale US biomanufacturing, and tightening outbound-investment rules to keep US capital out of Chinese biotechnology development UNVERIFIED. The policy body driving the biotech authorities in section 4.6.",
+          "confidence": [
+            "UNVERIFIED"
+          ]
+        },
+        {
+          "type": "callout",
+          "label": "INSTRUMENT NOTE",
+          "paras": [
+            {
+              "html": "None of these four bodies write a check to a company. The Capital Forum and the Biotechnology Commission produce coordination and policy, not capital; the Energy Dominance Council sits above DoE and DoW rather than inside either; the Minerals Finance Network is a coordination layer between DFC, EXIM, and their foreign counterparts. A founder cannot apply to any of the four directly. They matter for reading where DoW, DoE, DFC, and EXIM decisions are headed next, not as a door in themselves.",
+              "confidence": []
+            }
+          ]
         }
       ],
       "subsections": []
     },
     {
-      "number": 7,
+      "number": 6,
       "title": "The equity shift",
-      "id": "s7",
+      "id": "s6",
       "intro": [
         {
           "type": "para",
@@ -1493,9 +1426,9 @@
       "subsections": []
     },
     {
-      "number": 8,
+      "number": 7,
       "title": "Rosc read",
-      "id": "s8",
+      "id": "s7",
       "intro": [
         {
           "type": "para",
@@ -1513,9 +1446,9 @@
         },
         {
           "type": "para",
-          "raw": "Which doors a Rosc portfolio company knocks on first, by shape. A hardware or space portfolio company has the fullest seed menu: NSIC first, then a DIU CSO for revenue, then a TACFI bridge that pulls Rosc's own check in through the match. A software or AI company has no comparable non-dilutive check, so the play is a paying DIU customer early. A critical-minerals company has almost no seed lane and should be evaluated knowing the real money is late and increasingly comes with a government owner attached.",
-          "html": "Which doors a Rosc portfolio company knocks on first, by shape. A hardware or space portfolio company has the fullest seed menu: NSIC first, then a DIU CSO for revenue, then a TACFI bridge that pulls Rosc's own check in through the match. A software or AI company has no comparable non-dilutive check, so the play is a paying DIU customer early. A critical-minerals company has almost no seed lane and should be evaluated knowing the real money is late and increasingly comes with a government owner attached.",
-          "text": "Which doors a Rosc portfolio company knocks on first, by shape. A hardware or space portfolio company has the fullest seed menu: NSIC first, then a DIU CSO for revenue, then a TACFI bridge that pulls Rosc's own check in through the match. A software or AI company has no comparable non-dilutive check, so the play is a paying DIU customer early. A critical-minerals company has almost no seed lane and should be evaluated knowing the real money is late and increasingly comes with a government owner attached.",
+          "raw": "Which doors a Rosc portfolio company knocks on first, by shape. A hardware or space portfolio company has the fullest seed menu: NSIC first, then a DIU CSO for revenue, then a TACFI bridge that pulls Rosc's own check in through the match. A software, AI, or cyber company has no comparable primary non-dilutive check, though NSF and DHS SVIP are real secondary doors, so the main play is a paying DIU customer early. A critical-minerals company has almost no seed lane and should be evaluated knowing the real money is late and increasingly comes with a government owner attached.",
+          "html": "Which doors a Rosc portfolio company knocks on first, by shape. A hardware or space portfolio company has the fullest seed menu: NSIC first, then a DIU CSO for revenue, then a TACFI bridge that pulls Rosc's own check in through the match. A software, AI, or cyber company has no comparable primary non-dilutive check, though NSF and DHS SVIP are real secondary doors, so the main play is a paying DIU customer early. A critical-minerals company has almost no seed lane and should be evaluated knowing the real money is late and increasingly comes with a government owner attached.",
+          "text": "Which doors a Rosc portfolio company knocks on first, by shape. A hardware or space portfolio company has the fullest seed menu: NSIC first, then a DIU CSO for revenue, then a TACFI bridge that pulls Rosc's own check in through the match. A software, AI, or cyber company has no comparable primary non-dilutive check, though NSF and DHS SVIP are real secondary doors, so the main play is a paying DIU customer early. A critical-minerals company has almost no seed lane and should be evaluated knowing the real money is late and increasingly comes with a government owner attached.",
           "confidence": []
         },
         {
@@ -1527,9 +1460,9 @@
         },
         {
           "type": "para",
-          "raw": "The OnRamp Hub note. Rosc has a live bid, through First Light Works with Ateklo and Gaven, to operate a DIU Defense Innovation OnRamp Hub at Brunswick Landing under Section 913 of the FY2026 National Defense Authorization Act. New hubs are sub-awardees under a cooperative agreement held by the Applied Research Institute, not contracts with DIU directly. That structure matters for how any hub economics and reporting obligations flow. [Kept out of the neutral DIU entry in section 4.1 on purpose. Handle distribution of this section with care given the open bid.]",
-          "html": "The OnRamp Hub note. Rosc has a live bid, through First Light Works with Ateklo and Gaven, to operate a DIU Defense Innovation OnRamp Hub at Brunswick Landing under Section 913 of the FY2026 National Defense Authorization Act. New hubs are sub-awardees under a cooperative agreement held by the Applied Research Institute, not contracts with DIU directly. That structure matters for how any hub economics and reporting obligations flow. <span class=\"aside\">[Kept out of the neutral DIU entry in section 4.1 on purpose. Handle distribution of this section with care given the open bid.]</span>",
-          "text": "The OnRamp Hub note. Rosc has a live bid, through First Light Works with Ateklo and Gaven, to operate a DIU Defense Innovation OnRamp Hub at Brunswick Landing under Section 913 of the FY2026 National Defense Authorization Act. New hubs are sub-awardees under a cooperative agreement held by the Applied Research Institute, not contracts with DIU directly. That structure matters for how any hub economics and reporting obligations flow. Kept out of the neutral DIU entry in section 4.1 on purpose. Handle distribution of this section with care given the open bid.",
+          "raw": "The OnRamp Hub note. Rosc has a live bid, through First Light Works with Ateklo and Gaven, to operate a DIU Defense Innovation OnRamp Hub at Brunswick Landing under Section 913 of the FY2026 National Defense Authorization Act. New hubs are sub-awardees under a cooperative agreement held by the Applied Research Institute, not contracts with DIU directly. That structure matters for how any hub economics and reporting obligations flow. [Kept out of the neutral DIU entry in section 3.1 on purpose. Handle distribution of this section with care given the open bid.]",
+          "html": "The OnRamp Hub note. Rosc has a live bid, through First Light Works with Ateklo and Gaven, to operate a DIU Defense Innovation OnRamp Hub at Brunswick Landing under Section 913 of the FY2026 National Defense Authorization Act. New hubs are sub-awardees under a cooperative agreement held by the Applied Research Institute, not contracts with DIU directly. That structure matters for how any hub economics and reporting obligations flow. <span class=\"aside\">[Kept out of the neutral DIU entry in section 3.1 on purpose. Handle distribution of this section with care given the open bid.]</span>",
+          "text": "The OnRamp Hub note. Rosc has a live bid, through First Light Works with Ateklo and Gaven, to operate a DIU Defense Innovation OnRamp Hub at Brunswick Landing under Section 913 of the FY2026 National Defense Authorization Act. New hubs are sub-awardees under a cooperative agreement held by the Applied Research Institute, not contracts with DIU directly. That structure matters for how any hub economics and reporting obligations flow. Kept out of the neutral DIU entry in section 3.1 on purpose. Handle distribution of this section with care given the open bid.",
           "confidence": []
         },
         {
@@ -1543,9 +1476,9 @@
       "subsections": []
     },
     {
-      "number": 9,
+      "number": 8,
       "title": "Constraints and gaps",
-      "id": "s9",
+      "id": "s8",
       "intro": [
         {
           "type": "para",
@@ -1587,14 +1520,24 @@
               "confidence": []
             },
             {
-              "html": "This map deprioritises SBIR and STTR by design. Army, Navy, and SOCOM service on-ramps got a deeper pass in this revision (the five Department of War entries added under 4.1 after Economic Defense Unit); Air Force, Space Force, and civil-agency SBIR/STTR are still named only as an on-ramp, not inventoried in full.",
+              "html": "This map deprioritises SBIR and STTR by design. Army, Navy, and SOCOM service on-ramps got a deeper pass in this revision (the five Department of War entries added under 3.1 after Economic Defense Unit); Air Force, Space Force, and civil-agency SBIR/STTR are still named only as an on-ramp, not inventoried in full.",
               "confidence": []
             },
             {
-              "html": "The five entries added to 4.1 covering Army, Navy, and SOCOM service on-ramps (Army Applications Laboratory and xTech, NavalX and the Tech Bridge network, Office of Naval Research SBIR/STTR, SOFWERX, and Marine Corps Warfighting Laboratory) were researched separately from the rest of this document and carry a heavier <span class=\"chip chip-conf conf-unverified\" data-conf=\"UNVERIFIED\">UNVERIFIED</span> load as a result. Confirm current award sizes and program status against primary .mil sources before citing any figure in that block externally.",
+              "html": "The five entries added to 3.1 covering Army, Navy, and SOCOM service on-ramps (Army Applications Laboratory and xTech, NavalX and the Tech Bridge network, Office of Naval Research SBIR/STTR, SOFWERX, and Marine Corps Warfighting Laboratory) were researched separately from the rest of this document and carry a heavier <span class=\"chip chip-conf conf-unverified\" data-conf=\"UNVERIFIED\">UNVERIFIED</span> load as a result. Confirm current award sizes and program status against primary .mil sources before citing any figure in that block externally.",
               "confidence": [
                 "UNVERIFIED"
               ]
+            },
+            {
+              "html": "Section 5's coverage of the National Security Capital Forum, the National Energy Dominance Council, the Minerals Security Partnership Finance Network, and the National Security Commission on Emerging Biotechnology was researched the same way as the service entries above (live search, not the original content package) and carries the same heavier <span class=\"chip chip-conf conf-unverified\" data-conf=\"UNVERIFIED\">UNVERIFIED</span> load. Membership rosters, meeting cadence, and which biotech-commission recommendations have been enacted all need a primary-source check before external use.",
+              "confidence": [
+                "UNVERIFIED"
+              ]
+            },
+            {
+              "html": "Software, AI and autonomy, and cyber were folded into a single sector tab in this revision. The merge changes which vehicles appear lit on that tab (NSF America's Seed Fund, DHS SVIP, and NATO DIANA now show as non-dilutive doors there); the underlying source prose for each of the three original sub-sectors was preserved, not rewritten, and only the tab grouping and the non-dilutive read changed.",
+              "confidence": []
             }
           ]
         }
@@ -1602,9 +1545,9 @@
       "subsections": []
     },
     {
-      "number": 10,
+      "number": 9,
       "title": "Key names",
-      "id": "s10",
+      "id": "s9",
       "intro": [
         {
           "type": "table",
@@ -1706,6 +1649,34 @@
                 "html": "STALE",
                 "confidence": []
               }
+            ],
+            [
+              {
+                "html": "Doug Burgum",
+                "confidence": []
+              },
+              {
+                "html": "Chair, National Energy Dominance Council (Secretary of the Interior)",
+                "confidence": []
+              },
+              {
+                "html": "UNVERIFIED",
+                "confidence": []
+              }
+            ],
+            [
+              {
+                "html": "Chris Wright",
+                "confidence": []
+              },
+              {
+                "html": "Vice Chair, National Energy Dominance Council (Secretary of Energy)",
+                "confidence": []
+              },
+              {
+                "html": "UNVERIFIED",
+                "confidence": []
+              }
             ]
           ]
         }
@@ -1713,9 +1684,9 @@
       "subsections": []
     },
     {
-      "number": 11,
+      "number": 10,
       "title": "Glossary",
-      "id": "s11",
+      "id": "s10",
       "intro": [
         {
           "type": "table",
@@ -1889,6 +1860,56 @@
                 "html": "Technology Readiness Level",
                 "confidence": []
               }
+            ],
+            [
+              {
+                "html": "AAL",
+                "confidence": []
+              },
+              {
+                "html": "Army Applications Laboratory, the Army's xTech prize-competition front door",
+                "confidence": []
+              }
+            ],
+            [
+              {
+                "html": "T2COM",
+                "confidence": []
+              },
+              {
+                "html": "Army Transformation and Training Command, the October 2025 merger of Army Futures Command and TRADOC",
+                "confidence": []
+              }
+            ],
+            [
+              {
+                "html": "MCWL",
+                "confidence": []
+              },
+              {
+                "html": "Marine Corps Warfighting Laboratory",
+                "confidence": []
+              }
+            ],
+            [
+              {
+                "html": "NEDC",
+                "confidence": []
+              },
+              {
+                "html": "National Energy Dominance Council, the White House body chaired by the Secretary of the Interior",
+                "confidence": []
+              }
+            ],
+            [
+              {
+                "html": "NSCEB",
+                "confidence": []
+              },
+              {
+                "html": "National Security Commission on Emerging Biotechnology",
+                "confidence": []
+              }
             ]
           ]
         }
@@ -1896,9 +1917,9 @@
       "subsections": []
     },
     {
-      "number": 12,
+      "number": 11,
       "title": "Sources",
-      "id": "s12",
+      "id": "s11",
       "intro": [
         {
           "type": "para",
@@ -1958,6 +1979,38 @@
             {
               "html": "Rosc ARI/DARPA/DIU map, for the DARPA Commercial Strategy Office and DIU OnRamp Hub structure",
               "confidence": []
+            },
+            {
+              "html": "Army.mil and ExecutiveGov coverage of the October 2025 Army Futures Command / TRADOC merger into T2COM; xtech.army.mil competition pages, for Army Applications Laboratory and xTech",
+              "confidence": []
+            },
+            {
+              "html": "Office of Naval Research news releases on the Tech Bridge network and NavalX; navysbir.com and NAVSEA SBIR/STTR industry-day materials",
+              "confidence": []
+            },
+            {
+              "html": "SOFWERX program materials, sofwerx.org, and reporting on DEFENSEWERX's partnership intermediary agreement with USSOCOM",
+              "confidence": []
+            },
+            {
+              "html": "Marine Corps Warfighting Laboratory and USMC Innovation Challenge public notices, mcwl.marines.mil",
+              "confidence": []
+            },
+            {
+              "html": "Federal Register, Executive Order establishing the National Energy Dominance Council (14 February 2025); energy.gov/about-nedc",
+              "confidence": []
+            },
+            {
+              "html": "US Department of State joint statement on the Minerals Security Partnership Finance Network; DFC press releases on critical-minerals co-financing",
+              "confidence": []
+            },
+            {
+              "html": "National Security Commission on Emerging Biotechnology, \"Charting the Future of Biotechnology: An Action Plan for American Security and Prosperity\" (8 April 2025), and CRS summary IN12546",
+              "confidence": []
+            },
+            {
+              "html": "Congressional Research Service and Crowell &amp; Moring coverage of Section 1092 (FY2025 NDAA) and Section 876 (FY2026 NDAA) on the National Security Capital Forum",
+              "confidence": []
             }
           ]
         }
@@ -1981,7 +2034,7 @@
       "rows": [
         [
           {
-            "html": "How to read this document",
+            "html": "2. The six shapes of money",
             "confidence": []
           },
           {
@@ -1991,7 +2044,7 @@
         ],
         [
           {
-            "html": "2. The capital map",
+            "html": "3. Vehicle directory",
             "confidence": []
           },
           {
@@ -2001,7 +2054,7 @@
         ],
         [
           {
-            "html": "3. The six shapes of money",
+            "html": "3.1 Department of War",
             "confidence": []
           },
           {
@@ -2011,7 +2064,7 @@
         ],
         [
           {
-            "html": "4. Vehicle directory",
+            "html": "3.2 Intelligence Community",
             "confidence": []
           },
           {
@@ -2021,7 +2074,7 @@
         ],
         [
           {
-            "html": "4.1 Department of War",
+            "html": "3.3 Energy",
             "confidence": []
           },
           {
@@ -2031,7 +2084,7 @@
         ],
         [
           {
-            "html": "4.2 Intelligence Community",
+            "html": "3.4 Trade and development finance",
             "confidence": []
           },
           {
@@ -2041,7 +2094,7 @@
         ],
         [
           {
-            "html": "4.3 Energy",
+            "html": "3.5 Allied and multinational",
             "confidence": []
           },
           {
@@ -2051,7 +2104,7 @@
         ],
         [
           {
-            "html": "4.4 Trade and development finance",
+            "html": "3.6 Civil agencies",
             "confidence": []
           },
           {
@@ -2061,7 +2114,7 @@
         ],
         [
           {
-            "html": "4.5 Allied and multinational",
+            "html": "4. Sector pathways",
             "confidence": []
           },
           {
@@ -2071,7 +2124,7 @@
         ],
         [
           {
-            "html": "4.6 Civil agencies",
+            "html": "5. Coordination and policy",
             "confidence": []
           },
           {
@@ -2081,7 +2134,7 @@
         ],
         [
           {
-            "html": "5. Sector pathways",
+            "html": "6. The equity shift",
             "confidence": []
           },
           {
@@ -2091,7 +2144,7 @@
         ],
         [
           {
-            "html": "6. Coordination and policy",
+            "html": "7. Rosc read",
             "confidence": []
           },
           {
@@ -2101,7 +2154,7 @@
         ],
         [
           {
-            "html": "7. The equity shift",
+            "html": "8. Constraints and gaps",
             "confidence": []
           },
           {
@@ -2111,7 +2164,7 @@
         ],
         [
           {
-            "html": "8. Rosc read",
+            "html": "9. Key names",
             "confidence": []
           },
           {
@@ -2121,7 +2174,7 @@
         ],
         [
           {
-            "html": "9. Constraints and gaps",
+            "html": "10. Glossary",
             "confidence": []
           },
           {
@@ -2131,27 +2184,7 @@
         ],
         [
           {
-            "html": "10. Key names",
-            "confidence": []
-          },
-          {
-            "html": "",
-            "confidence": []
-          }
-        ],
-        [
-          {
-            "html": "11. Glossary",
-            "confidence": []
-          },
-          {
-            "html": "",
-            "confidence": []
-          }
-        ],
-        [
-          {
-            "html": "12. Sources",
+            "html": "11. Sources",
             "confidence": []
           },
           {
@@ -2589,16 +2622,16 @@
     }
   ],
   "meta": {
-    "sections": 12,
+    "sections": 11,
     "tables": 3,
     "vehicles": 23,
-    "sectorSubsections": 9,
-    "words": 6273,
+    "sectorSubsections": 7,
+    "words": 6909,
     "confidence": {
       "PENDING LEGISLATION": 2,
       "STALE": 1,
       "CUMULATIVE — REFRESH": 3,
-      "UNVERIFIED": 10
+      "UNVERIFIED": 14
     },
     "generated": "September 2026"
   }

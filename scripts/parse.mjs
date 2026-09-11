@@ -277,7 +277,7 @@ function collectVehicles(blocks, sectionNum, subTitle) {
     }
   });
 }
-const sec4 = doc.sections.find((s) => s.number === 4);
+const sec4 = doc.sections.find((s) => s.number === 3);
 sec4.subsections.forEach((ss) => collectVehicles(ss.blocks, 4, ss.title));
 doc.vehicles = vehicles;
 
@@ -301,7 +301,7 @@ doc.meta = {
   sections: doc.sections.length,
   tables,
   vehicles: vehicles.length,
-  sectorSubsections: doc.sections.find((s) => s.number === 5).subsections.length,
+  sectorSubsections: doc.sections.find((s) => s.number === 4).subsections.length,
   words: src.split(/\s+/).filter(Boolean).length,
   confidence: conf,
   generated: 'September 2026',
@@ -311,9 +311,9 @@ mkdirSync(dirname(OUT_JSON), { recursive: true });
 writeFileSync(OUT_JSON, JSON.stringify(doc, null, 2));
 writeFileSync(OUT_JS, 'window.__NATSEC__ = ' + JSON.stringify(doc) + ';\n');
 
-console.log('sections :', doc.meta.sections, '(want 12)');
+console.log('sections :', doc.meta.sections, '(want 11)');
 console.log('tables   :', doc.meta.tables);
-console.log('vehicles :', doc.meta.vehicles, '(want ~24)');
-console.log('sector subtabs:', doc.meta.sectorSubsections, '(want 9)');
+console.log('vehicles :', doc.meta.vehicles, '(want ~23)');
+console.log('sector subtabs:', doc.meta.sectorSubsections, '(want 7)');
 console.log('words    :', doc.meta.words);
 console.log('markers  :', JSON.stringify(conf));

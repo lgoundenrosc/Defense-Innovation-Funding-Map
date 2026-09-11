@@ -87,12 +87,12 @@
   // rendered verbatim regardless of this lookup, which drives the grid only.
   var SECTOR_LIT = {
     'National Security Innovation Capital (NSIC)': [1, 4, 5],
-    'Defense Innovation Unit (DIU)': [1, 2, 4, 5, 6, 7, 8, 9],
-    'AFWERX / AFVentures': [1, 2, 4, 8],
-    'NATO DIANA': [1, 4, 7],
-    'Defense Production Act Title III': [1, 3, 7],
-    'Office of Strategic Capital (OSC)': [1, 3, 9],
-    'In-Q-Tel (IQT)': [2, 4, 6, 7, 8],
+    'Defense Innovation Unit (DIU)': [1, 2, 4, 5, 6, 7],
+    'AFWERX / AFVentures': [1, 2, 4],
+    'NATO DIANA': [1, 2, 4, 6],
+    'Defense Production Act Title III': [1, 3, 6],
+    'Office of Strategic Capital (OSC)': [1, 3, 7],
+    'In-Q-Tel (IQT)': [2, 4, 6],
     'SpaceWERX / Space Ventures': [4],
     'DoE Energy Dominance Financing (formerly the Loan Programs Office)': [3],
     'Export-Import Bank (EXIM)': [3],
@@ -101,20 +101,9 @@
     'NavalX and the Tech Bridge network': [5],
     'Office of Naval Research (ONR) SBIR/STTR': [5],
     'SOFWERX': [5],
-    'Marine Corps Warfighting Laboratory (MCWL)': [5]
+    "NSF America's Seed Fund": [2],
+    'DHS SVIP': [2]
   };
-
-  var SECTOR_LIST = [
-    { n: 1, label: 'Hardware' },
-    { n: 2, label: 'Software' },
-    { n: 3, label: 'Critical minerals' },
-    { n: 4, label: 'Space' },
-    { n: 5, label: 'Marine and maritime' },
-    { n: 6, label: 'AI and autonomy' },
-    { n: 7, label: 'Biotech and biosecurity' },
-    { n: 8, label: 'Cyber (phase two)' },
-    { n: 9, label: 'Microelectronics and semiconductors (phase two)' }
-  ];
 
   var ROWS = [
     { key: 'NON-DILUTIVE', label: 'Non-dilutive capital' },
@@ -129,17 +118,16 @@
 
   var TABS = [
     { id: 'overview', label: 'Overview', sections: [1] },
-    { id: 'map', label: 'The capital map', sections: [2] },
-    { id: 'instruments', label: 'Instrument types', sections: [3] },
-    { id: 'directory', label: 'Vehicle directory', sections: [4] },
-    { id: 'sectors', label: 'Sector pathways', sections: [5], star: true },
-    { id: 'coord', label: 'Coordination and policy', sections: [6] },
-    { id: 'equity', label: 'The equity shift', sections: [7], sq: true },
-    { id: 'rosc', label: 'Rosc read', sections: [8] },
-    { id: 'gaps', label: 'Constraints and gaps', sections: [9], sq: true },
-    { id: 'names', label: 'Key names', sections: [10] },
-    { id: 'glossary', label: 'Glossary', sections: [11] },
-    { id: 'sources', label: 'Sources', sections: [12] }
+    { id: 'instruments', label: 'Instrument types', sections: [2] },
+    { id: 'directory', label: 'Vehicle directory', sections: [3] },
+    { id: 'sectors', label: 'Sector pathways', sections: [4], star: true },
+    { id: 'coord', label: 'Coordination and policy', sections: [5] },
+    { id: 'equity', label: 'The equity shift', sections: [6], sq: true },
+    { id: 'rosc', label: 'Rosc read', sections: [7] },
+    { id: 'gaps', label: 'Constraints and gaps', sections: [8], sq: true },
+    { id: 'names', label: 'Key names', sections: [9] },
+    { id: 'glossary', label: 'Glossary', sections: [10] },
+    { id: 'sources', label: 'Sources', sections: [11] }
   ];
 
   /* ---------- callouts ---------- */
@@ -149,6 +137,7 @@
     'VC WHITE SPACE': 'green',
     'THE DEFINING MECHANIC': 'green-strong',
     'HANDLE WITH CARE': 'red',
+    'INSTRUMENT NOTE': 'rust',
     'HOW TO READ THIS ENTRY': 'amber',
     'WHY THIS SITS HERE': 'amber',
     'REVISION NOTE': 'navy',
@@ -212,13 +201,17 @@
 
   function renderVehicle(b) {
     var v = byHeading[b.heading];
+    var bodyId = v.id + '-body';
     var h = '<div class="vehicle-card" id="' + v.id + '" data-body="' + v.body.join(' ') + '" data-heat="' + (v.heat || '') + '" data-open="' + (v.openness || '') + '">';
+    h += '<button type="button" class="veh-toggle" aria-expanded="false" aria-controls="' + bodyId + '">';
     h += '<h4 class="veh-h">' + b.headingHtml + '</h4>';
     h += '<div class="veh-tagline">' + vehicleTagLine(v) + '</div>';
     if (b.heat) {
       h += '<div class="chip-row">' + chip('heat', b.heat.heat) + chip('open', b.heat.openness) + '</div>';
     }
-    h += renderBlocks(b.blocks).join('');
+    h += '<span class="veh-caret" aria-hidden="true">+</span>';
+    h += '</button>';
+    h += '<div class="veh-body" id="' + bodyId + '" hidden>' + renderBlocks(b.blocks).join('') + '</div>';
     h += '</div>';
     return h;
   }
@@ -226,8 +219,8 @@
   /* ---------- capital map matrix ---------- */
 
   function findMatrixTable() {
-    var sec2 = DOC.sections.find(function (s) { return s.number === 2; });
-    return sec2.intro.find(function (b) { return b.type === 'table'; });
+    var sec1 = DOC.sections.find(function (s) { return s.number === 1; });
+    return sec1.intro.find(function (b) { return b.type === 'table'; });
   }
 
   function cellVehicleChips(cellHtml) {
@@ -383,12 +376,46 @@
     return out;
   }
 
+  // Coordination and policy. The four bodies now carry real substance, so
+  // each renders as its own collapsible card (name visible, detail on
+  // demand) rather than a wall of paragraphs. The framing sentence and any
+  // trailing callout stay outside the cards, always visible.
+  function renderCoordinationPolicy(sec) {
+    var body = [];
+    var seenFirstPara = false;
+    sec.intro.forEach(function (blk) {
+      if (blk.type === 'para' && !seenFirstPara) {
+        seenFirstPara = true;
+        body.push('<p>' + blk.html + '</p>');
+        return;
+      }
+      if (blk.type === 'para') {
+        var idx = blk.html.indexOf('. ');
+        var name = idx >= 0 ? blk.html.slice(0, idx + 1) : blk.html;
+        var rest = idx >= 0 ? blk.html.slice(idx + 2) : '';
+        var cardId = 'policy-' + slug(stripTags(name));
+        body.push(
+          '<div class="policy-card">' +
+            '<button type="button" class="policy-toggle" aria-expanded="false" aria-controls="' + cardId + '">' +
+              '<span class="policy-name">' + name + '</span>' +
+              '<span class="policy-caret" aria-hidden="true">+</span>' +
+            '</button>' +
+            '<div class="policy-body" id="' + cardId + '" hidden><p>' + rest + '</p></div>' +
+          '</div>'
+        );
+        return;
+      }
+      body = body.concat(renderBlocks([blk]));
+    });
+    return body.join('');
+  }
+
   function renderSection(sec, opts) {
     var body = [];
     body.push('<h2 class="sec-h"><span class="n">' + String(sec.number).padStart(2, '0') + '</span>' + sec.title + '</h2>');
     body.push('<div class="rule"></div>');
 
-    if (sec.number === 4) {
+    if (sec.number === 3) {
       body.push(directoryFilterBar());
       sec.subsections.forEach(function (ss) {
         body.push('<h3 class="sub-h"><span class="n">' + ss.number + '</span>' + ss.title + '</h3>');
@@ -397,9 +424,14 @@
       return body.join('');
     }
 
-    if (sec.number === 5) {
+    if (sec.number === 4) {
       body = body.concat(renderBlocks(sec.intro));
       body.push(buildSectorTab(sec));
+      return body.join('');
+    }
+
+    if (sec.number === 5) {
+      body.push(renderCoordinationPolicy(sec));
       return body.join('');
     }
 
@@ -416,8 +448,8 @@
   /* ---------- glossary tooltips ---------- */
 
   var GLOSS_ROWS = (function () {
-    var sec11 = DOC.sections.find(function (s) { return s.number === 11; });
-    var t = sec11.intro.find(function (b) { return b.type === 'table'; });
+    var sec10 = DOC.sections.find(function (s) { return s.number === 10; });
+    var t = sec10.intro.find(function (b) { return b.type === 'table'; });
     if (!t) return [];
     return t.rows.map(function (r) {
       return { term: stripTags(r[0].html), def: stripTags(r[1].html), defHtml: r[1].html };
@@ -503,8 +535,8 @@
       t.sections.forEach(function (num) {
         var sec = DOC.sections.find(function (s) { return s.number === num; });
         var opts = null;
-        if (num === 2) opts = { afterIntro: buildMatrixVisual(), afterIntroAt: 1 };
-        body += '<section class="src-section">' + (num === 11 ? renderGlossarySection(sec) : renderSection(sec, opts)) + '</section>';
+        if (num === 1) opts = { afterIntro: buildMatrixVisual(), afterIntroAt: 1 };
+        body += '<section class="src-section">' + (num === 10 ? renderGlossarySection(sec) : renderSection(sec, opts)) + '</section>';
       });
       body += '<div class="runfoot"><span>For internal Rosc use only</span><span class="sep">·</span><span>Figures current to ' + DOC.date + ', re-verify before any outreach</span></div>';
 
@@ -529,6 +561,10 @@
         $$('.sector-pane', pane).forEach(function (p) { p.hidden = p.dataset.sectorPane !== st.dataset.sector; });
         return;
       }
+      var vt = e.target.closest('.veh-toggle');
+      if (vt) { toggleCollapsible(vt); return; }
+      var pt = e.target.closest('.policy-toggle');
+      if (pt) { toggleCollapsible(pt); return; }
       var jump = e.target.closest('[data-jump]');
       if (jump && jump.dataset.jump) {
         select('directory');
@@ -536,6 +572,8 @@
         if (target) {
           $('#f-body').value = ''; $('#f-heat').value = ''; $('#f-open').value = '';
           applyDirectoryFilters();
+          var toggle = $('.veh-toggle', target);
+          if (toggle) toggleCollapsible(toggle, true);
           setTimeout(function () { target.scrollIntoView({ behavior: 'smooth', block: 'center' }); }, 30);
         }
       }
@@ -551,6 +589,15 @@
     });
 
     select('overview');
+  }
+
+  function toggleCollapsible(toggle, forceOpen) {
+    var open = forceOpen === true ? true : toggle.getAttribute('aria-expanded') !== 'true';
+    toggle.setAttribute('aria-expanded', String(open));
+    var body = document.getElementById(toggle.getAttribute('aria-controls'));
+    if (body) body.hidden = !open;
+    var caret = $('.veh-caret, .policy-caret', toggle);
+    if (caret) caret.textContent = open ? '−' : '+';
   }
 
   function select(id) {
