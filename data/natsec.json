@@ -296,10 +296,12 @@
               "blocks": [
                 {
                   "type": "para",
-                  "raw": "The Department of War's finance office, created December 2022 and codified in Section 903 of the FY2024 National Defense Authorization Act. Unlike a procurement office, OSC uses loans and loan guarantees rather than grants and contracts, and it may finance venture and private-equity funds as well as companies. Its authority covers 31 covered technology categories [one CRS product cites 34 for the pilot program; not reconciled].",
-                  "html": "The Department of War's finance office, created December 2022 and codified in Section 903 of the FY2024 National Defense Authorization Act. Unlike a procurement office, OSC uses loans and loan guarantees rather than grants and contracts, and it may finance venture and private-equity funds as well as companies. Its authority covers 31 covered technology categories <span class=\"aside\">[one CRS product cites 34 for the pilot program; not reconciled]</span>.",
-                  "text": "The Department of War's finance office, created December 2022 and codified in Section 903 of the FY2024 National Defense Authorization Act. Unlike a procurement office, OSC uses loans and loan guarantees rather than grants and contracts, and it may finance venture and private-equity funds as well as companies. Its authority covers 31 covered technology categories one CRS product cites 34 for the pilot program; not reconciled.",
-                  "confidence": []
+                  "raw": "The Department of War's finance office, created December 2022 and codified in Section 903 of the FY2024 National Defense Authorization Act. Unlike a procurement office, OSC uses loans and loan guarantees rather than grants and contracts, and it may finance venture and private-equity funds as well as companies. Its authority covers 31 covered technology categories, the count set by the FY2024 NDAA itself: advanced bulk materials, advanced manufacturing, autonomous mobile robots, battery storage, biochemicals, bioenergetics, biomass, cybersecurity, data fabric, decision science, edge computing, external communication, hydrogen generation and storage, mesh networks, and microelectronics assembly, testing, and packaging among them [UNVERIFIED, full 31-item list assembled from a partial secondary source, confirm the complete list against the statute or OSC's own Investment Strategy before citing]. A separate 34-count appears in one CRS product describing the pilot program rather than the statutory authority; the two numbers likely describe overlapping but not identical scopes, not a single reconciled figure.",
+                  "html": "The Department of War's finance office, created December 2022 and codified in Section 903 of the FY2024 National Defense Authorization Act. Unlike a procurement office, OSC uses loans and loan guarantees rather than grants and contracts, and it may finance venture and private-equity funds as well as companies. Its authority covers 31 covered technology categories, the count set by the FY2024 NDAA itself: advanced bulk materials, advanced manufacturing, autonomous mobile robots, battery storage, biochemicals, bioenergetics, biomass, cybersecurity, data fabric, decision science, edge computing, external communication, hydrogen generation and storage, mesh networks, and microelectronics assembly, testing, and packaging among them <span class=\"chip chip-conf conf-unverified\" data-conf=\"UNVERIFIED\">UNVERIFIED</span><span class=\"conf-extra\">full 31-item list assembled from a partial secondary source, confirm the complete list against the statute or OSC's own Investment Strategy before citing</span>. A separate 34-count appears in one CRS product describing the pilot program rather than the statutory authority; the two numbers likely describe overlapping but not identical scopes, not a single reconciled figure.",
+                  "text": "The Department of War's finance office, created December 2022 and codified in Section 903 of the FY2024 National Defense Authorization Act. Unlike a procurement office, OSC uses loans and loan guarantees rather than grants and contracts, and it may finance venture and private-equity funds as well as companies. Its authority covers 31 covered technology categories, the count set by the FY2024 NDAA itself: advanced bulk materials, advanced manufacturing, autonomous mobile robots, battery storage, biochemicals, bioenergetics, biomass, cybersecurity, data fabric, decision science, edge computing, external communication, hydrogen generation and storage, mesh networks, and microelectronics assembly, testing, and packaging among them UNVERIFIED. A separate 34-count appears in one CRS product describing the pilot program rather than the statutory authority; the two numbers likely describe overlapping but not identical scopes, not a single reconciled figure.",
+                  "confidence": [
+                    "UNVERIFIED"
+                  ]
                 },
                 {
                   "type": "para",
@@ -434,6 +436,13 @@
                   "raw": "Two DIU threads matter beyond the general CSO. The Replicator initiative and the maritime PRIME CSO push unmanned systems to scale. And the OnRamp Hub program places regional intake nodes around the country. New OnRamp Hubs are sub-awardees under a single cooperative agreement held by the Applied Research Institute, not contracts with DIU directly. [Rosc has a live bid in this program; see section 7, kept out of the neutral entry deliberately.]",
                   "html": "Two DIU threads matter beyond the general CSO. The Replicator initiative and the maritime PRIME CSO push unmanned systems to scale. And the OnRamp Hub program places regional intake nodes around the country. New OnRamp Hubs are sub-awardees under a single cooperative agreement held by the Applied Research Institute, not contracts with DIU directly. <span class=\"aside\">[Rosc has a live bid in this program; see section 7, kept out of the neutral entry deliberately.]</span>",
                   "text": "Two DIU threads matter beyond the general CSO. The Replicator initiative and the maritime PRIME CSO push unmanned systems to scale. And the OnRamp Hub program places regional intake nodes around the country. New OnRamp Hubs are sub-awardees under a single cooperative agreement held by the Applied Research Institute, not contracts with DIU directly. Rosc has a live bid in this program; see section 7, kept out of the neutral entry deliberately.",
+                  "confidence": []
+                },
+                {
+                  "type": "para",
+                  "raw": "DIU's sister organization, the National Security Innovation Network (NSIN), is worth naming here even though it doesn't belong in the directory proper: NSIN runs talent and deal-flow programs (Hacking for Defense, the X-Force Fellowship, the Defense Innovation Summer Fellowship) that feed founders and problem sets toward DIU and the rest of this map, but it does not fund companies itself. Adjacent, not a capital door.",
+                  "html": "DIU's sister organization, the National Security Innovation Network (NSIN), is worth naming here even though it doesn't belong in the directory proper: NSIN runs talent and deal-flow programs (Hacking for Defense, the X-Force Fellowship, the Defense Innovation Summer Fellowship) that feed founders and problem sets toward DIU and the rest of this map, but it does not fund companies itself. Adjacent, not a capital door.",
+                  "text": "DIU's sister organization, the National Security Innovation Network (NSIN), is worth naming here even though it doesn't belong in the directory proper: NSIN runs talent and deal-flow programs (Hacking for Defense, the X-Force Fellowship, the Defense Innovation Summer Fellowship) that feed founders and problem sets toward DIU and the rest of this map, but it does not fund companies itself. Adjacent, not a capital door.",
                   "confidence": []
                 }
               ]
@@ -645,11 +654,12 @@
                 },
                 {
                   "type": "para",
-                  "raw": "Its published scorecard, cumulative since 2018 [CUMULATIVE — REFRESH]: roughly $1.24 billion in private investment raised by performers, $639.4M in M&A value, $662M in state funds, $384.7M in other government awards, roughly $2.9 billion combined, across 146 private funding rounds. The office reports only publicly available data.",
-                  "html": "Its published scorecard, cumulative since 2018 <span class=\"chip chip-conf conf-cumulative-refresh\" data-conf=\"CUMULATIVE — REFRESH\">CUMULATIVE — REFRESH</span>: roughly $1.24 billion in private investment raised by performers, $639.4M in M&amp;A value, $662M in state funds, $384.7M in other government awards, roughly $2.9 billion combined, across 146 private funding rounds. The office reports only publicly available data.",
-                  "text": "Its published scorecard, cumulative since 2018 CUMULATIVE — REFRESH: roughly $1.24 billion in private investment raised by performers, $639.4M in M&A value, $662M in state funds, $384.7M in other government awards, roughly $2.9 billion combined, across 146 private funding rounds. The office reports only publicly available data.",
+                  "raw": "Its published scorecard, cumulative since 2018 [CUMULATIVE — REFRESH]: roughly $1.24 billion in private investment raised by performers, $639.4M in M&A value, $662M in state funds, $384.7M in other government awards, roughly $2.9 billion combined, across 146 private funding rounds. The office reports only publicly available data. A narrower figure specific to the Embedded Entrepreneur Initiative below and measured only since 2022 shows more recent momentum: performers have raised more than $1 billion in private capital and launched 21-plus new products, and US corporations have separately put $639M into acquiring DARPA early-stage technologies [UNVERIFIED, EEI-specific figure current as of this revision, confirm before citing; it measures a subset of performers over a shorter, more recent window than the office-wide cumulative figure above, the two are not directly comparable]. FY2026 budget lines allocate $25.0M to EEI and $32.5M to the related Pulling Guard program. One cited example: Embody, a DARPA performer, raised a $9.3M Series A with EEI's involvement.",
+                  "html": "Its published scorecard, cumulative since 2018 <span class=\"chip chip-conf conf-cumulative-refresh\" data-conf=\"CUMULATIVE — REFRESH\">CUMULATIVE — REFRESH</span>: roughly $1.24 billion in private investment raised by performers, $639.4M in M&amp;A value, $662M in state funds, $384.7M in other government awards, roughly $2.9 billion combined, across 146 private funding rounds. The office reports only publicly available data. A narrower figure specific to the Embedded Entrepreneur Initiative below and measured only since 2022 shows more recent momentum: performers have raised more than $1 billion in private capital and launched 21-plus new products, and US corporations have separately put $639M into acquiring DARPA early-stage technologies <span class=\"chip chip-conf conf-unverified\" data-conf=\"UNVERIFIED\">UNVERIFIED</span><span class=\"conf-extra\">EEI-specific figure current as of this revision, confirm before citing; it measures a subset of performers over a shorter, more recent window than the office-wide cumulative figure above, the two are not directly comparable</span>. FY2026 budget lines allocate $25.0M to EEI and $32.5M to the related Pulling Guard program. One cited example: Embody, a DARPA performer, raised a $9.3M Series A with EEI's involvement.",
+                  "text": "Its published scorecard, cumulative since 2018 CUMULATIVE — REFRESH: roughly $1.24 billion in private investment raised by performers, $639.4M in M&A value, $662M in state funds, $384.7M in other government awards, roughly $2.9 billion combined, across 146 private funding rounds. The office reports only publicly available data. A narrower figure specific to the Embedded Entrepreneur Initiative below and measured only since 2022 shows more recent momentum: performers have raised more than $1 billion in private capital and launched 21-plus new products, and US corporations have separately put $639M into acquiring DARPA early-stage technologies UNVERIFIED. FY2026 budget lines allocate $25.0M to EEI and $32.5M to the related Pulling Guard program. One cited example: Embody, a DARPA performer, raised a $9.3M Series A with EEI's involvement.",
                   "confidence": [
-                    "CUMULATIVE — REFRESH"
+                    "CUMULATIVE — REFRESH",
+                    "UNVERIFIED"
                   ]
                 },
                 {
@@ -784,10 +794,11 @@
               "blocks": [
                 {
                   "type": "para",
-                  "raw": "The Army's non-traditional-innovator front door, formerly under Army Futures Command. On 2 October 2025 the Army inactivated Futures Command and merged it with Training and Doctrine Command into the new Army Transformation and Training Command (T2COM) [UNVERIFIED, AAL's exact placement inside the new T2COM structure not confirmed at this revision]. AAL runs the xTech prize competition series: a white-paper submission, small cash prizes at the semifinal stage, larger prizes for finalists, and a follow-on route into Phase I SBIR funding. xTechSearch 9 offered up to $900,000 across the cohort, with up to 60 semifinalists receiving $5,000 each and up to 24 winners receiving a further $25,000. xTech|Inversion offered up to $1,000,000, with 12 finalists at $20,000 each and up to five winners receiving a further $152,000 [UNVERIFIED, current-cycle prize structure, confirm before citing to a company]. Winners can also become eligible for Phase I SBIR awards worth up to $300,000. In 2026 AAL also ran a DevX Autonomy open call soliciting autonomous and unmanned systems solutions [UNVERIFIED, award structure not confirmed at this revision].",
-                  "html": "The Army's non-traditional-innovator front door, formerly under Army Futures Command. On 2 October 2025 the Army inactivated Futures Command and merged it with Training and Doctrine Command into the new Army Transformation and Training Command (T2COM) <span class=\"chip chip-conf conf-unverified\" data-conf=\"UNVERIFIED\">UNVERIFIED</span><span class=\"conf-extra\">AAL's exact placement inside the new T2COM structure not confirmed at this revision</span>. AAL runs the xTech prize competition series: a white-paper submission, small cash prizes at the semifinal stage, larger prizes for finalists, and a follow-on route into Phase I SBIR funding. xTechSearch 9 offered up to $900,000 across the cohort, with up to 60 semifinalists receiving $5,000 each and up to 24 winners receiving a further $25,000. xTech|Inversion offered up to $1,000,000, with 12 finalists at $20,000 each and up to five winners receiving a further $152,000 <span class=\"chip chip-conf conf-unverified\" data-conf=\"UNVERIFIED\">UNVERIFIED</span><span class=\"conf-extra\">current-cycle prize structure, confirm before citing to a company</span>. Winners can also become eligible for Phase I SBIR awards worth up to $300,000. In 2026 AAL also ran a DevX Autonomy open call soliciting autonomous and unmanned systems solutions <span class=\"chip chip-conf conf-unverified\" data-conf=\"UNVERIFIED\">UNVERIFIED</span><span class=\"conf-extra\">award structure not confirmed at this revision</span>.",
-                  "text": "The Army's non-traditional-innovator front door, formerly under Army Futures Command. On 2 October 2025 the Army inactivated Futures Command and merged it with Training and Doctrine Command into the new Army Transformation and Training Command (T2COM) UNVERIFIED. AAL runs the xTech prize competition series: a white-paper submission, small cash prizes at the semifinal stage, larger prizes for finalists, and a follow-on route into Phase I SBIR funding. xTechSearch 9 offered up to $900,000 across the cohort, with up to 60 semifinalists receiving $5,000 each and up to 24 winners receiving a further $25,000. xTech|Inversion offered up to $1,000,000, with 12 finalists at $20,000 each and up to five winners receiving a further $152,000 UNVERIFIED. Winners can also become eligible for Phase I SBIR awards worth up to $300,000. In 2026 AAL also ran a DevX Autonomy open call soliciting autonomous and unmanned systems solutions UNVERIFIED.",
+                  "raw": "The Army's non-traditional-innovator front door, formerly under Army Futures Command. On 2 October 2025 the Army inactivated Futures Command and merged it with Training and Doctrine Command into the new Army Transformation and Training Command (T2COM) [UNVERIFIED, AAL's exact placement inside the new T2COM structure not confirmed at this revision]. AAL, Austin-based since its 2018 founding, is still operating under T2COM as of this revision: it ran an \"Overwatch\" experimentation event with the 1st Cavalry Division at Fort Hood in April and May 2026 [UNVERIFIED, whether Overwatch involved direct company funding versus demonstration only, not confirmed at this revision]. AAL runs the xTech prize competition series: a white-paper submission, small cash prizes at the semifinal stage, larger prizes for finalists, and a follow-on route into Phase I SBIR funding. xTechSearch 9 offered up to $900,000 across the cohort, with up to 60 semifinalists receiving $5,000 each and up to 24 winners receiving a further $25,000. xTech|Inversion offered up to $1,000,000, with 12 finalists at $20,000 each and up to five winners receiving a further $152,000 [UNVERIFIED, current-cycle prize structure, confirm before citing to a company]. Winners can also become eligible for Phase I SBIR awards worth up to $300,000. In 2026 AAL also ran a DevX Autonomy open call soliciting autonomous and unmanned systems solutions [UNVERIFIED, award structure not confirmed at this revision].",
+                  "html": "The Army's non-traditional-innovator front door, formerly under Army Futures Command. On 2 October 2025 the Army inactivated Futures Command and merged it with Training and Doctrine Command into the new Army Transformation and Training Command (T2COM) <span class=\"chip chip-conf conf-unverified\" data-conf=\"UNVERIFIED\">UNVERIFIED</span><span class=\"conf-extra\">AAL's exact placement inside the new T2COM structure not confirmed at this revision</span>. AAL, Austin-based since its 2018 founding, is still operating under T2COM as of this revision: it ran an \"Overwatch\" experimentation event with the 1st Cavalry Division at Fort Hood in April and May 2026 <span class=\"chip chip-conf conf-unverified\" data-conf=\"UNVERIFIED\">UNVERIFIED</span><span class=\"conf-extra\">whether Overwatch involved direct company funding versus demonstration only, not confirmed at this revision</span>. AAL runs the xTech prize competition series: a white-paper submission, small cash prizes at the semifinal stage, larger prizes for finalists, and a follow-on route into Phase I SBIR funding. xTechSearch 9 offered up to $900,000 across the cohort, with up to 60 semifinalists receiving $5,000 each and up to 24 winners receiving a further $25,000. xTech|Inversion offered up to $1,000,000, with 12 finalists at $20,000 each and up to five winners receiving a further $152,000 <span class=\"chip chip-conf conf-unverified\" data-conf=\"UNVERIFIED\">UNVERIFIED</span><span class=\"conf-extra\">current-cycle prize structure, confirm before citing to a company</span>. Winners can also become eligible for Phase I SBIR awards worth up to $300,000. In 2026 AAL also ran a DevX Autonomy open call soliciting autonomous and unmanned systems solutions <span class=\"chip chip-conf conf-unverified\" data-conf=\"UNVERIFIED\">UNVERIFIED</span><span class=\"conf-extra\">award structure not confirmed at this revision</span>.",
+                  "text": "The Army's non-traditional-innovator front door, formerly under Army Futures Command. On 2 October 2025 the Army inactivated Futures Command and merged it with Training and Doctrine Command into the new Army Transformation and Training Command (T2COM) UNVERIFIED. AAL, Austin-based since its 2018 founding, is still operating under T2COM as of this revision: it ran an \"Overwatch\" experimentation event with the 1st Cavalry Division at Fort Hood in April and May 2026 UNVERIFIED. AAL runs the xTech prize competition series: a white-paper submission, small cash prizes at the semifinal stage, larger prizes for finalists, and a follow-on route into Phase I SBIR funding. xTechSearch 9 offered up to $900,000 across the cohort, with up to 60 semifinalists receiving $5,000 each and up to 24 winners receiving a further $25,000. xTech|Inversion offered up to $1,000,000, with 12 finalists at $20,000 each and up to five winners receiving a further $152,000 UNVERIFIED. Winners can also become eligible for Phase I SBIR awards worth up to $300,000. In 2026 AAL also ran a DevX Autonomy open call soliciting autonomous and unmanned systems solutions UNVERIFIED.",
                   "confidence": [
+                    "UNVERIFIED",
                     "UNVERIFIED",
                     "UNVERIFIED",
                     "UNVERIFIED"
@@ -829,9 +840,9 @@
               "blocks": [
                 {
                   "type": "para",
-                  "raw": "The Department of the Navy's innovation-facilitation office, paired with the Office of Naval Research to run a nationwide network of regional Tech Bridges, a franchise model connecting warfare centers, academia, and industry for technology research, evaluation, and commercialization. Tech Bridges operate in more than a dozen regions, including Rhode Island, the Washington, D.C. area, Patuxent River, Hampton Roads, Corona, Monterey, Ventura, and South Carolina [UNVERIFIED, current count and full list of active sites not confirmed at this revision]. NavalX itself does not write checks. Cumulative figures cited by ONR: $45 million in Tech Bridge projects, more than $2 million in prize challenges to non-traditional industry partners, and $37.5 million in Tech-Bridge-linked SBIR for maintenance and sustainment [CUMULATIVE — REFRESH]. The money moves through ONR, a warfare center, or the SBIR program, not through NavalX directly.",
-                  "html": "The Department of the Navy's innovation-facilitation office, paired with the Office of Naval Research to run a nationwide network of regional Tech Bridges, a franchise model connecting warfare centers, academia, and industry for technology research, evaluation, and commercialization. Tech Bridges operate in more than a dozen regions, including Rhode Island, the Washington, D.C. area, Patuxent River, Hampton Roads, Corona, Monterey, Ventura, and South Carolina <span class=\"chip chip-conf conf-unverified\" data-conf=\"UNVERIFIED\">UNVERIFIED</span><span class=\"conf-extra\">current count and full list of active sites not confirmed at this revision</span>. NavalX itself does not write checks. Cumulative figures cited by ONR: $45 million in Tech Bridge projects, more than $2 million in prize challenges to non-traditional industry partners, and $37.5 million in Tech-Bridge-linked SBIR for maintenance and sustainment <span class=\"chip chip-conf conf-cumulative-refresh\" data-conf=\"CUMULATIVE — REFRESH\">CUMULATIVE — REFRESH</span>. The money moves through ONR, a warfare center, or the SBIR program, not through NavalX directly.",
-                  "text": "The Department of the Navy's innovation-facilitation office, paired with the Office of Naval Research to run a nationwide network of regional Tech Bridges, a franchise model connecting warfare centers, academia, and industry for technology research, evaluation, and commercialization. Tech Bridges operate in more than a dozen regions, including Rhode Island, the Washington, D.C. area, Patuxent River, Hampton Roads, Corona, Monterey, Ventura, and South Carolina UNVERIFIED. NavalX itself does not write checks. Cumulative figures cited by ONR: $45 million in Tech Bridge projects, more than $2 million in prize challenges to non-traditional industry partners, and $37.5 million in Tech-Bridge-linked SBIR for maintenance and sustainment CUMULATIVE — REFRESH. The money moves through ONR, a warfare center, or the SBIR program, not through NavalX directly.",
+                  "raw": "The Department of the Navy's innovation-facilitation office, paired with the Office of Naval Research to run a nationwide network of regional Tech Bridges, a franchise model connecting warfare centers, academia, and industry for technology research, evaluation, and commercialization. The network now spans 18 Tech Bridges, including Mid-Atlantic/Hampton Roads (Norfolk, VA), Southern Maryland/Patuxent River, Northeast (Newport, RI), San Diego, Central Coast, and Eastern North Carolina [UNVERIFIED, full 18-site list and whether the count has changed since, confirm at navalx.navy.mil before citing]. NavalX itself does not write checks. Cumulative figures cited by ONR: $45 million in Tech Bridge projects, more than $2 million in prize challenges to non-traditional industry partners, and $37.5 million in Tech-Bridge-linked SBIR for maintenance and sustainment [CUMULATIVE — REFRESH]. The money moves through ONR, a warfare center, or the SBIR program, not through NavalX directly.",
+                  "html": "The Department of the Navy's innovation-facilitation office, paired with the Office of Naval Research to run a nationwide network of regional Tech Bridges, a franchise model connecting warfare centers, academia, and industry for technology research, evaluation, and commercialization. The network now spans 18 Tech Bridges, including Mid-Atlantic/Hampton Roads (Norfolk, VA), Southern Maryland/Patuxent River, Northeast (Newport, RI), San Diego, Central Coast, and Eastern North Carolina <span class=\"chip chip-conf conf-unverified\" data-conf=\"UNVERIFIED\">UNVERIFIED</span><span class=\"conf-extra\">full 18-site list and whether the count has changed since, confirm at navalx.navy.mil before citing</span>. NavalX itself does not write checks. Cumulative figures cited by ONR: $45 million in Tech Bridge projects, more than $2 million in prize challenges to non-traditional industry partners, and $37.5 million in Tech-Bridge-linked SBIR for maintenance and sustainment <span class=\"chip chip-conf conf-cumulative-refresh\" data-conf=\"CUMULATIVE — REFRESH\">CUMULATIVE — REFRESH</span>. The money moves through ONR, a warfare center, or the SBIR program, not through NavalX directly.",
+                  "text": "The Department of the Navy's innovation-facilitation office, paired with the Office of Naval Research to run a nationwide network of regional Tech Bridges, a franchise model connecting warfare centers, academia, and industry for technology research, evaluation, and commercialization. The network now spans 18 Tech Bridges, including Mid-Atlantic/Hampton Roads (Norfolk, VA), Southern Maryland/Patuxent River, Northeast (Newport, RI), San Diego, Central Coast, and Eastern North Carolina UNVERIFIED. NavalX itself does not write checks. Cumulative figures cited by ONR: $45 million in Tech Bridge projects, more than $2 million in prize challenges to non-traditional industry partners, and $37.5 million in Tech-Bridge-linked SBIR for maintenance and sustainment CUMULATIVE — REFRESH. The money moves through ONR, a warfare center, or the SBIR program, not through NavalX directly.",
                   "confidence": [
                     "UNVERIFIED",
                     "CUMULATIVE — REFRESH"
@@ -1011,9 +1022,25 @@
               "blocks": [
                 {
                   "type": "para",
-                  "raw": "The Department of Energy's credit vehicle, rebranded in 2026 from the Loan Programs Office to the Energy Dominance Financing Program, alongside a new Office of Critical Minerals and Energy Innovation. A scale-credit program in the OSC mold, aimed at critical minerals, nuclear, and energy supply chains (Lithium Nevada and MP Materials-type projects). Large loans, project-scale, not seed. DoE's early-stage money runs through ARPA-E, covered in its own entry below. [Program rename VERIFIED; confirm current lending posture before use]",
-                  "html": "The Department of Energy's credit vehicle, rebranded in 2026 from the Loan Programs Office to the Energy Dominance Financing Program, alongside a new Office of Critical Minerals and Energy Innovation. A scale-credit program in the OSC mold, aimed at critical minerals, nuclear, and energy supply chains (Lithium Nevada and MP Materials-type projects). Large loans, project-scale, not seed. DoE's early-stage money runs through ARPA-E, covered in its own entry below. <span class=\"aside\">[Program rename VERIFIED; confirm current lending posture before use]</span>",
-                  "text": "The Department of Energy's credit vehicle, rebranded in 2026 from the Loan Programs Office to the Energy Dominance Financing Program, alongside a new Office of Critical Minerals and Energy Innovation. A scale-credit program in the OSC mold, aimed at critical minerals, nuclear, and energy supply chains (Lithium Nevada and MP Materials-type projects). Large loans, project-scale, not seed. DoE's early-stage money runs through ARPA-E, covered in its own entry below. Program rename VERIFIED; confirm current lending posture before use",
+                  "raw": "The Department of Energy's credit vehicle, rebranded in 2026 from the Loan Programs Office to the Energy Dominance Financing Program, alongside a new Office of Critical Minerals and Energy Innovation. A scale-credit program in the OSC mold, aimed at critical minerals, nuclear, and energy supply chains (Lithium Nevada and MP Materials-type projects).",
+                  "html": "The Department of Energy's credit vehicle, rebranded in 2026 from the Loan Programs Office to the Energy Dominance Financing Program, alongside a new Office of Critical Minerals and Energy Innovation. A scale-credit program in the OSC mold, aimed at critical minerals, nuclear, and energy supply chains (Lithium Nevada and MP Materials-type projects).",
+                  "text": "The Department of Energy's credit vehicle, rebranded in 2026 from the Loan Programs Office to the Energy Dominance Financing Program, alongside a new Office of Critical Minerals and Energy Innovation. A scale-credit program in the OSC mold, aimed at critical minerals, nuclear, and energy supply chains (Lithium Nevada and MP Materials-type projects).",
+                  "confidence": []
+                },
+                {
+                  "type": "para",
+                  "raw": "The lending posture under the new name is active and large. Since the rename, EDF has closed a $26.5 billion loan package for Southern Company subsidiaries building out generation capacity in Georgia and Alabama, announced a $17.5 billion conditional commitment on 23 June 2026 for Westinghouse AP1000 nuclear reactor construction, and issued a $1.6 billion loan guarantee for an American Electric Power grid overhaul across the Midwest [UNVERIFIED, deal terms and closing status current as of this revision, confirm before citing]. At the same time DoE has been unwinding prior-administration commitments: it announced the de-obligation of $29.9 billion in loan obligations and a further review of $53.6 billion more on 22 January 2026. A new 2026-2030 strategic plan reprioritizes EDF toward nuclear, coal, oil and gas, critical minerals, geothermal, grid and transmission, and manufacturing and transportation.",
+                  "html": "The lending posture under the new name is active and large. Since the rename, EDF has closed a $26.5 billion loan package for Southern Company subsidiaries building out generation capacity in Georgia and Alabama, announced a $17.5 billion conditional commitment on 23 June 2026 for Westinghouse AP1000 nuclear reactor construction, and issued a $1.6 billion loan guarantee for an American Electric Power grid overhaul across the Midwest <span class=\"chip chip-conf conf-unverified\" data-conf=\"UNVERIFIED\">UNVERIFIED</span><span class=\"conf-extra\">deal terms and closing status current as of this revision, confirm before citing</span>. At the same time DoE has been unwinding prior-administration commitments: it announced the de-obligation of $29.9 billion in loan obligations and a further review of $53.6 billion more on 22 January 2026. A new 2026-2030 strategic plan reprioritizes EDF toward nuclear, coal, oil and gas, critical minerals, geothermal, grid and transmission, and manufacturing and transportation.",
+                  "text": "The lending posture under the new name is active and large. Since the rename, EDF has closed a $26.5 billion loan package for Southern Company subsidiaries building out generation capacity in Georgia and Alabama, announced a $17.5 billion conditional commitment on 23 June 2026 for Westinghouse AP1000 nuclear reactor construction, and issued a $1.6 billion loan guarantee for an American Electric Power grid overhaul across the Midwest UNVERIFIED. At the same time DoE has been unwinding prior-administration commitments: it announced the de-obligation of $29.9 billion in loan obligations and a further review of $53.6 billion more on 22 January 2026. A new 2026-2030 strategic plan reprioritizes EDF toward nuclear, coal, oil and gas, critical minerals, geothermal, grid and transmission, and manufacturing and transportation.",
+                  "confidence": [
+                    "UNVERIFIED"
+                  ]
+                },
+                {
+                  "type": "para",
+                  "raw": "Large loans, project-scale, and the company on the other end of a deal is usually years past seed. But project-scale doesn't put it out of reach for a startup on principle: EDF lends against the project itself, and a venture-backed company that has reached construction or first-of-a-kind deployment is eligible on the same terms as an established utility subsidiary. It's a real destination for a Rosc portfolio company, just a late one, reached the same way the OSC scale stack is reached. DoE's early-stage money runs through ARPA-E, covered in its own entry below.",
+                  "html": "Large loans, project-scale, and the company on the other end of a deal is usually years past seed. But project-scale doesn't put it out of reach for a startup on principle: EDF lends against the project itself, and a venture-backed company that has reached construction or first-of-a-kind deployment is eligible on the same terms as an established utility subsidiary. It's a real destination for a Rosc portfolio company, just a late one, reached the same way the OSC scale stack is reached. DoE's early-stage money runs through ARPA-E, covered in its own entry below.",
+                  "text": "Large loans, project-scale, and the company on the other end of a deal is usually years past seed. But project-scale doesn't put it out of reach for a startup on principle: EDF lends against the project itself, and a venture-backed company that has reached construction or first-of-a-kind deployment is eligible on the same terms as an established utility subsidiary. It's a real destination for a Rosc portfolio company, just a late one, reached the same way the OSC scale stack is reached. DoE's early-stage money runs through ARPA-E, covered in its own entry below.",
                   "confidence": []
                 }
               ]
@@ -1390,12 +1417,20 @@
               "blocks": [
                 {
                   "type": "para",
-                  "raw": "The Department of Homeland Security Science and Technology Directorate's startup program, non-dilutive and structured through Other Transaction agreements, aimed at homeland security problems (border, cyber, first responder). [UNVERIFIED, phase structure and award ceiling around $800K across phases not confirmed at this revision]",
-                  "html": "The Department of Homeland Security Science and Technology Directorate's startup program, non-dilutive and structured through Other Transaction agreements, aimed at homeland security problems (border, cyber, first responder). <span class=\"chip chip-conf conf-unverified\" data-conf=\"UNVERIFIED\">UNVERIFIED</span><span class=\"conf-extra\">phase structure and award ceiling around $800K across phases not confirmed at this revision</span>",
-                  "text": "The Department of Homeland Security Science and Technology Directorate's startup program, non-dilutive and structured through Other Transaction agreements, aimed at homeland security problems (border, cyber, first responder). UNVERIFIED",
+                  "raw": "The Department of Homeland Security Science and Technology Directorate's startup program, non-dilutive and structured through Other Transaction agreements, aimed at homeland security problems (border, cyber, first responder). Current structure runs to up to $2M in non-dilutive funding per company over 24 months, phased across roughly five stages tied to a topic call, wider than the older cited ceiling of roughly $800K [UNVERIFIED, current per-phase breakdown and whether every topic call runs the full 24-month, $2M structure, confirm at dhs.gov/science-and-technology/svip before citing]. The next SVIP-adjacent DHS SBIR solicitation is expected in the May-June 2026 window [UNVERIFIED, solicitation timing not confirmed at this revision].",
+                  "html": "The Department of Homeland Security Science and Technology Directorate's startup program, non-dilutive and structured through Other Transaction agreements, aimed at homeland security problems (border, cyber, first responder). Current structure runs to up to $2M in non-dilutive funding per company over 24 months, phased across roughly five stages tied to a topic call, wider than the older cited ceiling of roughly $800K <span class=\"chip chip-conf conf-unverified\" data-conf=\"UNVERIFIED\">UNVERIFIED</span><span class=\"conf-extra\">current per-phase breakdown and whether every topic call runs the full 24-month, $2M structure, confirm at dhs.gov/science-and-technology/svip before citing</span>. The next SVIP-adjacent DHS SBIR solicitation is expected in the May-June 2026 window <span class=\"chip chip-conf conf-unverified\" data-conf=\"UNVERIFIED\">UNVERIFIED</span><span class=\"conf-extra\">solicitation timing not confirmed at this revision</span>.",
+                  "text": "The Department of Homeland Security Science and Technology Directorate's startup program, non-dilutive and structured through Other Transaction agreements, aimed at homeland security problems (border, cyber, first responder). Current structure runs to up to $2M in non-dilutive funding per company over 24 months, phased across roughly five stages tied to a topic call, wider than the older cited ceiling of roughly $800K UNVERIFIED. The next SVIP-adjacent DHS SBIR solicitation is expected in the May-June 2026 window UNVERIFIED.",
                   "confidence": [
+                    "UNVERIFIED",
                     "UNVERIFIED"
                   ]
+                },
+                {
+                  "type": "para",
+                  "raw": "S&T runs two adjacent, non-capital programs worth a mention: Transition to Practice (TTP), which helps federally funded lab research reach the commercial market rather than funding startups directly, and the Homeland Security Startup Studio, a startup-studio partnership with FedTech that builds companies around DHS-relevant problem sets rather than writing checks to existing ones. Neither is a capital door in the sense the rest of this map uses; both feed into SVIP or a direct DHS contract once a company exists.",
+                  "html": "S&amp;T runs two adjacent, non-capital programs worth a mention: Transition to Practice (TTP), which helps federally funded lab research reach the commercial market rather than funding startups directly, and the Homeland Security Startup Studio, a startup-studio partnership with FedTech that builds companies around DHS-relevant problem sets rather than writing checks to existing ones. Neither is a capital door in the sense the rest of this map uses; both feed into SVIP or a direct DHS contract once a company exists.",
+                  "text": "S&T runs two adjacent, non-capital programs worth a mention: Transition to Practice (TTP), which helps federally funded lab research reach the commercial market rather than funding startups directly, and the Homeland Security Startup Studio, a startup-studio partnership with FedTech that builds companies around DHS-relevant problem sets rather than writing checks to existing ones. Neither is a capital door in the sense the rest of this map uses; both feed into SVIP or a direct DHS contract once a company exists.",
+                  "confidence": []
                 }
               ]
             }
@@ -1784,7 +1819,7 @@
           "ordered": false,
           "items": [
             {
-              "html": "OSC covered-category count is cited as both 31 and 34 across current sources. Not reconciled here.",
+              "html": "OSC covered-category count: partially reconciled this revision. 31 is the FY2024 NDAA's own statutory count; a partial list of those categories now appears in the OSC entry (3.1), sourced from a secondary summary rather than the statute or OSC's own Investment Strategy directly, so the full 31-item list still needs a primary-source check. The 34 figure appears to describe the pilot program specifically rather than the full statutory authority, which would make the two numbers non-contradictory (describing different things) rather than in conflict, but that reading is not confirmed either.",
               "confidence": []
             },
             {
@@ -1800,15 +1835,27 @@
               "confidence": []
             },
             {
-              "html": "DHS SVIP award ceiling and phase structure are not confirmed at this revision.",
+              "html": "DHS SVIP award ceiling and phase structure: updated this revision to up to $2M over 24 months, a wider figure than the previously cited ~$800K, but the current per-phase breakdown is still not confirmed against dhs.gov directly. Two adjacent DHS S&amp;T programs (Transition to Practice, the Homeland Security Startup Studio with FedTech) were added as a mention within the same entry; neither is a capital door.",
               "confidence": []
             },
             {
-              "html": "The DARPA Commercial Strategy Office scorecard is cumulative since 2018 and should be refreshed before any external use.",
+              "html": "The DARPA Commercial Strategy Office scorecard is cumulative since 2018 and should be refreshed before any external use. A narrower, more recent figure specific to the Embedded Entrepreneur Initiative (since 2022) was added alongside it this revision; the two figures measure different populations over different windows and should not be added together or treated as the same claim.",
               "confidence": []
             },
             {
-              "html": "DoE Energy Dominance Financing is a 2026 rename of the Loan Programs Office; its current lending posture under the new name should be confirmed.",
+              "html": "DoE Energy Dominance Financing: current lending posture confirmed and written up this revision, with several large 2026 deals (Southern Company, Westinghouse, American Electric Power) and a simultaneous unwind of prior-administration obligations. Deal terms and closing status should still be reconfirmed before external use given how fast this program is moving.",
+              "confidence": []
+            },
+            {
+              "html": "NSIN was added as an adjacent, non-capital mention within the DIU entry (3.1): talent and deal-flow programs (Hacking for Defense, X-Force Fellowship, Defense Innovation Summer Fellowship), not a funding vehicle. No standalone entry.",
+              "confidence": []
+            },
+            {
+              "html": "NavalX's Tech Bridge count was updated to 18 sites (from \"more than a dozen\"), with a partial site list; the full 18-site list should be confirmed at navalx.navy.mil before citing. AAL was confirmed still operating under T2COM as of this revision via an April-May 2026 Fort Hood experimentation event; a separate, unrelated T2COM leadership-change story surfaced in the same research pass and was deliberately left out of this map as irrelevant to capital-vehicle analysis and involving a named individual's personnel status rather than program structure.",
+              "confidence": []
+            },
+            {
+              "html": "Navy's $30M SBIR/STTR broad agency announcement, SOFWERX's solicitation deadline, and the four coordination bodies' current rosters were not re-checked this revision. Still open.",
               "confidence": []
             },
             {
@@ -1854,7 +1901,7 @@
               "confidence": []
             },
             {
-              "html": "State and regional programs moved out of the vehicle directory into its own section (12) and tab this revision, and grew from two entries (Massachusetts, Texas) to five (adding New York, Illinois, and Utah's 47G). It remains explicitly out of scope for the rest of the map's analytical apparatus: none of its entries feed the capital map matrix or the sector pathway grid, and no attempt was made to inventory all 50 states. Florida was checked directly and no defense-specific state fund was found there, distinct from a broad tax-incentive program (QTI); that state simply has no entry rather than a stated exclusion. Every entry in this section carries the same heavier <span class=\"chip chip-conf conf-unverified\" data-conf=\"UNVERIFIED\">UNVERIFIED</span> load as the rest of this revision's search-derived material.",
+              "html": "State and regional programs (section 12) grew again this revision, from five entries to fourteen: California, Connecticut, Florida, Georgia, Michigan, Ohio, Virginia, and Washington were added to the existing Illinois, Massachusetts, New York, Texas, and Utah entries, and Maine was added as the ninth new entry. The section's scope also widened partway through this research: earlier passes looked for defense-specific state programs only; this pass widened to state-run technology and innovation capital generally, which is why California and Florida (checked earlier and passed over for lacking a defense-specific match) now have entries built on their general SSBCI equity programs instead. That same broadened lens was not retroactively re-applied to every previously-skipped state; it only reached the states actually searched this revision. It remains explicitly out of scope for the rest of the map's analytical apparatus: none of its entries feed the capital map matrix or the sector pathway grid, and this is a representative sample rather than a 50-state inventory, a scope choice stated directly in the section's own introduction now rather than left implicit. Texas was re-checked specifically for an equity vehicle beyond SEARF and none was found; its SSBCI allocation runs entirely through credit programs, not equity. Every entry in this section carries the same heavier <span class=\"chip chip-conf conf-unverified\" data-conf=\"UNVERIFIED\">UNVERIFIED</span> load as the rest of this revision's search-derived material.",
               "confidence": [
                 "UNVERIFIED"
               ]
@@ -2325,6 +2372,62 @@
               "confidence": []
             },
             {
+              "html": "DHS Science and Technology Directorate pages on the Silicon Valley Innovation Program, Transition to Practice, and the Homeland Security Startup Studio, dhs.gov/science-and-technology",
+              "confidence": []
+            },
+            {
+              "html": "DARPA Embedded Entrepreneur Initiative and Pulling Guard budget lines and performer coverage (Embody Series A)",
+              "confidence": []
+            },
+            {
+              "html": "DoE Energy Dominance Financing announcements on the Southern Company, Westinghouse, and American Electric Power deals, and the January 2026 de-obligation announcement, energy.gov",
+              "confidence": []
+            },
+            {
+              "html": "California IBank Expanding Venture Capital Access Program pages, treasurer.ca.gov and ibank.ca.gov",
+              "confidence": []
+            },
+            {
+              "html": "Connecticut Innovations program pages and Axios coverage of its 2026 AI/quantum allocation and ClimateTech Fund, ctinnovations.com",
+              "confidence": []
+            },
+            {
+              "html": "Florida Department of Economic Opportunity and Florida Opportunity Fund SSBCI approval announcements, floridajobs.org",
+              "confidence": []
+            },
+            {
+              "html": "Invest Georgia and Georgia Department of Community Affairs SSBCI program pages, dca.georgia.gov",
+              "confidence": []
+            },
+            {
+              "html": "Michigan Economic Development Corporation Small Business Venture Capital Program announcements, michiganbusiness.org",
+              "confidence": []
+            },
+            {
+              "html": "Ohio Department of Development Third Frontier and Technology Validation and Start-up Fund pages, and TechGrowth Ohio Fund investment pages, development.ohio.gov and techgrowthohio.com",
+              "confidence": []
+            },
+            {
+              "html": "Virginia Innovation Partnership Corporation Virginia Invests and Virginia Venture Partners pages, vipc.org",
+              "confidence": []
+            },
+            {
+              "html": "Washington state SSBCI Venture Capital Program pages",
+              "confidence": []
+            },
+            {
+              "html": "Maine Venture Fund 2025 year-in-review and Maine legislature statutes on the state's venture capital and innovation finance programs, maineventurefund.com and legislature.maine.gov",
+              "confidence": []
+            },
+            {
+              "html": "Texas Small Business Credit Initiative program pages, tsbci-portal.gov.texas.gov",
+              "confidence": []
+            },
+            {
+              "html": "US Treasury pages on SSBCI 2.0 equity and venture capital program allocations nationally",
+              "confidence": []
+            },
+            {
               "html": "National Security Commission on Emerging Biotechnology, \"Charting the Future of Biotechnology: An Action Plan for American Security and Prosperity\" (8 April 2025), and CRS summary IN12546",
               "confidence": []
             },
@@ -2364,25 +2467,39 @@
       "intro": [
         {
           "type": "para",
-          "raw": "This map's focus stays federal. This section exists because state capital was asked about directly, not because it gets the same analytical treatment as the rest of this document. None of these entries feed the capital map matrix or the sector pathway grid, and no attempt was made to inventory all 50 states. Several of the entries below trace back to a single federal mechanism worth naming up front: the State Small Business Credit Initiative (SSBCI), a nearly $10 billion US Treasury program that seeds state-run venture and credit programs nationwide, equity and venture capital included since its 2021 expansion. Where a state program below runs on SSBCI money in part, that is noted.",
-          "html": "This map's focus stays federal. This section exists because state capital was asked about directly, not because it gets the same analytical treatment as the rest of this document. None of these entries feed the capital map matrix or the sector pathway grid, and no attempt was made to inventory all 50 states. Several of the entries below trace back to a single federal mechanism worth naming up front: the State Small Business Credit Initiative (SSBCI), a nearly $10 billion US Treasury program that seeds state-run venture and credit programs nationwide, equity and venture capital included since its 2021 expansion. Where a state program below runs on SSBCI money in part, that is noted.",
-          "text": "This map's focus stays federal. This section exists because state capital was asked about directly, not because it gets the same analytical treatment as the rest of this document. None of these entries feed the capital map matrix or the sector pathway grid, and no attempt was made to inventory all 50 states. Several of the entries below trace back to a single federal mechanism worth naming up front: the State Small Business Credit Initiative (SSBCI), a nearly $10 billion US Treasury program that seeds state-run venture and credit programs nationwide, equity and venture capital included since its 2021 expansion. Where a state program below runs on SSBCI money in part, that is noted.",
+          "raw": "This map's focus stays federal. This section exists because state capital was asked about directly, not because it gets the same analytical treatment as the rest of this document. None of these entries feed the capital map matrix or the sector pathway grid.",
+          "html": "This map's focus stays federal. This section exists because state capital was asked about directly, not because it gets the same analytical treatment as the rest of this document. None of these entries feed the capital map matrix or the sector pathway grid.",
+          "text": "This map's focus stays federal. This section exists because state capital was asked about directly, not because it gets the same analytical treatment as the rest of this document. None of these entries feed the capital map matrix or the sector pathway grid.",
+          "confidence": []
+        },
+        {
+          "type": "para",
+          "raw": "The scope widened partway through this section's research, from defense-specific state programs only to state-run technology and innovation capital generally, venture or non-dilutive, whether or not a program names national security as a focus. That widening turned up one federal mechanism worth naming up front: the State Small Business Credit Initiative (SSBCI), a nearly $10 billion US Treasury program that seeds state-run venture and credit programs nationwide, equity and venture capital included since its 2021 expansion. Roughly 36% of the current round, about $3.2 billion, went to equity or hybrid-equity structures, spread across 37 direct equity/debt hybrid programs and 33 fund-of-funds equity programs nationally. In practice, nearly every state now runs some version of a government-backed venture program. Where a state program below runs on SSBCI money in part, that is noted.",
+          "html": "The scope widened partway through this section's research, from defense-specific state programs only to state-run technology and innovation capital generally, venture or non-dilutive, whether or not a program names national security as a focus. That widening turned up one federal mechanism worth naming up front: the State Small Business Credit Initiative (SSBCI), a nearly $10 billion US Treasury program that seeds state-run venture and credit programs nationwide, equity and venture capital included since its 2021 expansion. Roughly 36% of the current round, about $3.2 billion, went to equity or hybrid-equity structures, spread across 37 direct equity/debt hybrid programs and 33 fund-of-funds equity programs nationally. In practice, nearly every state now runs some version of a government-backed venture program. Where a state program below runs on SSBCI money in part, that is noted.",
+          "text": "The scope widened partway through this section's research, from defense-specific state programs only to state-run technology and innovation capital generally, venture or non-dilutive, whether or not a program names national security as a focus. That widening turned up one federal mechanism worth naming up front: the State Small Business Credit Initiative (SSBCI), a nearly $10 billion US Treasury program that seeds state-run venture and credit programs nationwide, equity and venture capital included since its 2021 expansion. Roughly 36% of the current round, about $3.2 billion, went to equity or hybrid-equity structures, spread across 37 direct equity/debt hybrid programs and 33 fund-of-funds equity programs nationally. In practice, nearly every state now runs some version of a government-backed venture program. Where a state program below runs on SSBCI money in part, that is noted.",
+          "confidence": []
+        },
+        {
+          "type": "para",
+          "raw": "Given that, this section stops well short of a 50-state inventory. It covers the states found in earlier passes (Massachusetts, Texas, New York, Illinois, Utah), the large-economy states asked about directly in this pass (Virginia, Ohio, Michigan, Washington, Georgia, and the smaller-economy Maine and Connecticut), and two more (California, Florida) that the broadened lens pulled in once general SSBCI equity programs, not just defense-specific ones, were in scope. A state's absence from this list means it wasn't checked, not that it lacks a program; treat this as a representative sample, not a census.",
+          "html": "Given that, this section stops well short of a 50-state inventory. It covers the states found in earlier passes (Massachusetts, Texas, New York, Illinois, Utah), the large-economy states asked about directly in this pass (Virginia, Ohio, Michigan, Washington, Georgia, and the smaller-economy Maine and Connecticut), and two more (California, Florida) that the broadened lens pulled in once general SSBCI equity programs, not just defense-specific ones, were in scope. A state's absence from this list means it wasn't checked, not that it lacks a program; treat this as a representative sample, not a census.",
+          "text": "Given that, this section stops well short of a 50-state inventory. It covers the states found in earlier passes (Massachusetts, Texas, New York, Illinois, Utah), the large-economy states asked about directly in this pass (Virginia, Ohio, Michigan, Washington, Georgia, and the smaller-economy Maine and Connecticut), and two more (California, Florida) that the broadened lens pulled in once general SSBCI equity programs, not just defense-specific ones, were in scope. A state's absence from this list means it wasn't checked, not that it lacks a program; treat this as a representative sample, not a census.",
           "confidence": []
         },
         {
           "type": "vehicle",
-          "heading": "MassVentures START Grant",
-          "headingHtml": "MassVentures START Grant",
+          "heading": "California IBank — Expanding Venture Capital Access Program",
+          "headingHtml": "California IBank — Expanding Venture Capital Access Program",
           "tag": {
             "body": [
               "CIVIL"
             ],
             "instruments": [
-              "NON-DILUTIVE"
+              "FUND-LEVEL"
             ],
             "eligibility": [],
             "meta": [
-              "Massachusetts"
+              "California"
             ]
           },
           "heat": {
@@ -2392,29 +2509,30 @@
           "blocks": [
             {
               "type": "para",
-              "raw": "Massachusetts's state-level SBIR/STTR matching program, non-dilutive, running since 2012. Structured in three rounds: 16 Round 1 grants of $100,000, 7 Round 2 grants of $200,000 for the strongest Round 1 performers, and 3 Round 3 seed-capital grants of up to $500,000. Eligibility gates on holding a federal SBIR or STTR Phase II award within the past five years and being Massachusetts-based, so this is a follow-on to federal non-dilutive money, not a substitute for it. Since inception: $41.7M awarded to 141 companies, which have gone on to raise more than $5B in private capital [CUMULATIVE — REFRESH]. Applications open annually 1 February; the 2026 cycle has closed, next window 1 February 2027. Not defense-specific, but Massachusetts already appears in this map as a NATO DIANA US accelerator site (MassChallenge, Boston), so a Massachusetts-based national security company plausibly touches both.",
-              "html": "Massachusetts's state-level SBIR/STTR matching program, non-dilutive, running since 2012. Structured in three rounds: 16 Round 1 grants of $100,000, 7 Round 2 grants of $200,000 for the strongest Round 1 performers, and 3 Round 3 seed-capital grants of up to $500,000. Eligibility gates on holding a federal SBIR or STTR Phase II award within the past five years and being Massachusetts-based, so this is a follow-on to federal non-dilutive money, not a substitute for it. Since inception: $41.7M awarded to 141 companies, which have gone on to raise more than $5B in private capital <span class=\"chip chip-conf conf-cumulative-refresh\" data-conf=\"CUMULATIVE — REFRESH\">CUMULATIVE — REFRESH</span>. Applications open annually 1 February; the 2026 cycle has closed, next window 1 February 2027. Not defense-specific, but Massachusetts already appears in this map as a NATO DIANA US accelerator site (MassChallenge, Boston), so a Massachusetts-based national security company plausibly touches both.",
-              "text": "Massachusetts's state-level SBIR/STTR matching program, non-dilutive, running since 2012. Structured in three rounds: 16 Round 1 grants of $100,000, 7 Round 2 grants of $200,000 for the strongest Round 1 performers, and 3 Round 3 seed-capital grants of up to $500,000. Eligibility gates on holding a federal SBIR or STTR Phase II award within the past five years and being Massachusetts-based, so this is a follow-on to federal non-dilutive money, not a substitute for it. Since inception: $41.7M awarded to 141 companies, which have gone on to raise more than $5B in private capital CUMULATIVE — REFRESH. Applications open annually 1 February; the 2026 cycle has closed, next window 1 February 2027. Not defense-specific, but Massachusetts already appears in this map as a NATO DIANA US accelerator site (MassChallenge, Boston), so a Massachusetts-based national security company plausibly touches both.",
+              "raw": "A $200M SSBCI-backed program run by the California Infrastructure and Economic Development Bank (IBank), investing as a limited partner into venture funds rather than directly into companies. It specifically targets underrepresented fund managers and geographically disadvantaged entrepreneurs, a narrower mandate than most peer-state programs below [UNVERIFIED, current deployment pace and participating fund list not confirmed at this revision]. Not defense-specific; a direct search for a California program targeted at defense or dual-use technology specifically found nothing beyond this general-purpose vehicle.",
+              "html": "A $200M SSBCI-backed program run by the California Infrastructure and Economic Development Bank (IBank), investing as a limited partner into venture funds rather than directly into companies. It specifically targets underrepresented fund managers and geographically disadvantaged entrepreneurs, a narrower mandate than most peer-state programs below <span class=\"chip chip-conf conf-unverified\" data-conf=\"UNVERIFIED\">UNVERIFIED</span><span class=\"conf-extra\">current deployment pace and participating fund list not confirmed at this revision</span>. Not defense-specific; a direct search for a California program targeted at defense or dual-use technology specifically found nothing beyond this general-purpose vehicle.",
+              "text": "A $200M SSBCI-backed program run by the California Infrastructure and Economic Development Bank (IBank), investing as a limited partner into venture funds rather than directly into companies. It specifically targets underrepresented fund managers and geographically disadvantaged entrepreneurs, a narrower mandate than most peer-state programs below UNVERIFIED. Not defense-specific; a direct search for a California program targeted at defense or dual-use technology specifically found nothing beyond this general-purpose vehicle.",
               "confidence": [
-                "CUMULATIVE — REFRESH"
+                "UNVERIFIED"
               ]
             }
           ]
         },
         {
           "type": "vehicle",
-          "heading": "Texas Space Commission — SEARF",
-          "headingHtml": "Texas Space Commission — SEARF",
+          "heading": "Connecticut Innovations",
+          "headingHtml": "Connecticut Innovations",
           "tag": {
             "body": [
               "CIVIL"
             ],
             "instruments": [
+              "EQUITY",
               "NON-DILUTIVE"
             ],
             "eligibility": [],
             "meta": [
-              "Texas"
+              "Connecticut"
             ]
           },
           "heat": {
@@ -2424,37 +2542,29 @@
           "blocks": [
             {
               "type": "para",
-              "raw": "The Space Exploration and Aeronautics Research Fund, a Texas state grant program created by the legislature in 2023 with an initial $150M and a further $300M approved in 2025. Open to businesses, higher-education institutions, government entities, and nonprofits for spaceflight technology, space-related research, workforce training, and spaceport development. $150M has been divided across 24 projects through 2025 and early 2026; the next $300M round has not opened as of this revision [UNVERIFIED, SEARF's next application window not confirmed at this revision]. Space-specific rather than broadly dual-use, and not defense-gated, but real money at a scale most state programs don't match, in a state building out a real space-industry base.",
-              "html": "The Space Exploration and Aeronautics Research Fund, a Texas state grant program created by the legislature in 2023 with an initial $150M and a further $300M approved in 2025. Open to businesses, higher-education institutions, government entities, and nonprofits for spaceflight technology, space-related research, workforce training, and spaceport development. $150M has been divided across 24 projects through 2025 and early 2026; the next $300M round has not opened as of this revision <span class=\"chip chip-conf conf-unverified\" data-conf=\"UNVERIFIED\">UNVERIFIED</span><span class=\"conf-extra\">SEARF's next application window not confirmed at this revision</span>. Space-specific rather than broadly dual-use, and not defense-gated, but real money at a scale most state programs don't match, in a state building out a real space-industry base.",
-              "text": "The Space Exploration and Aeronautics Research Fund, a Texas state grant program created by the legislature in 2023 with an initial $150M and a further $300M approved in 2025. Open to businesses, higher-education institutions, government entities, and nonprofits for spaceflight technology, space-related research, workforce training, and spaceport development. $150M has been divided across 24 projects through 2025 and early 2026; the next $300M round has not opened as of this revision UNVERIFIED. Space-specific rather than broadly dual-use, and not defense-gated, but real money at a scale most state programs don't match, in a state building out a real space-industry base.",
+              "raw": "Connecticut's quasi-public strategic investment arm and one of the longest-running state venture programs in the country, making direct equity investments and running matching grants across technology, life sciences, and other innovation-driven sectors. In 2026 it allocated $50M specifically to artificial intelligence and quantum-technology companies and separately runs a $100M ClimateTech Fund [UNVERIFIED, current fund balances and 2026 deployment status not confirmed at this revision]. Its portfolio already touches national-security-adjacent companies directly: it backed CloudSEK, a threat-intelligence firm, in a $10M Series B in January 2026. Not defense-gated, but broader and more active than most of the programs in this section.",
+              "html": "Connecticut's quasi-public strategic investment arm and one of the longest-running state venture programs in the country, making direct equity investments and running matching grants across technology, life sciences, and other innovation-driven sectors. In 2026 it allocated $50M specifically to artificial intelligence and quantum-technology companies and separately runs a $100M ClimateTech Fund <span class=\"chip chip-conf conf-unverified\" data-conf=\"UNVERIFIED\">UNVERIFIED</span><span class=\"conf-extra\">current fund balances and 2026 deployment status not confirmed at this revision</span>. Its portfolio already touches national-security-adjacent companies directly: it backed CloudSEK, a threat-intelligence firm, in a $10M Series B in January 2026. Not defense-gated, but broader and more active than most of the programs in this section.",
+              "text": "Connecticut's quasi-public strategic investment arm and one of the longest-running state venture programs in the country, making direct equity investments and running matching grants across technology, life sciences, and other innovation-driven sectors. In 2026 it allocated $50M specifically to artificial intelligence and quantum-technology companies and separately runs a $100M ClimateTech Fund UNVERIFIED. Its portfolio already touches national-security-adjacent companies directly: it backed CloudSEK, a threat-intelligence firm, in a $10M Series B in January 2026. Not defense-gated, but broader and more active than most of the programs in this section.",
               "confidence": [
                 "UNVERIFIED"
               ]
-            },
-            {
-              "type": "para",
-              "raw": "A second Texas mechanism exists but does not get its own entry: the Texas Enterprise Fund is a large \"deal-closing\" incentive for site-selection competitions (a factory or headquarters choosing Texas over another state), not a startup-stage capital door, and a private $50M defensetech fund (Texas Venture Partners, formed to connect Texas and Israeli defensetech startups) was also found, but private venture capital is out of scope for a government-capital map even here.",
-              "html": "A second Texas mechanism exists but does not get its own entry: the Texas Enterprise Fund is a large \"deal-closing\" incentive for site-selection competitions (a factory or headquarters choosing Texas over another state), not a startup-stage capital door, and a private $50M defensetech fund (Texas Venture Partners, formed to connect Texas and Israeli defensetech startups) was also found, but private venture capital is out of scope for a government-capital map even here.",
-              "text": "A second Texas mechanism exists but does not get its own entry: the Texas Enterprise Fund is a large \"deal-closing\" incentive for site-selection competitions (a factory or headquarters choosing Texas over another state), not a startup-stage capital door, and a private $50M defensetech fund (Texas Venture Partners, formed to connect Texas and Israeli defensetech startups) was also found, but private venture capital is out of scope for a government-capital map even here.",
-              "confidence": []
             }
           ]
         },
         {
           "type": "vehicle",
-          "heading": "New York State Innovation Venture Capital Fund",
-          "headingHtml": "New York State Innovation Venture Capital Fund",
+          "heading": "Florida Venture Capital Program",
+          "headingHtml": "Florida Venture Capital Program",
           "tag": {
             "body": [
               "CIVIL"
             ],
             "instruments": [
-              "NON-DILUTIVE",
-              "EQUITY"
+              "FUND-LEVEL"
             ],
             "eligibility": [],
             "meta": [
-              "New York"
+              "Florida"
             ]
           },
           "heat": {
@@ -2464,11 +2574,43 @@
           "blocks": [
             {
               "type": "para",
-              "raw": "A direct-investment fund for seed-through-Series-B technology companies statewide, run by Empire State Development: $100M in state money plus $35M from SSBCI. Stated focus areas are climate technology, health tech and life sciences, ag-tech, advanced manufacturing, social-impact SaaS, data, and AI, not defense specifically [UNVERIFIED, current fund size and whether it is still actively deploying, confirm before citing]. New York separately runs a defense-industry-specific manufacturing diversification program: grants up to $700,000 for established and early-stage defense companies working to diversify against swings in federal defense spending, plus smaller grants up to $50,000 for defense suppliers adopting new manufacturing technology or diversifying their markets [UNVERIFIED, administering agency and current solicitation status not confirmed at this revision]. That second, smaller program is the more defense-specific of the two.",
-              "html": "A direct-investment fund for seed-through-Series-B technology companies statewide, run by Empire State Development: $100M in state money plus $35M from SSBCI. Stated focus areas are climate technology, health tech and life sciences, ag-tech, advanced manufacturing, social-impact SaaS, data, and AI, not defense specifically <span class=\"chip chip-conf conf-unverified\" data-conf=\"UNVERIFIED\">UNVERIFIED</span><span class=\"conf-extra\">current fund size and whether it is still actively deploying, confirm before citing</span>. New York separately runs a defense-industry-specific manufacturing diversification program: grants up to $700,000 for established and early-stage defense companies working to diversify against swings in federal defense spending, plus smaller grants up to $50,000 for defense suppliers adopting new manufacturing technology or diversifying their markets <span class=\"chip chip-conf conf-unverified\" data-conf=\"UNVERIFIED\">UNVERIFIED</span><span class=\"conf-extra\">administering agency and current solicitation status not confirmed at this revision</span>. That second, smaller program is the more defense-specific of the two.",
-              "text": "A direct-investment fund for seed-through-Series-B technology companies statewide, run by Empire State Development: $100M in state money plus $35M from SSBCI. Stated focus areas are climate technology, health tech and life sciences, ag-tech, advanced manufacturing, social-impact SaaS, data, and AI, not defense specifically UNVERIFIED. New York separately runs a defense-industry-specific manufacturing diversification program: grants up to $700,000 for established and early-stage defense companies working to diversify against swings in federal defense spending, plus smaller grants up to $50,000 for defense suppliers adopting new manufacturing technology or diversifying their markets UNVERIFIED. That second, smaller program is the more defense-specific of the two.",
+              "raw": "A $100M SSBCI-backed equity program administered by the Florida Department of Economic Opportunity with the Florida Opportunity Fund (successor to Enterprise Florida), part of a $488M statewide SSBCI allocation that also runs capital access, collateral support, and loan programs. It selects investment managers rather than picking companies directly [UNVERIFIED, current participating managers and deployment status not confirmed at this revision]. Not defense-specific; a direct search for a Florida program targeted at defense or dual-use technology specifically found nothing beyond this general-purpose vehicle, and nothing beyond the tax-incentive-shaped Qualified Target Industry program, which is not investment capital.",
+              "html": "A $100M SSBCI-backed equity program administered by the Florida Department of Economic Opportunity with the Florida Opportunity Fund (successor to Enterprise Florida), part of a $488M statewide SSBCI allocation that also runs capital access, collateral support, and loan programs. It selects investment managers rather than picking companies directly <span class=\"chip chip-conf conf-unverified\" data-conf=\"UNVERIFIED\">UNVERIFIED</span><span class=\"conf-extra\">current participating managers and deployment status not confirmed at this revision</span>. Not defense-specific; a direct search for a Florida program targeted at defense or dual-use technology specifically found nothing beyond this general-purpose vehicle, and nothing beyond the tax-incentive-shaped Qualified Target Industry program, which is not investment capital.",
+              "text": "A $100M SSBCI-backed equity program administered by the Florida Department of Economic Opportunity with the Florida Opportunity Fund (successor to Enterprise Florida), part of a $488M statewide SSBCI allocation that also runs capital access, collateral support, and loan programs. It selects investment managers rather than picking companies directly UNVERIFIED. Not defense-specific; a direct search for a Florida program targeted at defense or dual-use technology specifically found nothing beyond this general-purpose vehicle, and nothing beyond the tax-incentive-shaped Qualified Target Industry program, which is not investment capital.",
               "confidence": [
-                "UNVERIFIED",
+                "UNVERIFIED"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "vehicle",
+          "heading": "Georgia Venture Capital Program (Invest Georgia)",
+          "headingHtml": "Georgia Venture Capital Program (Invest Georgia)",
+          "tag": {
+            "body": [
+              "CIVIL"
+            ],
+            "instruments": [
+              "FUND-LEVEL",
+              "EQUITY"
+            ],
+            "eligibility": [],
+            "meta": [
+              "Georgia"
+            ]
+          },
+          "heat": {
+            "heat": "OPEN",
+            "openness": "MED"
+          },
+          "blocks": [
+            {
+              "type": "para",
+              "raw": "An SSBCI-backed, limited-partner-style program administered through Invest Georgia that routes state capital into venture funds actively investing in Georgia-based companies. A companion Georgia Equity Direct Program co-invests directly into individual companies alongside private venture funds, seed funds, and angel groups, rather than into funds [UNVERIFIED, relative sizes and current deployment pace of the two programs not confirmed at this revision]. Georgia's total SSBCI allocation runs to roughly $200M across all program types. Not defense-specific.",
+              "html": "An SSBCI-backed, limited-partner-style program administered through Invest Georgia that routes state capital into venture funds actively investing in Georgia-based companies. A companion Georgia Equity Direct Program co-invests directly into individual companies alongside private venture funds, seed funds, and angel groups, rather than into funds <span class=\"chip chip-conf conf-unverified\" data-conf=\"UNVERIFIED\">UNVERIFIED</span><span class=\"conf-extra\">relative sizes and current deployment pace of the two programs not confirmed at this revision</span>. Georgia's total SSBCI allocation runs to roughly $200M across all program types. Not defense-specific.",
+              "text": "An SSBCI-backed, limited-partner-style program administered through Invest Georgia that routes state capital into venture funds actively investing in Georgia-based companies. A companion Georgia Equity Direct Program co-invests directly into individual companies alongside private venture funds, seed funds, and angel groups, rather than into funds UNVERIFIED. Georgia's total SSBCI allocation runs to roughly $200M across all program types. Not defense-specific.",
+              "confidence": [
                 "UNVERIFIED"
               ]
             }
@@ -2508,6 +2650,208 @@
         },
         {
           "type": "vehicle",
+          "heading": "Maine Venture Fund",
+          "headingHtml": "Maine Venture Fund",
+          "tag": {
+            "body": [
+              "CIVIL"
+            ],
+            "instruments": [
+              "EQUITY"
+            ],
+            "eligibility": [],
+            "meta": [
+              "Maine"
+            ]
+          },
+          "heat": {
+            "heat": "OPEN",
+            "openness": "MED"
+          },
+          "blocks": [
+            {
+              "type": "para",
+              "raw": "A state-legislature-created evergreen equity fund investing in Maine-based companies since 1997, small relative to the other entries in this section but real and continuously active. It deployed $3.3M into 13 companies in 2025, including direct investments and an indirect route through the Roux Institute at Northeastern University's Founder Residency program. The fund has said it plans to add unsecured credit, project financing, and revenue-based financing alongside its traditional equity role [UNVERIFIED, timing of that expansion not confirmed at this revision]. Not defense-specific, and Maine's small scale makes this closer to a specialist angel fund than a peer to New York's or Illinois's programs.",
+              "html": "A state-legislature-created evergreen equity fund investing in Maine-based companies since 1997, small relative to the other entries in this section but real and continuously active. It deployed $3.3M into 13 companies in 2025, including direct investments and an indirect route through the Roux Institute at Northeastern University's Founder Residency program. The fund has said it plans to add unsecured credit, project financing, and revenue-based financing alongside its traditional equity role <span class=\"chip chip-conf conf-unverified\" data-conf=\"UNVERIFIED\">UNVERIFIED</span><span class=\"conf-extra\">timing of that expansion not confirmed at this revision</span>. Not defense-specific, and Maine's small scale makes this closer to a specialist angel fund than a peer to New York's or Illinois's programs.",
+              "text": "A state-legislature-created evergreen equity fund investing in Maine-based companies since 1997, small relative to the other entries in this section but real and continuously active. It deployed $3.3M into 13 companies in 2025, including direct investments and an indirect route through the Roux Institute at Northeastern University's Founder Residency program. The fund has said it plans to add unsecured credit, project financing, and revenue-based financing alongside its traditional equity role UNVERIFIED. Not defense-specific, and Maine's small scale makes this closer to a specialist angel fund than a peer to New York's or Illinois's programs.",
+              "confidence": [
+                "UNVERIFIED"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "vehicle",
+          "heading": "MassVentures START Grant",
+          "headingHtml": "MassVentures START Grant",
+          "tag": {
+            "body": [
+              "CIVIL"
+            ],
+            "instruments": [
+              "NON-DILUTIVE"
+            ],
+            "eligibility": [],
+            "meta": [
+              "Massachusetts"
+            ]
+          },
+          "heat": {
+            "heat": "OPEN",
+            "openness": "MED"
+          },
+          "blocks": [
+            {
+              "type": "para",
+              "raw": "Massachusetts's state-level SBIR/STTR matching program, non-dilutive, running since 2012. Structured in three rounds: 16 Round 1 grants of $100,000, 7 Round 2 grants of $200,000 for the strongest Round 1 performers, and 3 Round 3 seed-capital grants of up to $500,000. Eligibility gates on holding a federal SBIR or STTR Phase II award within the past five years and being Massachusetts-based, so this is a follow-on to federal non-dilutive money, not a substitute for it. Since inception: $41.7M awarded to 141 companies, which have gone on to raise more than $5B in private capital [CUMULATIVE — REFRESH]. Applications open annually 1 February; the 2026 cycle has closed, next window 1 February 2027. Not defense-specific, but Massachusetts already appears in this map as a NATO DIANA US accelerator site (MassChallenge, Boston), so a Massachusetts-based national security company plausibly touches both.",
+              "html": "Massachusetts's state-level SBIR/STTR matching program, non-dilutive, running since 2012. Structured in three rounds: 16 Round 1 grants of $100,000, 7 Round 2 grants of $200,000 for the strongest Round 1 performers, and 3 Round 3 seed-capital grants of up to $500,000. Eligibility gates on holding a federal SBIR or STTR Phase II award within the past five years and being Massachusetts-based, so this is a follow-on to federal non-dilutive money, not a substitute for it. Since inception: $41.7M awarded to 141 companies, which have gone on to raise more than $5B in private capital <span class=\"chip chip-conf conf-cumulative-refresh\" data-conf=\"CUMULATIVE — REFRESH\">CUMULATIVE — REFRESH</span>. Applications open annually 1 February; the 2026 cycle has closed, next window 1 February 2027. Not defense-specific, but Massachusetts already appears in this map as a NATO DIANA US accelerator site (MassChallenge, Boston), so a Massachusetts-based national security company plausibly touches both.",
+              "text": "Massachusetts's state-level SBIR/STTR matching program, non-dilutive, running since 2012. Structured in three rounds: 16 Round 1 grants of $100,000, 7 Round 2 grants of $200,000 for the strongest Round 1 performers, and 3 Round 3 seed-capital grants of up to $500,000. Eligibility gates on holding a federal SBIR or STTR Phase II award within the past five years and being Massachusetts-based, so this is a follow-on to federal non-dilutive money, not a substitute for it. Since inception: $41.7M awarded to 141 companies, which have gone on to raise more than $5B in private capital CUMULATIVE — REFRESH. Applications open annually 1 February; the 2026 cycle has closed, next window 1 February 2027. Not defense-specific, but Massachusetts already appears in this map as a NATO DIANA US accelerator site (MassChallenge, Boston), so a Massachusetts-based national security company plausibly touches both.",
+              "confidence": [
+                "CUMULATIVE — REFRESH"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "vehicle",
+          "heading": "Michigan Small Business Venture Capital Program (SBVCP)",
+          "headingHtml": "Michigan Small Business Venture Capital Program (SBVCP)",
+          "tag": {
+            "body": [
+              "CIVIL"
+            ],
+            "instruments": [
+              "FUND-LEVEL"
+            ],
+            "eligibility": [],
+            "meta": [
+              "Michigan"
+            ]
+          },
+          "heat": {
+            "heat": "OPEN",
+            "openness": "MED"
+          },
+          "blocks": [
+            {
+              "type": "para",
+              "raw": "A $75M SSBCI-backed program run by the Michigan Economic Development Corporation, investing as a limited partner in venture funds that in turn back early-stage, technology-based Michigan companies. Early approved commitments split $22M between two fund managers, one targeting socially and economically disadvantaged founders and one focused on healthcare [UNVERIFIED, current total committed versus the $75M ceiling not confirmed at this revision]. Not defense-specific.",
+              "html": "A $75M SSBCI-backed program run by the Michigan Economic Development Corporation, investing as a limited partner in venture funds that in turn back early-stage, technology-based Michigan companies. Early approved commitments split $22M between two fund managers, one targeting socially and economically disadvantaged founders and one focused on healthcare <span class=\"chip chip-conf conf-unverified\" data-conf=\"UNVERIFIED\">UNVERIFIED</span><span class=\"conf-extra\">current total committed versus the $75M ceiling not confirmed at this revision</span>. Not defense-specific.",
+              "text": "A $75M SSBCI-backed program run by the Michigan Economic Development Corporation, investing as a limited partner in venture funds that in turn back early-stage, technology-based Michigan companies. Early approved commitments split $22M between two fund managers, one targeting socially and economically disadvantaged founders and one focused on healthcare UNVERIFIED. Not defense-specific.",
+              "confidence": [
+                "UNVERIFIED"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "vehicle",
+          "heading": "New York State Innovation Venture Capital Fund",
+          "headingHtml": "New York State Innovation Venture Capital Fund",
+          "tag": {
+            "body": [
+              "CIVIL"
+            ],
+            "instruments": [
+              "NON-DILUTIVE",
+              "EQUITY"
+            ],
+            "eligibility": [],
+            "meta": [
+              "New York"
+            ]
+          },
+          "heat": {
+            "heat": "OPEN",
+            "openness": "MED"
+          },
+          "blocks": [
+            {
+              "type": "para",
+              "raw": "A direct-investment fund for seed-through-Series-B technology companies statewide, run by Empire State Development: $100M in state money plus $35M from SSBCI. Stated focus areas are climate technology, health tech and life sciences, ag-tech, advanced manufacturing, social-impact SaaS, data, and AI, not defense specifically [UNVERIFIED, current fund size and whether it is still actively deploying, confirm before citing]. New York separately runs a defense-industry-specific manufacturing diversification program: grants up to $700,000 for established and early-stage defense companies working to diversify against swings in federal defense spending, plus smaller grants up to $50,000 for defense suppliers adopting new manufacturing technology or diversifying their markets [UNVERIFIED, administering agency and current solicitation status not confirmed at this revision]. That second, smaller program is the more defense-specific of the two.",
+              "html": "A direct-investment fund for seed-through-Series-B technology companies statewide, run by Empire State Development: $100M in state money plus $35M from SSBCI. Stated focus areas are climate technology, health tech and life sciences, ag-tech, advanced manufacturing, social-impact SaaS, data, and AI, not defense specifically <span class=\"chip chip-conf conf-unverified\" data-conf=\"UNVERIFIED\">UNVERIFIED</span><span class=\"conf-extra\">current fund size and whether it is still actively deploying, confirm before citing</span>. New York separately runs a defense-industry-specific manufacturing diversification program: grants up to $700,000 for established and early-stage defense companies working to diversify against swings in federal defense spending, plus smaller grants up to $50,000 for defense suppliers adopting new manufacturing technology or diversifying their markets <span class=\"chip chip-conf conf-unverified\" data-conf=\"UNVERIFIED\">UNVERIFIED</span><span class=\"conf-extra\">administering agency and current solicitation status not confirmed at this revision</span>. That second, smaller program is the more defense-specific of the two.",
+              "text": "A direct-investment fund for seed-through-Series-B technology companies statewide, run by Empire State Development: $100M in state money plus $35M from SSBCI. Stated focus areas are climate technology, health tech and life sciences, ag-tech, advanced manufacturing, social-impact SaaS, data, and AI, not defense specifically UNVERIFIED. New York separately runs a defense-industry-specific manufacturing diversification program: grants up to $700,000 for established and early-stage defense companies working to diversify against swings in federal defense spending, plus smaller grants up to $50,000 for defense suppliers adopting new manufacturing technology or diversifying their markets UNVERIFIED. That second, smaller program is the more defense-specific of the two.",
+              "confidence": [
+                "UNVERIFIED",
+                "UNVERIFIED"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "vehicle",
+          "heading": "Ohio Third Frontier",
+          "headingHtml": "Ohio Third Frontier",
+          "tag": {
+            "body": [
+              "CIVIL"
+            ],
+            "instruments": [
+              "NON-DILUTIVE",
+              "FUND-LEVEL"
+            ],
+            "eligibility": [],
+            "meta": [
+              "Ohio"
+            ]
+          },
+          "heat": {
+            "heat": "OPEN",
+            "openness": "MED"
+          },
+          "blocks": [
+            {
+              "type": "para",
+              "raw": "Ohio's technology-commercialization program, running continuously since 2002 and structurally closer to a state-run non-dilutive grant pipeline than a fund. Its Technology Validation and Start-up Fund has issued 411 awards totaling more than $69M since 2012, with Phase 2 start-up awards running up to $200,000 for companies moving research out of Ohio universities, nonprofit labs, and federal laboratories toward the market [CUMULATIVE — REFRESH]. A companion vehicle, the TechGrowth Ohio Fund, invests the same Third Frontier dollars, matched by Ohio University, as actual venture capital: $12.78M under management, writing pre-seed and seed checks. Funding priorities include advanced manufacturing, materials, and sensors, categories that overlap with this map's Hardware and Microelectronics sectors even though the program itself is not defense-gated.",
+              "html": "Ohio's technology-commercialization program, running continuously since 2002 and structurally closer to a state-run non-dilutive grant pipeline than a fund. Its Technology Validation and Start-up Fund has issued 411 awards totaling more than $69M since 2012, with Phase 2 start-up awards running up to $200,000 for companies moving research out of Ohio universities, nonprofit labs, and federal laboratories toward the market <span class=\"chip chip-conf conf-cumulative-refresh\" data-conf=\"CUMULATIVE — REFRESH\">CUMULATIVE — REFRESH</span>. A companion vehicle, the TechGrowth Ohio Fund, invests the same Third Frontier dollars, matched by Ohio University, as actual venture capital: $12.78M under management, writing pre-seed and seed checks. Funding priorities include advanced manufacturing, materials, and sensors, categories that overlap with this map's Hardware and Microelectronics sectors even though the program itself is not defense-gated.",
+              "text": "Ohio's technology-commercialization program, running continuously since 2002 and structurally closer to a state-run non-dilutive grant pipeline than a fund. Its Technology Validation and Start-up Fund has issued 411 awards totaling more than $69M since 2012, with Phase 2 start-up awards running up to $200,000 for companies moving research out of Ohio universities, nonprofit labs, and federal laboratories toward the market CUMULATIVE — REFRESH. A companion vehicle, the TechGrowth Ohio Fund, invests the same Third Frontier dollars, matched by Ohio University, as actual venture capital: $12.78M under management, writing pre-seed and seed checks. Funding priorities include advanced manufacturing, materials, and sensors, categories that overlap with this map's Hardware and Microelectronics sectors even though the program itself is not defense-gated.",
+              "confidence": [
+                "CUMULATIVE — REFRESH"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "vehicle",
+          "heading": "Texas Space Commission — SEARF",
+          "headingHtml": "Texas Space Commission — SEARF",
+          "tag": {
+            "body": [
+              "CIVIL"
+            ],
+            "instruments": [
+              "NON-DILUTIVE"
+            ],
+            "eligibility": [],
+            "meta": [
+              "Texas"
+            ]
+          },
+          "heat": {
+            "heat": "HOT",
+            "openness": "MED"
+          },
+          "blocks": [
+            {
+              "type": "para",
+              "raw": "The Space Exploration and Aeronautics Research Fund, a Texas state grant program created by the legislature in 2023 with an initial $150M and a further $300M approved in 2025. Open to businesses, higher-education institutions, government entities, and nonprofits for spaceflight technology, space-related research, workforce training, and spaceport development. $150M has been divided across 24 projects through 2025 and early 2026; the next $300M round has not opened as of this revision [UNVERIFIED, SEARF's next application window not confirmed at this revision]. Space-specific rather than broadly dual-use, and not defense-gated, but real money at a scale most state programs don't match, in a state building out a real space-industry base.",
+              "html": "The Space Exploration and Aeronautics Research Fund, a Texas state grant program created by the legislature in 2023 with an initial $150M and a further $300M approved in 2025. Open to businesses, higher-education institutions, government entities, and nonprofits for spaceflight technology, space-related research, workforce training, and spaceport development. $150M has been divided across 24 projects through 2025 and early 2026; the next $300M round has not opened as of this revision <span class=\"chip chip-conf conf-unverified\" data-conf=\"UNVERIFIED\">UNVERIFIED</span><span class=\"conf-extra\">SEARF's next application window not confirmed at this revision</span>. Space-specific rather than broadly dual-use, and not defense-gated, but real money at a scale most state programs don't match, in a state building out a real space-industry base.",
+              "text": "The Space Exploration and Aeronautics Research Fund, a Texas state grant program created by the legislature in 2023 with an initial $150M and a further $300M approved in 2025. Open to businesses, higher-education institutions, government entities, and nonprofits for spaceflight technology, space-related research, workforce training, and spaceport development. $150M has been divided across 24 projects through 2025 and early 2026; the next $300M round has not opened as of this revision UNVERIFIED. Space-specific rather than broadly dual-use, and not defense-gated, but real money at a scale most state programs don't match, in a state building out a real space-industry base.",
+              "confidence": [
+                "UNVERIFIED"
+              ]
+            },
+            {
+              "type": "para",
+              "raw": "A second Texas mechanism exists but does not get its own entry: the Texas Enterprise Fund is a large \"deal-closing\" incentive for site-selection competitions (a factory or headquarters choosing Texas over another state), not a startup-stage capital door, and a private $50M defensetech fund (Texas Venture Partners, formed to connect Texas and Israeli defensetech startups) was also found, but private venture capital is out of scope for a government-capital map even here. A closer second look for a state-run equity or venture vehicle akin to New York's or Illinois's turned up nothing further: the Texas Small Business Credit Initiative allocation, $472M, runs entirely through credit programs (a Capital Access Program and a Loan Guarantee Program), with no equity or venture-capital component, unlike most peer states' SSBCI plans. SEARF remains Texas's one real venture-scale capital pool for technology companies specifically.",
+              "html": "A second Texas mechanism exists but does not get its own entry: the Texas Enterprise Fund is a large \"deal-closing\" incentive for site-selection competitions (a factory or headquarters choosing Texas over another state), not a startup-stage capital door, and a private $50M defensetech fund (Texas Venture Partners, formed to connect Texas and Israeli defensetech startups) was also found, but private venture capital is out of scope for a government-capital map even here. A closer second look for a state-run equity or venture vehicle akin to New York's or Illinois's turned up nothing further: the Texas Small Business Credit Initiative allocation, $472M, runs entirely through credit programs (a Capital Access Program and a Loan Guarantee Program), with no equity or venture-capital component, unlike most peer states' SSBCI plans. SEARF remains Texas's one real venture-scale capital pool for technology companies specifically.",
+              "text": "A second Texas mechanism exists but does not get its own entry: the Texas Enterprise Fund is a large \"deal-closing\" incentive for site-selection competitions (a factory or headquarters choosing Texas over another state), not a startup-stage capital door, and a private $50M defensetech fund (Texas Venture Partners, formed to connect Texas and Israeli defensetech startups) was also found, but private venture capital is out of scope for a government-capital map even here. A closer second look for a state-run equity or venture vehicle akin to New York's or Illinois's turned up nothing further: the Texas Small Business Credit Initiative allocation, $472M, runs entirely through credit programs (a Capital Access Program and a Loan Guarantee Program), with no equity or venture-capital component, unlike most peer states' SSBCI plans. SEARF remains Texas's one real venture-scale capital pool for technology companies specifically.",
+              "confidence": []
+            }
+          ]
+        },
+        {
+          "type": "vehicle",
           "heading": "47G (Utah Aerospace and Defense)",
           "headingHtml": "47G (Utah Aerospace and Defense)",
           "tag": {
@@ -2532,6 +2876,71 @@
               "raw": "A nonprofit aerospace-and-defense industry association, not a government agency, that functions as Utah's facilitation and matching layer rather than a direct capital pool of its own, the closest analog in this map being NavalX. More than 60% of its roughly $3.1M annual budget comes from government grants, and its UAMMI Institute has facilitated federal grants and state matching funds from DoD, Commerce (SBA, EDA, Tech Hubs), and DoE for its ecosystem of more than 180 companies and academic institutions [UNVERIFIED, current annual budget and grant facilitation totals not confirmed at this revision]. It has helped raise roughly $30M for hardware-sector companies and runs an annual Critical Ventures convening on rare-earth and critical-minerals supply-chain security, tied to a DARPA-backed testbed. Real, but the money moves through federal programs and state matching dollars that 47G connects, not through 47G's own balance sheet.",
               "html": "A nonprofit aerospace-and-defense industry association, not a government agency, that functions as Utah's facilitation and matching layer rather than a direct capital pool of its own, the closest analog in this map being NavalX. More than 60% of its roughly $3.1M annual budget comes from government grants, and its UAMMI Institute has facilitated federal grants and state matching funds from DoD, Commerce (SBA, EDA, Tech Hubs), and DoE for its ecosystem of more than 180 companies and academic institutions <span class=\"chip chip-conf conf-unverified\" data-conf=\"UNVERIFIED\">UNVERIFIED</span><span class=\"conf-extra\">current annual budget and grant facilitation totals not confirmed at this revision</span>. It has helped raise roughly $30M for hardware-sector companies and runs an annual Critical Ventures convening on rare-earth and critical-minerals supply-chain security, tied to a DARPA-backed testbed. Real, but the money moves through federal programs and state matching dollars that 47G connects, not through 47G's own balance sheet.",
               "text": "A nonprofit aerospace-and-defense industry association, not a government agency, that functions as Utah's facilitation and matching layer rather than a direct capital pool of its own, the closest analog in this map being NavalX. More than 60% of its roughly $3.1M annual budget comes from government grants, and its UAMMI Institute has facilitated federal grants and state matching funds from DoD, Commerce (SBA, EDA, Tech Hubs), and DoE for its ecosystem of more than 180 companies and academic institutions UNVERIFIED. It has helped raise roughly $30M for hardware-sector companies and runs an annual Critical Ventures convening on rare-earth and critical-minerals supply-chain security, tied to a DARPA-backed testbed. Real, but the money moves through federal programs and state matching dollars that 47G connects, not through 47G's own balance sheet.",
+              "confidence": [
+                "UNVERIFIED"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "vehicle",
+          "heading": "Virginia Invests (Virginia Innovation Partnership Corporation)",
+          "headingHtml": "Virginia Invests (Virginia Innovation Partnership Corporation)",
+          "tag": {
+            "body": [
+              "CIVIL"
+            ],
+            "instruments": [
+              "FUND-LEVEL",
+              "EQUITY"
+            ],
+            "eligibility": [],
+            "meta": [
+              "Virginia"
+            ]
+          },
+          "heat": {
+            "heat": "OPEN",
+            "openness": "MED"
+          },
+          "blocks": [
+            {
+              "type": "para",
+              "raw": "A $173.4M SSBCI-backed equity program run by the Virginia Innovation Partnership Corporation (VIPC), a state economic-development authority. It committed to seven first-time and emerging fund managers expected to catalyze roughly $250M into more than 100 high-growth Virginia startups over three to five years. A companion arm, Virginia Venture Partners, places direct equity investments in Virginia technology, energy, and life-science startups, also SSBCI-capitalized [UNVERIFIED, whether Virginia Venture Partners draws from the same allocation as the fund-of-funds program or a separate pool, not confirmed at this revision]. Not defense-specific, though Virginia's density of DoD and IC customers, In-Q-Tel, ONR, and several coordination bodies elsewhere in this map are all headquartered there, makes it a plausible landing spot for a national-security-adjacent Virginia company.",
+              "html": "A $173.4M SSBCI-backed equity program run by the Virginia Innovation Partnership Corporation (VIPC), a state economic-development authority. It committed to seven first-time and emerging fund managers expected to catalyze roughly $250M into more than 100 high-growth Virginia startups over three to five years. A companion arm, Virginia Venture Partners, places direct equity investments in Virginia technology, energy, and life-science startups, also SSBCI-capitalized <span class=\"chip chip-conf conf-unverified\" data-conf=\"UNVERIFIED\">UNVERIFIED</span><span class=\"conf-extra\">whether Virginia Venture Partners draws from the same allocation as the fund-of-funds program or a separate pool, not confirmed at this revision</span>. Not defense-specific, though Virginia's density of DoD and IC customers, In-Q-Tel, ONR, and several coordination bodies elsewhere in this map are all headquartered there, makes it a plausible landing spot for a national-security-adjacent Virginia company.",
+              "text": "A $173.4M SSBCI-backed equity program run by the Virginia Innovation Partnership Corporation (VIPC), a state economic-development authority. It committed to seven first-time and emerging fund managers expected to catalyze roughly $250M into more than 100 high-growth Virginia startups over three to five years. A companion arm, Virginia Venture Partners, places direct equity investments in Virginia technology, energy, and life-science startups, also SSBCI-capitalized UNVERIFIED. Not defense-specific, though Virginia's density of DoD and IC customers, In-Q-Tel, ONR, and several coordination bodies elsewhere in this map are all headquartered there, makes it a plausible landing spot for a national-security-adjacent Virginia company.",
+              "confidence": [
+                "UNVERIFIED"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "vehicle",
+          "heading": "Washington SSBCI Venture Capital Program",
+          "headingHtml": "Washington SSBCI Venture Capital Program",
+          "tag": {
+            "body": [
+              "CIVIL"
+            ],
+            "instruments": [
+              "FUND-LEVEL"
+            ],
+            "eligibility": [],
+            "meta": [
+              "Washington"
+            ]
+          },
+          "heat": {
+            "heat": "OPEN",
+            "openness": "MED"
+          },
+          "blocks": [
+            {
+              "type": "para",
+              "raw": "A $49M SSBCI-backed program investing in up to three Washington-based venture funds, with stated focus areas including climate tech, information technology, and AI/ML alongside underserved-founder and social-equity mandates [UNVERIFIED, which fund managers were selected and current deployment status not confirmed at this revision]. Not defense-specific.",
+              "html": "A $49M SSBCI-backed program investing in up to three Washington-based venture funds, with stated focus areas including climate tech, information technology, and AI/ML alongside underserved-founder and social-equity mandates <span class=\"chip chip-conf conf-unverified\" data-conf=\"UNVERIFIED\">UNVERIFIED</span><span class=\"conf-extra\">which fund managers were selected and current deployment status not confirmed at this revision</span>. Not defense-specific.",
+              "text": "A $49M SSBCI-backed program investing in up to three Washington-based venture funds, with stated focus areas including climate tech, information technology, and AI/ML alongside underserved-founder and social-equity mandates UNVERIFIED. Not defense-specific.",
               "confidence": [
                 "UNVERIFIED"
               ]
@@ -3315,6 +3724,122 @@
       "summary": "The Department of Homeland Security Science and Technology Directorate's startup program, non-dilutive and structured through Other Transaction agreements, aimed at homeland security problems (border, cyber, first responder)."
     },
     {
+      "id": "v-california-ibank-expanding-venture-capital-access-program",
+      "heading": "California IBank — Expanding Venture Capital Access Program",
+      "section": 12,
+      "group": "State and regional programs",
+      "body": [
+        "CIVIL"
+      ],
+      "instruments": [
+        "FUND-LEVEL"
+      ],
+      "eligibility": [],
+      "meta": [
+        "California"
+      ],
+      "heat": "OPEN",
+      "openness": "MED",
+      "summary": "A $200M SSBCI-backed program run by the California Infrastructure and Economic Development Bank (IBank), investing as a limited partner into venture funds rather than directly into companies."
+    },
+    {
+      "id": "v-connecticut-innovations",
+      "heading": "Connecticut Innovations",
+      "section": 12,
+      "group": "State and regional programs",
+      "body": [
+        "CIVIL"
+      ],
+      "instruments": [
+        "EQUITY",
+        "NON-DILUTIVE"
+      ],
+      "eligibility": [],
+      "meta": [
+        "Connecticut"
+      ],
+      "heat": "HOT",
+      "openness": "MED",
+      "summary": "Connecticut's quasi-public strategic investment arm and one of the longest-running state venture programs in the country, making direct equity investments and running matching grants across technology, life sciences, and other innovation-dr…"
+    },
+    {
+      "id": "v-florida-venture-capital-program",
+      "heading": "Florida Venture Capital Program",
+      "section": 12,
+      "group": "State and regional programs",
+      "body": [
+        "CIVIL"
+      ],
+      "instruments": [
+        "FUND-LEVEL"
+      ],
+      "eligibility": [],
+      "meta": [
+        "Florida"
+      ],
+      "heat": "OPEN",
+      "openness": "MED",
+      "summary": "A $100M SSBCI-backed equity program administered by the Florida Department of Economic Opportunity with the Florida Opportunity Fund (successor to Enterprise Florida), part of a $488M statewide SSBCI allocation that also runs capital access…"
+    },
+    {
+      "id": "v-georgia-venture-capital-program-invest-georgia",
+      "heading": "Georgia Venture Capital Program (Invest Georgia)",
+      "section": 12,
+      "group": "State and regional programs",
+      "body": [
+        "CIVIL"
+      ],
+      "instruments": [
+        "FUND-LEVEL",
+        "EQUITY"
+      ],
+      "eligibility": [],
+      "meta": [
+        "Georgia"
+      ],
+      "heat": "OPEN",
+      "openness": "MED",
+      "summary": "An SSBCI-backed, limited-partner-style program administered through Invest Georgia that routes state capital into venture funds actively investing in Georgia-based companies."
+    },
+    {
+      "id": "v-illinois-growth-and-innovation-fund-ilgif",
+      "heading": "Illinois Growth and Innovation Fund (ILGIF)",
+      "section": 12,
+      "group": "State and regional programs",
+      "body": [
+        "CIVIL"
+      ],
+      "instruments": [
+        "EQUITY"
+      ],
+      "eligibility": [],
+      "meta": [
+        "Illinois"
+      ],
+      "heat": "OPEN",
+      "openness": "MED",
+      "summary": "An impact investment vehicle run by the Illinois State Treasurer's office, targeting roughly $1.5B to attract, assist, and retain tech-enabled businesses in the state, across a wide range of sectors (agtech, biotech, consumer tech, fintech,…"
+    },
+    {
+      "id": "v-maine-venture-fund",
+      "heading": "Maine Venture Fund",
+      "section": 12,
+      "group": "State and regional programs",
+      "body": [
+        "CIVIL"
+      ],
+      "instruments": [
+        "EQUITY"
+      ],
+      "eligibility": [],
+      "meta": [
+        "Maine"
+      ],
+      "heat": "OPEN",
+      "openness": "MED",
+      "summary": "A state-legislature-created evergreen equity fund investing in Maine-based companies since 1997, small relative to the other entries in this section but real and continuously active."
+    },
+    {
       "id": "v-massventures-start-grant",
       "heading": "MassVentures START Grant",
       "section": 12,
@@ -3334,23 +3859,23 @@
       "summary": "Massachusetts's state-level SBIR/STTR matching program, non-dilutive, running since 2012."
     },
     {
-      "id": "v-texas-space-commission-searf",
-      "heading": "Texas Space Commission — SEARF",
+      "id": "v-michigan-small-business-venture-capital-program-sbvcp",
+      "heading": "Michigan Small Business Venture Capital Program (SBVCP)",
       "section": 12,
       "group": "State and regional programs",
       "body": [
         "CIVIL"
       ],
       "instruments": [
-        "NON-DILUTIVE"
+        "FUND-LEVEL"
       ],
       "eligibility": [],
       "meta": [
-        "Texas"
+        "Michigan"
       ],
-      "heat": "HOT",
+      "heat": "OPEN",
       "openness": "MED",
-      "summary": "The Space Exploration and Aeronautics Research Fund, a Texas state grant program created by the legislature in 2023 with an initial $150M and a further $300M approved in 2025."
+      "summary": "A $75M SSBCI-backed program run by the Michigan Economic Development Corporation, investing as a limited partner in venture funds that in turn back early-stage, technology-based Michigan companies."
     },
     {
       "id": "v-new-york-state-innovation-venture-capital-fund",
@@ -3373,23 +3898,43 @@
       "summary": "A direct-investment fund for seed-through-Series-B technology companies statewide, run by Empire State Development: $100M in state money plus $35M from SSBCI."
     },
     {
-      "id": "v-illinois-growth-and-innovation-fund-ilgif",
-      "heading": "Illinois Growth and Innovation Fund (ILGIF)",
+      "id": "v-ohio-third-frontier",
+      "heading": "Ohio Third Frontier",
       "section": 12,
       "group": "State and regional programs",
       "body": [
         "CIVIL"
       ],
       "instruments": [
-        "EQUITY"
+        "NON-DILUTIVE",
+        "FUND-LEVEL"
       ],
       "eligibility": [],
       "meta": [
-        "Illinois"
+        "Ohio"
       ],
       "heat": "OPEN",
       "openness": "MED",
-      "summary": "An impact investment vehicle run by the Illinois State Treasurer's office, targeting roughly $1.5B to attract, assist, and retain tech-enabled businesses in the state, across a wide range of sectors (agtech, biotech, consumer tech, fintech,…"
+      "summary": "Ohio's technology-commercialization program, running continuously since 2002 and structurally closer to a state-run non-dilutive grant pipeline than a fund."
+    },
+    {
+      "id": "v-texas-space-commission-searf",
+      "heading": "Texas Space Commission — SEARF",
+      "section": 12,
+      "group": "State and regional programs",
+      "body": [
+        "CIVIL"
+      ],
+      "instruments": [
+        "NON-DILUTIVE"
+      ],
+      "eligibility": [],
+      "meta": [
+        "Texas"
+      ],
+      "heat": "HOT",
+      "openness": "MED",
+      "summary": "The Space Exploration and Aeronautics Research Fund, a Texas state grant program created by the legislature in 2023 with an initial $150M and a further $300M approved in 2025."
     },
     {
       "id": "v-47g-utah-aerospace-and-defense",
@@ -3409,6 +3954,45 @@
       "heat": "OPEN",
       "openness": "MED",
       "summary": "A nonprofit aerospace-and-defense industry association, not a government agency, that functions as Utah's facilitation and matching layer rather than a direct capital pool of its own, the closest analog in this map being NavalX."
+    },
+    {
+      "id": "v-virginia-invests-virginia-innovation-partnership-corporation",
+      "heading": "Virginia Invests (Virginia Innovation Partnership Corporation)",
+      "section": 12,
+      "group": "State and regional programs",
+      "body": [
+        "CIVIL"
+      ],
+      "instruments": [
+        "FUND-LEVEL",
+        "EQUITY"
+      ],
+      "eligibility": [],
+      "meta": [
+        "Virginia"
+      ],
+      "heat": "OPEN",
+      "openness": "MED",
+      "summary": "A $173.4M SSBCI-backed equity program run by the Virginia Innovation Partnership Corporation (VIPC), a state economic-development authority."
+    },
+    {
+      "id": "v-washington-ssbci-venture-capital-program",
+      "heading": "Washington SSBCI Venture Capital Program",
+      "section": 12,
+      "group": "State and regional programs",
+      "body": [
+        "CIVIL"
+      ],
+      "instruments": [
+        "FUND-LEVEL"
+      ],
+      "eligibility": [],
+      "meta": [
+        "Washington"
+      ],
+      "heat": "OPEN",
+      "openness": "MED",
+      "summary": "A $49M SSBCI-backed program investing in up to three Washington-based venture funds, with stated focus areas including climate tech, information technology, and AI/ML alongside underserved-founder and social-equity mandates UNVERIFIED."
     }
   ],
   "instrumentDefs": {
@@ -3422,13 +4006,13 @@
   "meta": {
     "sections": 12,
     "tables": 3,
-    "vehicles": 35,
+    "vehicles": 44,
     "sectorSubsections": 7,
-    "words": 10271,
+    "words": 12741,
     "confidence": {
       "PENDING LEGISLATION": 2,
-      "UNVERIFIED": 30,
-      "CUMULATIVE — REFRESH": 5
+      "UNVERIFIED": 43,
+      "CUMULATIVE — REFRESH": 6
     },
     "generated": "September 2026"
   }
