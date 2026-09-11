@@ -15,7 +15,6 @@
 | 3.4 Trade and development finance | |
 | 3.5 Allied and multinational | |
 | 3.6 Civil agencies | |
-| 3.7 State and regional programs | |
 | 4. Sector pathways | |
 | 5. Coordination and policy | |
 | 6. The equity shift | |
@@ -24,6 +23,7 @@
 | 9. Key names | |
 | 10. Glossary | |
 | 11. Sources | |
+| 12. State and regional programs | |
 
 ## 1. Overview
 
@@ -361,26 +361,6 @@ NASA has no venture arm. Its startup money runs through SBIR/STTR, part of Ameri
 
 The Department of Homeland Security Science and Technology Directorate's startup program, non-dilutive and structured through Other Transaction agreements, aimed at homeland security problems (border, cyber, first responder). [UNVERIFIED, phase structure and award ceiling around $800K across phases not confirmed at this revision]
 
-### 3.7 State and regional programs
-
-This map's focus stays federal. These three entries exist because they were asked about directly, not because state capital gets the same treatment as the rest of this document. None feed the capital map matrix or the sector pathway grid; they sit here as a reference layer only.
-
-#### MassVentures START Grant
-
-`CIVIL`   ·   `NON-DILUTIVE`   ·   Massachusetts
-
-**HEAT: OPEN   OPENNESS: MED**
-
-Massachusetts's state-level SBIR/STTR matching program, non-dilutive, running since 2012. Structured in three rounds: 16 Round 1 grants of $100,000, 7 Round 2 grants of $200,000 for the strongest Round 1 performers, and 3 Round 3 seed-capital grants of up to $500,000. Eligibility gates on holding a federal SBIR or STTR Phase II award within the past five years and being Massachusetts-based, so this is a follow-on to federal non-dilutive money, not a substitute for it. Since inception: $41.7M awarded to 141 companies, which have gone on to raise more than $5B in private capital [CUMULATIVE — REFRESH]. Applications open annually 1 February; the 2026 cycle has closed, next window 1 February 2027. Not defense-specific, but Massachusetts already appears in this map as a NATO DIANA US accelerator site (MassChallenge, Boston), so a Massachusetts-based national security company plausibly touches both.
-
-#### Texas Space Commission — SEARF
-
-`CIVIL`   ·   `NON-DILUTIVE`   ·   Texas
-
-**HEAT: HOT   OPENNESS: MED**
-
-The Space Exploration and Aeronautics Research Fund, a Texas state grant program created by the legislature in 2023 with an initial $150M and a further $300M approved in 2025. Open to businesses, higher-education institutions, government entities, and nonprofits for spaceflight technology, space-related research, workforce training, and spaceport development. $150M has been divided across 24 projects through 2025 and early 2026; the next $300M round has not opened as of this revision [UNVERIFIED, SEARF's next application window not confirmed at this revision]. Space-specific rather than broadly dual-use, and not defense-gated, but real money at a scale most state programs don't match, in a state building out a real space-industry base.
-
 ## 4. Sector pathways
 
 Each tab shows the same six instrument rows. The vehicles that serve the sector light up; the rest grey out. The "shape" line names how capital reaches that kind of company.
@@ -501,7 +481,7 @@ What this map does not yet nail down, stated as gaps rather than filled.
 - Three more federal vehicles were added this revision: the Rapid Innovation Fund (3.1), the Medical CBRN Defense Consortium (3.1), and ARPA-E (3.3). All three were researched via live search, carry the same heavier [UNVERIFIED] load as the other search-derived blocks above, and should be checked against USD(A&S), medcbrn.org, and arpa-e-foa.energy.gov respectively before external use. MCDC in particular is now the primary non-dilutive-adjacent citation for the Biotech and biosecurity sector; confirm its current open requests for prototype proposals before naming a specific one to a founder.
 - Three more vehicles were added on a second pass through Microelectronics and Critical minerals specifically: the National Defense Stockpile (3.1), Commerce CHIPS Program Office (3.4, resolving a token that previously rendered unmapped in the matrix), and NextFlex and the Manufacturing USA network (3.1). NextFlex's REARM award size was searched for directly and not found; that entry says so rather than guessing a figure. Commerce CHIPS' $10 million BAA minimum is the clearest documented reason Microelectronics has almost no seed lane, and should be re-confirmed if the program's structure changes again.
 - Two of the four originally-unmapped matrix tokens are now resolved (Commerce CHIPS, and MCDC/RIF/ARPA-E filled in cells that were previously generic). DARPA BTO, service SBIR/STTR, and direct DoW stakes remain deliberately unmapped: DARPA BTO is a different DARPA office than the one with a directory entry, service SBIR/STTR is intentionally generic per this map's SBIR/STTR scope decision, and direct DoW stakes describes a practice (section 6) rather than a single named vehicle.
-- Section 3.7 (State and regional programs) is new to this revision and is explicitly out of scope for the rest of the map's analytical apparatus: none of its entries feed the capital map matrix or the sector pathway grid, and no attempt was made to inventory all 50 states.
+- State and regional programs moved out of the vehicle directory into its own section (12) and tab this revision, and grew from two entries (Massachusetts, Texas) to five (adding New York, Illinois, and Utah's 47G). It remains explicitly out of scope for the rest of the map's analytical apparatus: none of its entries feed the capital map matrix or the sector pathway grid, and no attempt was made to inventory all 50 states. Florida was checked directly and no defense-specific state fund was found there, distinct from a broad tax-incentive program (QTI); that state simply has no entry rather than a stated exclusion. Every entry in this section carries the same heavier [UNVERIFIED] load as the rest of this revision's search-derived material.
 
 ## 9. Key names
 
@@ -570,3 +550,50 @@ Primary federal and institutional sources take precedence. Confirm all figures a
 - business.defense.gov and defenseinnovationmarketplace.dtic.mil program pages for the Rapid Innovation Fund; medcbrn.org and CDMRP-adjacent coverage for the Medical CBRN Defense Consortium; arpa-e-foa.energy.gov and the ARPA-E Vision OPEN 2024 FOA for ARPA-E award structure
 - MassVentures (mass-ventures.com) and Commonwealth of Massachusetts press releases on the START Grant program; Texas Space Commission (space.texas.gov) releases on the Space Exploration and Aeronautics Research Fund
 - Commerce.gov and NIST CHIPS for America program pages, and DLA Piper coverage of the April 2026 CHIPS BAA amendment, for the Commerce CHIPS Program Office; Defense Logistics Agency and Hoover Institution coverage of National Defense Stockpile offtake structures, and reporting on the US SIIE, LLC special purpose vehicle; Manufacturing USA network pages and NextFlex (nextflex.us) for the REARM special call
+- Empire State Development program pages and FuzeHub coverage of New York's Innovation Venture Capital Fund and defense-manufacturing diversification grants; Illinois State Treasurer and Illinois DCEO pages on the Illinois Growth and Innovation Fund and INVENT; 47G (47g.org), ProPublica Nonprofit Explorer, and TechBuzz News coverage of 47G's UAMMI Institute and Critical Ventures convening; US Treasury pages on the State Small Business Credit Initiative
+
+## 12. State and regional programs
+
+This map's focus stays federal. This section exists because state capital was asked about directly, not because it gets the same analytical treatment as the rest of this document. None of these entries feed the capital map matrix or the sector pathway grid, and no attempt was made to inventory all 50 states. Several of the entries below trace back to a single federal mechanism worth naming up front: the State Small Business Credit Initiative (SSBCI), a nearly $10 billion US Treasury program that seeds state-run venture and credit programs nationwide, equity and venture capital included since its 2021 expansion. Where a state program below runs on SSBCI money in part, that is noted.
+
+#### MassVentures START Grant
+
+`CIVIL`   ·   `NON-DILUTIVE`   ·   Massachusetts
+
+**HEAT: OPEN   OPENNESS: MED**
+
+Massachusetts's state-level SBIR/STTR matching program, non-dilutive, running since 2012. Structured in three rounds: 16 Round 1 grants of $100,000, 7 Round 2 grants of $200,000 for the strongest Round 1 performers, and 3 Round 3 seed-capital grants of up to $500,000. Eligibility gates on holding a federal SBIR or STTR Phase II award within the past five years and being Massachusetts-based, so this is a follow-on to federal non-dilutive money, not a substitute for it. Since inception: $41.7M awarded to 141 companies, which have gone on to raise more than $5B in private capital [CUMULATIVE — REFRESH]. Applications open annually 1 February; the 2026 cycle has closed, next window 1 February 2027. Not defense-specific, but Massachusetts already appears in this map as a NATO DIANA US accelerator site (MassChallenge, Boston), so a Massachusetts-based national security company plausibly touches both.
+
+#### Texas Space Commission — SEARF
+
+`CIVIL`   ·   `NON-DILUTIVE`   ·   Texas
+
+**HEAT: HOT   OPENNESS: MED**
+
+The Space Exploration and Aeronautics Research Fund, a Texas state grant program created by the legislature in 2023 with an initial $150M and a further $300M approved in 2025. Open to businesses, higher-education institutions, government entities, and nonprofits for spaceflight technology, space-related research, workforce training, and spaceport development. $150M has been divided across 24 projects through 2025 and early 2026; the next $300M round has not opened as of this revision [UNVERIFIED, SEARF's next application window not confirmed at this revision]. Space-specific rather than broadly dual-use, and not defense-gated, but real money at a scale most state programs don't match, in a state building out a real space-industry base.
+
+A second Texas mechanism exists but does not get its own entry: the Texas Enterprise Fund is a large "deal-closing" incentive for site-selection competitions (a factory or headquarters choosing Texas over another state), not a startup-stage capital door, and a private $50M defensetech fund (Texas Venture Partners, formed to connect Texas and Israeli defensetech startups) was also found, but private venture capital is out of scope for a government-capital map even here.
+
+#### New York State Innovation Venture Capital Fund
+
+`CIVIL`   ·   `NON-DILUTIVE` `EQUITY`   ·   New York
+
+**HEAT: OPEN   OPENNESS: MED**
+
+A direct-investment fund for seed-through-Series-B technology companies statewide, run by Empire State Development: $100M in state money plus $35M from SSBCI. Stated focus areas are climate technology, health tech and life sciences, ag-tech, advanced manufacturing, social-impact SaaS, data, and AI, not defense specifically [UNVERIFIED, current fund size and whether it is still actively deploying, confirm before citing]. New York separately runs a defense-industry-specific manufacturing diversification program: grants up to $700,000 for established and early-stage defense companies working to diversify against swings in federal defense spending, plus smaller grants up to $50,000 for defense suppliers adopting new manufacturing technology or diversifying their markets [UNVERIFIED, administering agency and current solicitation status not confirmed at this revision]. That second, smaller program is the more defense-specific of the two.
+
+#### Illinois Growth and Innovation Fund (ILGIF)
+
+`CIVIL`   ·   `EQUITY`   ·   Illinois
+
+**HEAT: OPEN   OPENNESS: MED**
+
+An impact investment vehicle run by the Illinois State Treasurer's office, targeting roughly $1.5B to attract, assist, and retain tech-enabled businesses in the state, across a wide range of sectors (agtech, biotech, consumer tech, fintech, green tech, health tech, logistics tech, manufacturing tech, services tech) rather than a defense mandate [UNVERIFIED, current deployed amount versus the $1.5B target not confirmed at this revision]. A second, smaller state vehicle exists alongside it: the Illinois Innovation Venture Fund (INVENT), a $114M direct equity program funded through SSBCI and administered by the Illinois Department of Commerce and Economic Opportunity. Neither is defense-gated.
+
+#### 47G (Utah Aerospace and Defense)
+
+`CIVIL`   ·   `NON-DILUTIVE`   ·   Utah
+
+**HEAT: OPEN   OPENNESS: MED**
+
+A nonprofit aerospace-and-defense industry association, not a government agency, that functions as Utah's facilitation and matching layer rather than a direct capital pool of its own, the closest analog in this map being NavalX. More than 60% of its roughly $3.1M annual budget comes from government grants, and its UAMMI Institute has facilitated federal grants and state matching funds from DoD, Commerce (SBA, EDA, Tech Hubs), and DoE for its ecosystem of more than 180 companies and academic institutions [UNVERIFIED, current annual budget and grant facilitation totals not confirmed at this revision]. It has helped raise roughly $30M for hardware-sector companies and runs an annual Critical Ventures convening on rare-earth and critical-minerals supply-chain security, tied to a DARPA-backed testbed. Real, but the money moves through federal programs and state matching dollars that 47G connects, not through 47G's own balance sheet.

@@ -153,6 +153,7 @@
     { id: 'overview', label: 'Overview', sections: [1] },
     { id: 'instruments', label: 'Instrument types', sections: [2] },
     { id: 'directory', label: 'Vehicle directory', sections: [3] },
+    { id: 'state', label: 'State and regional programs', sections: [12] },
     { id: 'sectors', label: 'Sector pathways', sections: [4], star: true },
     { id: 'coord', label: 'Coordination and policy', sections: [5] },
     { id: 'equity', label: 'The equity shift', sections: [6] },

@@ -294,6 +294,11 @@ function collectVehicles(blocks, sectionNum, subTitle) {
 }
 const sec4 = doc.sections.find((s) => s.number === 3);
 sec4.subsections.forEach((ss) => collectVehicles(ss.blocks, 4, ss.title));
+// Section 12, State and regional programs, holds its vehicle cards directly
+// in its intro (no subsections), a separate appendix tab out of scope for
+// the matrix and sector grid.
+const sec12 = doc.sections.find((s) => s.number === 12);
+if (sec12) collectVehicles(sec12.intro, 12, 'State and regional programs');
 doc.vehicles = vehicles;
 
 /* ---------- instrument type definitions ----------
@@ -344,9 +349,9 @@ mkdirSync(dirname(OUT_JSON), { recursive: true });
 writeFileSync(OUT_JSON, JSON.stringify(doc, null, 2));
 writeFileSync(OUT_JS, 'window.__NATSEC__ = ' + JSON.stringify(doc) + ';\n');
 
-console.log('sections :', doc.meta.sections, '(want 11)');
+console.log('sections :', doc.meta.sections, '(want 12)');
 console.log('tables   :', doc.meta.tables);
-console.log('vehicles :', doc.meta.vehicles, '(want ~23)');
+console.log('vehicles :', doc.meta.vehicles, '(want ~35)');
 console.log('sector subtabs:', doc.meta.sectorSubsections, '(want 7)');
 console.log('words    :', doc.meta.words);
 console.log('markers  :', JSON.stringify(conf));
