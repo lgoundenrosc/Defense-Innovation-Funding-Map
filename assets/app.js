@@ -155,7 +155,7 @@
     { id: 'directory', label: 'Vehicle directory', sections: [3] },
     { id: 'sectors', label: 'Sector pathways', sections: [4], star: true },
     { id: 'coord', label: 'Coordination and policy', sections: [5] },
-    { id: 'equity', label: 'The equity shift', sections: [6], sq: true },
+    { id: 'equity', label: 'The equity shift', sections: [6] },
     { id: 'rosc', label: 'Rosc read', sections: [7] },
     { id: 'gaps', label: 'Constraints and gaps', sections: [8], sq: true },
     { id: 'names', label: 'Key names', sections: [9] },

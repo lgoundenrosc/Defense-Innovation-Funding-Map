@@ -1474,16 +1474,6 @@
                   "confidence": [
                     "UNVERIFIED"
                   ]
-                },
-                {
-                  "type": "callout",
-                  "label": "INSTRUMENT NOTE",
-                  "paras": [
-                    {
-                      "html": "California was checked and does not get an entry. CalSEED, the state's best-known early-stage matching program, is explicitly a clean-energy vehicle administered by New Energy Nexus, not a defense or dual-use technology program, and no comparable centralized state match for national security or dual-use technology turned up in this pass. If a California vehicle exists, it is not one of the well-known state programs and would need a dedicated search to find.",
-                      "confidence": []
-                    }
-                  ]
                 }
               ]
             }
@@ -1942,7 +1932,7 @@
               "confidence": []
             },
             {
-              "html": "Section 3.7 (State and regional programs) is new to this revision and is explicitly out of scope for the rest of the map's analytical apparatus: neither MassVentures nor the Texas Space Commission feeds the capital map matrix or the sector pathway grid, and no attempt was made to inventory all 50 states. California was checked and found to have no comparable centralized program; that is reported as a finding, not a gap still open.",
+              "html": "Section 3.7 (State and regional programs) is new to this revision and is explicitly out of scope for the rest of the map's analytical apparatus: none of its entries feed the capital map matrix or the sector pathway grid, and no attempt was made to inventory all 50 states.",
               "confidence": []
             }
           ]
@@ -2427,7 +2417,7 @@
               "confidence": []
             },
             {
-              "html": "MassVentures (mass-ventures.com) and Commonwealth of Massachusetts press releases on the START Grant program; Texas Space Commission (space.texas.gov) releases on the Space Exploration and Aeronautics Research Fund; CalSEED (calseed.fund) on its clean-energy-only scope",
+              "html": "MassVentures (mass-ventures.com) and Commonwealth of Massachusetts press releases on the START Grant program; Texas Space Commission (space.texas.gov) releases on the Space Exploration and Aeronautics Research Fund",
               "confidence": []
             },
             {
@@ -3264,7 +3254,7 @@
     "tables": 3,
     "vehicles": 32,
     "sectorSubsections": 7,
-    "words": 9691,
+    "words": 9583,
     "confidence": {
       "PENDING LEGISLATION": 2,
       "UNVERIFIED": 26,
