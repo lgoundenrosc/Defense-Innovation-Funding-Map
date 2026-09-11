@@ -15,6 +15,7 @@
 | 3.4 Trade and development finance | |
 | 3.5 Allied and multinational | |
 | 3.6 Civil agencies | |
+| 3.7 State and regional programs | |
 | 4. Sector pathways | |
 | 5. Coordination and policy | |
 | 6. The equity shift | |
@@ -30,8 +31,8 @@ Six instrument types down the side. Three company stages across the top. Each ve
 
 | Instrument type | Pre-seed / seed | Series A / B | Growth / scale |
 | --- | --- | --- | --- |
-| Non-dilutive capital | NSIC, Space Ventures, NSF Seed Fund, NASA SBIR, DHS SVIP, NATO DIANA, AUKUS Pillar II | NSIC | (gap) |
-| First contract / OTA | DIU CSO, DARPA BTO, service SBIR/STTR | DIU CSO, Replicator/PRIME | DPA Title III awards |
+| Non-dilutive capital | NSIC, Space Ventures, NSF Seed Fund, NASA SBIR, DHS SVIP, NATO DIANA, AUKUS Pillar II, ARPA-E | NSIC | (gap) |
+| First contract / OTA | DIU CSO, DARPA BTO, service SBIR/STTR, MCDC | DIU CSO, Replicator/PRIME, RIF | DPA Title III awards |
 | Matching capital | AFVentures TACFI | AFVentures STRATFI | (gap) |
 | Strategic equity | In-Q-Tel | In-Q-Tel | OSC equity [PENDING LEGISLATION], direct DoW stakes |
 | Fund-level | (gap) | SBIC-CT | SBIC-CT |
@@ -165,6 +166,22 @@ Four initiatives run under it. Venture Horizons is the one for a venture firm: i
 
 A recent Department of War creation working alongside OSC, staffed with recruits from Goldman Sachs, JPMorgan, and other Wall Street firms. Critics have described it as an attempt to build a pseudo-sovereign wealth fund inside the executive branch. Scale-stage, thin public detail. [UNVERIFIED, structure and mandate still forming]
 
+#### Rapid Innovation Fund (RIF)
+
+`DOW`   ·   `CONTRACT` `NON-DILUTIVE`   ·   under USD(A&S) Office of Small Business Programs, cross-service
+
+**HEAT: HOT   OPENNESS: MED**
+
+A cross-service, OSD-level bridge that inserts a small business's technology into an existing acquisition program, run by the Office of Small Business Programs under the Under Secretary of Defense for Acquisition and Sustainment rather than any single service. Individual project awards are capped at $3M with up to 24 months of performance; a Direct-to-Phase-II track (built on a prior SBIR/STTR Phase I) runs up to $1.75M. On 13 April 2026 the Small Business Innovation and Economic Security Act reauthorized SBIR/STTR government-wide after a lapse, and RIF's own 2026 cycle opened 4 March 2026 [UNVERIFIED, current cycle dates and whether the program is mid-solicitation, confirm before citing]. Competitive: over 20 white papers are submitted for every award, roughly a 5% hit rate [UNVERIFIED, hit-rate figure from a secondary source, confirm against USD(A&S) reporting].
+
+#### Medical CBRN Defense Consortium (MCDC)
+
+`DOW`   ·   `CONTRACT`   ·   Defense Health Agency, Other Transaction consortium
+
+**HEAT: HOT   OPENNESS: MED**
+
+An Other Transaction Authority consortium under the Defense Health Agency that funds development of medical countermeasures against chemical, biological, radiological, and nuclear threats: vaccines, therapeutics, diagnostics, and biosurveillance tools. Over $7.8 billion awarded since inception [CUMULATIVE — REFRESH]. Explicitly open to biotech startups and SBIR performers alongside primes and academia, not just traditional defense contractors, and runs regular open requests for prototype proposals rather than a single annual cycle; 2026 requests included mRNA vaccine platforms for biological threat agents, with antibody and emerging-threat therapeutics requests following [UNVERIFIED, exact current open requests change frequently, confirm at medcbrn.org before citing]. This is the closest thing the Biotech and biosecurity sector has to a real non-dilutive-adjacent seed door beyond a DARPA BTO award.
+
 #### Army Applications Laboratory (AAL) and xTech
 
 `DOW`   ·   `CONTRACT`   ·   under Army Transformation and Training Command (T2COM)
@@ -228,7 +245,15 @@ The other IC funds people mention are gone. The Army's OnPoint Technologies (200
 
 **HEAT: HOT   OPENNESS: LOW**
 
-The Department of Energy's credit vehicle, rebranded in 2026 from the Loan Programs Office to the Energy Dominance Financing Program, alongside a new Office of Critical Minerals and Energy Innovation. A scale-credit program in the OSC mold, aimed at critical minerals, nuclear, and energy supply chains (Lithium Nevada and MP Materials-type projects). Large loans, project-scale, not seed. DoE's early-stage money runs through ARPA-E and grant FOAs, which are covered in the margins of the sector tabs. [Program rename VERIFIED; confirm current lending posture before use]
+The Department of Energy's credit vehicle, rebranded in 2026 from the Loan Programs Office to the Energy Dominance Financing Program, alongside a new Office of Critical Minerals and Energy Innovation. A scale-credit program in the OSC mold, aimed at critical minerals, nuclear, and energy supply chains (Lithium Nevada and MP Materials-type projects). Large loans, project-scale, not seed. DoE's early-stage money runs through ARPA-E, covered in its own entry below. [Program rename VERIFIED; confirm current lending posture before use]
+
+#### ARPA-E
+
+`ENERGY`   ·   `NON-DILUTIVE`   ·   Washington, D.C.
+
+**HEAT: OPEN   OPENNESS: MED**
+
+DoE's early-stage, non-dilutive energy technology program, the actual seed-stage door DoE offers, distinct from Energy Dominance Financing's scale-credit mandate. Funds technology explicitly "too early for private capital and outside the scope of conventional DoE programs." Award size varies by program; the Vision OPEN 2024 solicitation ran $250K to $10M with a roughly $3M average, and both focused programs (specific technical targets) and open solicitations (any energy technology area) run in parallel, with both accepting applications from startups as well as research institutions [UNVERIFIED, current 2026 solicitation calendar and award ranges not confirmed at this revision]. Not defense-specific, but the clearest non-dilutive door for a critical-minerals or energy-adjacent national security company at seed, a stage the Critical minerals sector otherwise lacks almost entirely.
 
 ### 3.4 Trade and development finance
 
@@ -311,6 +336,29 @@ NASA has no venture arm. Its startup money runs through SBIR/STTR, part of Ameri
 **HEAT: OPEN   OPENNESS: MED**
 
 The Department of Homeland Security Science and Technology Directorate's startup program, non-dilutive and structured through Other Transaction agreements, aimed at homeland security problems (border, cyber, first responder). [UNVERIFIED, phase structure and award ceiling around $800K across phases not confirmed at this revision]
+
+### 3.7 State and regional programs
+
+This map's focus stays federal. These three entries exist because they were asked about directly, not because state capital gets the same treatment as the rest of this document. None feed the capital map matrix or the sector pathway grid; they sit here as a reference layer only.
+
+#### MassVentures START Grant
+
+`CIVIL`   ·   `NON-DILUTIVE`   ·   Massachusetts
+
+**HEAT: OPEN   OPENNESS: MED**
+
+Massachusetts's state-level SBIR/STTR matching program, non-dilutive, running since 2012. Structured in three rounds: 16 Round 1 grants of $100,000, 7 Round 2 grants of $200,000 for the strongest Round 1 performers, and 3 Round 3 seed-capital grants of up to $500,000. Eligibility gates on holding a federal SBIR or STTR Phase II award within the past five years and being Massachusetts-based, so this is a follow-on to federal non-dilutive money, not a substitute for it. Since inception: $41.7M awarded to 141 companies, which have gone on to raise more than $5B in private capital [CUMULATIVE — REFRESH]. Applications open annually 1 February; the 2026 cycle has closed, next window 1 February 2027. Not defense-specific, but Massachusetts already appears in this map as a NATO DIANA US accelerator site (MassChallenge, Boston), so a Massachusetts-based national security company plausibly touches both.
+
+#### Texas Space Commission — SEARF
+
+`CIVIL`   ·   `NON-DILUTIVE`   ·   Texas
+
+**HEAT: HOT   OPENNESS: MED**
+
+The Space Exploration and Aeronautics Research Fund, a Texas state grant program created by the legislature in 2023 with an initial $150M and a further $300M approved in 2025. Open to businesses, higher-education institutions, government entities, and nonprofits for spaceflight technology, space-related research, workforce training, and spaceport development. $150M has been divided across 24 projects through 2025 and early 2026; the next $300M round has not opened as of this revision [UNVERIFIED, SEARF's next application window not confirmed at this revision]. Space-specific rather than broadly dual-use, and not defense-gated, but real money at a scale most state programs don't match, in a state building out a real space-industry base.
+
+> [!CALLOUT] INSTRUMENT NOTE
+> California was checked and does not get an entry. CalSEED, the state's best-known early-stage matching program, is explicitly a clean-energy vehicle administered by New Energy Nexus, not a defense or dual-use technology program, and no comparable centralized state match for national security or dual-use technology turned up in this pass. If a California vehicle exists, it is not one of the well-known state programs and would need a dedicated search to find.
 
 ## 4. Sector pathways
 
@@ -423,12 +471,14 @@ What this map does not yet nail down, stated as gaps rather than filled.
 - DHS SVIP award ceiling and phase structure are not confirmed at this revision.
 - The DARPA Commercial Strategy Office scorecard is cumulative since 2018 and should be refreshed before any external use.
 - DoE Energy Dominance Financing is a 2026 rename of the Loan Programs Office; its current lending posture under the new name should be confirmed.
-- This map deprioritises SBIR and STTR by design. Army, Navy, and SOCOM service on-ramps got a deeper pass in this revision (the five Department of War entries added under 3.1 after Economic Defense Unit); Air Force, Space Force, and civil-agency SBIR/STTR are still named only as an on-ramp, not inventoried in full.
+- This map deprioritises SBIR and STTR by design. Army, Navy, and SOCOM service on-ramps got a deeper pass in this revision (the five Department of War entries added under 3.1 after Economic Defense Unit); Air Force, Space Force, and civil-agency SBIR/STTR are still named only as an on-ramp, not inventoried in full. The Missile Defense Agency was checked separately and its SBIR/STTR program does not appear distinct enough from the generic "service SBIR/STTR" bucket to warrant its own entry; it follows the standard DoD-wide release cadence with no MDA-specific award structure found.
 - The five entries added to 3.1 covering Army, Navy, and SOCOM service on-ramps (Army Applications Laboratory and xTech, NavalX and the Tech Bridge network, Office of Naval Research SBIR/STTR, SOFWERX, and Marine Corps Warfighting Laboratory) were researched separately from the rest of this document and carry a heavier [UNVERIFIED] load as a result. Confirm current award sizes and program status against primary .mil sources before citing any figure in that block externally.
 - Section 5's coverage of the National Security Capital Forum, the National Energy Dominance Council, the Minerals Security Partnership Finance Network, and the National Security Commission on Emerging Biotechnology was researched the same way as the service entries above (live search, not the original content package) and carries the same heavier [UNVERIFIED] load. Membership rosters, meeting cadence, and which biotech-commission recommendations have been enacted all need a primary-source check before external use.
 - Software, AI and autonomy, and cyber were folded into a single sector tab in this revision. The merge changes which vehicles appear lit on that tab (NSF America's Seed Fund, DHS SVIP, and NATO DIANA now show as non-dilutive doors there); the underlying source prose for each of the three original sub-sectors was preserved, not rewritten, and only the tab grouping and the non-dilutive read changed.
 - The sector pathway grid now applies two rules beyond literal name-matching in each sector's own paragraph. First, Hardware's stated rule that "every physical-product sector inherits this spine" is applied to Space and Marine for all six spine vehicles (NSIC, DIU, AFVentures, NATO DIANA, OSC, DPA Title III), even on the sectors whose own write-up does not re-name every one of them. Second, EXIM and NSF are lit on sectors named in their own directory entries (EXIM's CTEP: AI, biotech, semiconductors; NSF: AI, semiconductors, robotics) rather than only where a sector's own paragraph happens to cite them. Both rules are logged here because they are structural judgment calls, not literal transcription, even though every vehicle placed this way is grounded in that vehicle's own stated scope.
 - AUKUS Pillar II is new to this revision (3.5) and is thinly documented on purpose: its US-side company-facing money runs through DIU's participation in a jointly-run Innovation Challenge series rather than a dedicated AUKUS budget, the 2025 challenge round paid Australian and UK companies rather than an open trilateral pool, and a proposed multi-sovereign private-capital fund does not yet exist. Confirm current US-company eligibility before citing this as a reachable door.
+- Three more federal vehicles were added this revision: the Rapid Innovation Fund (3.1), the Medical CBRN Defense Consortium (3.1), and ARPA-E (3.3). All three were researched via live search, carry the same heavier [UNVERIFIED] load as the other search-derived blocks above, and should be checked against USD(A&S), medcbrn.org, and arpa-e-foa.energy.gov respectively before external use. MCDC in particular is now the primary non-dilutive-adjacent citation for the Biotech and biosecurity sector; confirm its current open requests for prototype proposals before naming a specific one to a founder.
+- Section 3.7 (State and regional programs) is new to this revision and is explicitly out of scope for the rest of the map's analytical apparatus: neither MassVentures nor the Texas Space Commission feeds the capital map matrix or the sector pathway grid, and no attempt was made to inventory all 50 states. California was checked and found to have no comparable centralized program; that is reported as a finding, not a gap still open.
 
 ## 9. Key names
 
@@ -494,3 +544,5 @@ Primary federal and institutional sources take precedence. Confirm all figures a
 - National Security Commission on Emerging Biotechnology, "Charting the Future of Biotechnology: An Action Plan for American Security and Prosperity" (8 April 2025), and CRS summary IN12546
 - Congressional Research Service and Crowell & Moring coverage of Section 1092 (FY2025 NDAA) and Section 876 (FY2026 NDAA) on the National Security Capital Forum
 - Australian Department of Defence and UK government releases on the 2025 AUKUS Maritime Innovation Challenge; CSIS and United States Studies Centre analysis of AUKUS Pillar II structure and financing; State Department and Atlantic Council coverage of the 2025 ITAR exemption for AUKUS
+- business.defense.gov and defenseinnovationmarketplace.dtic.mil program pages for the Rapid Innovation Fund; medcbrn.org and CDMRP-adjacent coverage for the Medical CBRN Defense Consortium; arpa-e-foa.energy.gov and the ARPA-E Vision OPEN 2024 FOA for ARPA-E award structure
+- MassVentures (mass-ventures.com) and Commonwealth of Massachusetts press releases on the START Grant program; Texas Space Commission (space.texas.gov) releases on the Space Exploration and Aeronautics Research Fund; CalSEED (calseed.fund) on its clean-energy-only scope

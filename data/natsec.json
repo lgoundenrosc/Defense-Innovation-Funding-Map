@@ -42,7 +42,7 @@
                 "confidence": []
               },
               {
-                "html": "NSIC, Space Ventures, NSF Seed Fund, NASA SBIR, DHS SVIP, NATO DIANA, AUKUS Pillar II",
+                "html": "NSIC, Space Ventures, NSF Seed Fund, NASA SBIR, DHS SVIP, NATO DIANA, AUKUS Pillar II, ARPA-E",
                 "confidence": []
               },
               {
@@ -60,11 +60,11 @@
                 "confidence": []
               },
               {
-                "html": "DIU CSO, DARPA BTO, service SBIR/STTR",
+                "html": "DIU CSO, DARPA BTO, service SBIR/STTR, MCDC",
                 "confidence": []
               },
               {
-                "html": "DIU CSO, Replicator/PRIME",
+                "html": "DIU CSO, Replicator/PRIME, RIF",
                 "confidence": []
               },
               {
@@ -632,6 +632,73 @@
             },
             {
               "type": "vehicle",
+              "heading": "Rapid Innovation Fund (RIF)",
+              "headingHtml": "Rapid Innovation Fund (RIF)",
+              "tag": {
+                "body": [
+                  "DOW"
+                ],
+                "instruments": [
+                  "CONTRACT",
+                  "NON-DILUTIVE"
+                ],
+                "eligibility": [],
+                "meta": [
+                  "under USD(A&S) Office of Small Business Programs, cross-service"
+                ]
+              },
+              "heat": {
+                "heat": "HOT",
+                "openness": "MED"
+              },
+              "blocks": [
+                {
+                  "type": "para",
+                  "raw": "A cross-service, OSD-level bridge that inserts a small business's technology into an existing acquisition program, run by the Office of Small Business Programs under the Under Secretary of Defense for Acquisition and Sustainment rather than any single service. Individual project awards are capped at $3M with up to 24 months of performance; a Direct-to-Phase-II track (built on a prior SBIR/STTR Phase I) runs up to $1.75M. On 13 April 2026 the Small Business Innovation and Economic Security Act reauthorized SBIR/STTR government-wide after a lapse, and RIF's own 2026 cycle opened 4 March 2026 [UNVERIFIED, current cycle dates and whether the program is mid-solicitation, confirm before citing]. Competitive: over 20 white papers are submitted for every award, roughly a 5% hit rate [UNVERIFIED, hit-rate figure from a secondary source, confirm against USD(A&S) reporting].",
+                  "html": "A cross-service, OSD-level bridge that inserts a small business's technology into an existing acquisition program, run by the Office of Small Business Programs under the Under Secretary of Defense for Acquisition and Sustainment rather than any single service. Individual project awards are capped at $3M with up to 24 months of performance; a Direct-to-Phase-II track (built on a prior SBIR/STTR Phase I) runs up to $1.75M. On 13 April 2026 the Small Business Innovation and Economic Security Act reauthorized SBIR/STTR government-wide after a lapse, and RIF's own 2026 cycle opened 4 March 2026 <span class=\"chip chip-conf conf-unverified\" data-conf=\"UNVERIFIED\">UNVERIFIED</span><span class=\"conf-extra\">current cycle dates and whether the program is mid-solicitation, confirm before citing</span>. Competitive: over 20 white papers are submitted for every award, roughly a 5% hit rate <span class=\"chip chip-conf conf-unverified\" data-conf=\"UNVERIFIED\">UNVERIFIED</span><span class=\"conf-extra\">hit-rate figure from a secondary source, confirm against USD(A&amp;S) reporting</span>.",
+                  "text": "A cross-service, OSD-level bridge that inserts a small business's technology into an existing acquisition program, run by the Office of Small Business Programs under the Under Secretary of Defense for Acquisition and Sustainment rather than any single service. Individual project awards are capped at $3M with up to 24 months of performance; a Direct-to-Phase-II track (built on a prior SBIR/STTR Phase I) runs up to $1.75M. On 13 April 2026 the Small Business Innovation and Economic Security Act reauthorized SBIR/STTR government-wide after a lapse, and RIF's own 2026 cycle opened 4 March 2026 UNVERIFIED. Competitive: over 20 white papers are submitted for every award, roughly a 5% hit rate UNVERIFIED.",
+                  "confidence": [
+                    "UNVERIFIED",
+                    "UNVERIFIED"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "vehicle",
+              "heading": "Medical CBRN Defense Consortium (MCDC)",
+              "headingHtml": "Medical CBRN Defense Consortium (MCDC)",
+              "tag": {
+                "body": [
+                  "DOW"
+                ],
+                "instruments": [
+                  "CONTRACT"
+                ],
+                "eligibility": [],
+                "meta": [
+                  "Defense Health Agency, Other Transaction consortium"
+                ]
+              },
+              "heat": {
+                "heat": "HOT",
+                "openness": "MED"
+              },
+              "blocks": [
+                {
+                  "type": "para",
+                  "raw": "An Other Transaction Authority consortium under the Defense Health Agency that funds development of medical countermeasures against chemical, biological, radiological, and nuclear threats: vaccines, therapeutics, diagnostics, and biosurveillance tools. Over $7.8 billion awarded since inception [CUMULATIVE — REFRESH]. Explicitly open to biotech startups and SBIR performers alongside primes and academia, not just traditional defense contractors, and runs regular open requests for prototype proposals rather than a single annual cycle; 2026 requests included mRNA vaccine platforms for biological threat agents, with antibody and emerging-threat therapeutics requests following [UNVERIFIED, exact current open requests change frequently, confirm at medcbrn.org before citing]. This is the closest thing the Biotech and biosecurity sector has to a real non-dilutive-adjacent seed door beyond a DARPA BTO award.",
+                  "html": "An Other Transaction Authority consortium under the Defense Health Agency that funds development of medical countermeasures against chemical, biological, radiological, and nuclear threats: vaccines, therapeutics, diagnostics, and biosurveillance tools. Over $7.8 billion awarded since inception <span class=\"chip chip-conf conf-cumulative-refresh\" data-conf=\"CUMULATIVE — REFRESH\">CUMULATIVE — REFRESH</span>. Explicitly open to biotech startups and SBIR performers alongside primes and academia, not just traditional defense contractors, and runs regular open requests for prototype proposals rather than a single annual cycle; 2026 requests included mRNA vaccine platforms for biological threat agents, with antibody and emerging-threat therapeutics requests following <span class=\"chip chip-conf conf-unverified\" data-conf=\"UNVERIFIED\">UNVERIFIED</span><span class=\"conf-extra\">exact current open requests change frequently, confirm at medcbrn.org before citing</span>. This is the closest thing the Biotech and biosecurity sector has to a real non-dilutive-adjacent seed door beyond a DARPA BTO award.",
+                  "text": "An Other Transaction Authority consortium under the Defense Health Agency that funds development of medical countermeasures against chemical, biological, radiological, and nuclear threats: vaccines, therapeutics, diagnostics, and biosurveillance tools. Over $7.8 billion awarded since inception CUMULATIVE — REFRESH. Explicitly open to biotech startups and SBIR performers alongside primes and academia, not just traditional defense contractors, and runs regular open requests for prototype proposals rather than a single annual cycle; 2026 requests included mRNA vaccine platforms for biological threat agents, with antibody and emerging-threat therapeutics requests following UNVERIFIED. This is the closest thing the Biotech and biosecurity sector has to a real non-dilutive-adjacent seed door beyond a DARPA BTO award.",
+                  "confidence": [
+                    "CUMULATIVE — REFRESH",
+                    "UNVERIFIED"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "vehicle",
               "heading": "Army Applications Laboratory (AAL) and xTech",
               "headingHtml": "Army Applications Laboratory (AAL) and xTech",
               "tag": {
@@ -880,10 +947,42 @@
               "blocks": [
                 {
                   "type": "para",
-                  "raw": "The Department of Energy's credit vehicle, rebranded in 2026 from the Loan Programs Office to the Energy Dominance Financing Program, alongside a new Office of Critical Minerals and Energy Innovation. A scale-credit program in the OSC mold, aimed at critical minerals, nuclear, and energy supply chains (Lithium Nevada and MP Materials-type projects). Large loans, project-scale, not seed. DoE's early-stage money runs through ARPA-E and grant FOAs, which are covered in the margins of the sector tabs. [Program rename VERIFIED; confirm current lending posture before use]",
-                  "html": "The Department of Energy's credit vehicle, rebranded in 2026 from the Loan Programs Office to the Energy Dominance Financing Program, alongside a new Office of Critical Minerals and Energy Innovation. A scale-credit program in the OSC mold, aimed at critical minerals, nuclear, and energy supply chains (Lithium Nevada and MP Materials-type projects). Large loans, project-scale, not seed. DoE's early-stage money runs through ARPA-E and grant FOAs, which are covered in the margins of the sector tabs. <span class=\"aside\">[Program rename VERIFIED; confirm current lending posture before use]</span>",
-                  "text": "The Department of Energy's credit vehicle, rebranded in 2026 from the Loan Programs Office to the Energy Dominance Financing Program, alongside a new Office of Critical Minerals and Energy Innovation. A scale-credit program in the OSC mold, aimed at critical minerals, nuclear, and energy supply chains (Lithium Nevada and MP Materials-type projects). Large loans, project-scale, not seed. DoE's early-stage money runs through ARPA-E and grant FOAs, which are covered in the margins of the sector tabs. Program rename VERIFIED; confirm current lending posture before use",
+                  "raw": "The Department of Energy's credit vehicle, rebranded in 2026 from the Loan Programs Office to the Energy Dominance Financing Program, alongside a new Office of Critical Minerals and Energy Innovation. A scale-credit program in the OSC mold, aimed at critical minerals, nuclear, and energy supply chains (Lithium Nevada and MP Materials-type projects). Large loans, project-scale, not seed. DoE's early-stage money runs through ARPA-E, covered in its own entry below. [Program rename VERIFIED; confirm current lending posture before use]",
+                  "html": "The Department of Energy's credit vehicle, rebranded in 2026 from the Loan Programs Office to the Energy Dominance Financing Program, alongside a new Office of Critical Minerals and Energy Innovation. A scale-credit program in the OSC mold, aimed at critical minerals, nuclear, and energy supply chains (Lithium Nevada and MP Materials-type projects). Large loans, project-scale, not seed. DoE's early-stage money runs through ARPA-E, covered in its own entry below. <span class=\"aside\">[Program rename VERIFIED; confirm current lending posture before use]</span>",
+                  "text": "The Department of Energy's credit vehicle, rebranded in 2026 from the Loan Programs Office to the Energy Dominance Financing Program, alongside a new Office of Critical Minerals and Energy Innovation. A scale-credit program in the OSC mold, aimed at critical minerals, nuclear, and energy supply chains (Lithium Nevada and MP Materials-type projects). Large loans, project-scale, not seed. DoE's early-stage money runs through ARPA-E, covered in its own entry below. Program rename VERIFIED; confirm current lending posture before use",
                   "confidence": []
+                }
+              ]
+            },
+            {
+              "type": "vehicle",
+              "heading": "ARPA-E",
+              "headingHtml": "ARPA-E",
+              "tag": {
+                "body": [
+                  "ENERGY"
+                ],
+                "instruments": [
+                  "NON-DILUTIVE"
+                ],
+                "eligibility": [],
+                "meta": [
+                  "Washington, D.C."
+                ]
+              },
+              "heat": {
+                "heat": "OPEN",
+                "openness": "MED"
+              },
+              "blocks": [
+                {
+                  "type": "para",
+                  "raw": "DoE's early-stage, non-dilutive energy technology program, the actual seed-stage door DoE offers, distinct from Energy Dominance Financing's scale-credit mandate. Funds technology explicitly \"too early for private capital and outside the scope of conventional DoE programs.\" Award size varies by program; the Vision OPEN 2024 solicitation ran $250K to $10M with a roughly $3M average, and both focused programs (specific technical targets) and open solicitations (any energy technology area) run in parallel, with both accepting applications from startups as well as research institutions [UNVERIFIED, current 2026 solicitation calendar and award ranges not confirmed at this revision]. Not defense-specific, but the clearest non-dilutive door for a critical-minerals or energy-adjacent national security company at seed, a stage the Critical minerals sector otherwise lacks almost entirely.",
+                  "html": "DoE's early-stage, non-dilutive energy technology program, the actual seed-stage door DoE offers, distinct from Energy Dominance Financing's scale-credit mandate. Funds technology explicitly \"too early for private capital and outside the scope of conventional DoE programs.\" Award size varies by program; the Vision OPEN 2024 solicitation ran $250K to $10M with a roughly $3M average, and both focused programs (specific technical targets) and open solicitations (any energy technology area) run in parallel, with both accepting applications from startups as well as research institutions <span class=\"chip chip-conf conf-unverified\" data-conf=\"UNVERIFIED\">UNVERIFIED</span><span class=\"conf-extra\">current 2026 solicitation calendar and award ranges not confirmed at this revision</span>. Not defense-specific, but the clearest non-dilutive door for a critical-minerals or energy-adjacent national security company at seed, a stage the Critical minerals sector otherwise lacks almost entirely.",
+                  "text": "DoE's early-stage, non-dilutive energy technology program, the actual seed-stage door DoE offers, distinct from Energy Dominance Financing's scale-credit mandate. Funds technology explicitly \"too early for private capital and outside the scope of conventional DoE programs.\" Award size varies by program; the Vision OPEN 2024 solicitation ran $250K to $10M with a roughly $3M average, and both focused programs (specific technical targets) and open solicitations (any energy technology area) run in parallel, with both accepting applications from startups as well as research institutions UNVERIFIED. Not defense-specific, but the clearest non-dilutive door for a critical-minerals or energy-adjacent national security company at seed, a stage the Critical minerals sector otherwise lacks almost entirely.",
+                  "confidence": [
+                    "UNVERIFIED"
+                  ]
                 }
               ]
             }
@@ -1199,6 +1298,94 @@
                   "text": "The Department of Homeland Security Science and Technology Directorate's startup program, non-dilutive and structured through Other Transaction agreements, aimed at homeland security problems (border, cyber, first responder). UNVERIFIED",
                   "confidence": [
                     "UNVERIFIED"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": "3.7",
+          "title": "State and regional programs",
+          "id": "s3-7",
+          "blocks": [
+            {
+              "type": "para",
+              "raw": "This map's focus stays federal. These three entries exist because they were asked about directly, not because state capital gets the same treatment as the rest of this document. None feed the capital map matrix or the sector pathway grid; they sit here as a reference layer only.",
+              "html": "This map's focus stays federal. These three entries exist because they were asked about directly, not because state capital gets the same treatment as the rest of this document. None feed the capital map matrix or the sector pathway grid; they sit here as a reference layer only.",
+              "text": "This map's focus stays federal. These three entries exist because they were asked about directly, not because state capital gets the same treatment as the rest of this document. None feed the capital map matrix or the sector pathway grid; they sit here as a reference layer only.",
+              "confidence": []
+            },
+            {
+              "type": "vehicle",
+              "heading": "MassVentures START Grant",
+              "headingHtml": "MassVentures START Grant",
+              "tag": {
+                "body": [
+                  "CIVIL"
+                ],
+                "instruments": [
+                  "NON-DILUTIVE"
+                ],
+                "eligibility": [],
+                "meta": [
+                  "Massachusetts"
+                ]
+              },
+              "heat": {
+                "heat": "OPEN",
+                "openness": "MED"
+              },
+              "blocks": [
+                {
+                  "type": "para",
+                  "raw": "Massachusetts's state-level SBIR/STTR matching program, non-dilutive, running since 2012. Structured in three rounds: 16 Round 1 grants of $100,000, 7 Round 2 grants of $200,000 for the strongest Round 1 performers, and 3 Round 3 seed-capital grants of up to $500,000. Eligibility gates on holding a federal SBIR or STTR Phase II award within the past five years and being Massachusetts-based, so this is a follow-on to federal non-dilutive money, not a substitute for it. Since inception: $41.7M awarded to 141 companies, which have gone on to raise more than $5B in private capital [CUMULATIVE — REFRESH]. Applications open annually 1 February; the 2026 cycle has closed, next window 1 February 2027. Not defense-specific, but Massachusetts already appears in this map as a NATO DIANA US accelerator site (MassChallenge, Boston), so a Massachusetts-based national security company plausibly touches both.",
+                  "html": "Massachusetts's state-level SBIR/STTR matching program, non-dilutive, running since 2012. Structured in three rounds: 16 Round 1 grants of $100,000, 7 Round 2 grants of $200,000 for the strongest Round 1 performers, and 3 Round 3 seed-capital grants of up to $500,000. Eligibility gates on holding a federal SBIR or STTR Phase II award within the past five years and being Massachusetts-based, so this is a follow-on to federal non-dilutive money, not a substitute for it. Since inception: $41.7M awarded to 141 companies, which have gone on to raise more than $5B in private capital <span class=\"chip chip-conf conf-cumulative-refresh\" data-conf=\"CUMULATIVE — REFRESH\">CUMULATIVE — REFRESH</span>. Applications open annually 1 February; the 2026 cycle has closed, next window 1 February 2027. Not defense-specific, but Massachusetts already appears in this map as a NATO DIANA US accelerator site (MassChallenge, Boston), so a Massachusetts-based national security company plausibly touches both.",
+                  "text": "Massachusetts's state-level SBIR/STTR matching program, non-dilutive, running since 2012. Structured in three rounds: 16 Round 1 grants of $100,000, 7 Round 2 grants of $200,000 for the strongest Round 1 performers, and 3 Round 3 seed-capital grants of up to $500,000. Eligibility gates on holding a federal SBIR or STTR Phase II award within the past five years and being Massachusetts-based, so this is a follow-on to federal non-dilutive money, not a substitute for it. Since inception: $41.7M awarded to 141 companies, which have gone on to raise more than $5B in private capital CUMULATIVE — REFRESH. Applications open annually 1 February; the 2026 cycle has closed, next window 1 February 2027. Not defense-specific, but Massachusetts already appears in this map as a NATO DIANA US accelerator site (MassChallenge, Boston), so a Massachusetts-based national security company plausibly touches both.",
+                  "confidence": [
+                    "CUMULATIVE — REFRESH"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "vehicle",
+              "heading": "Texas Space Commission — SEARF",
+              "headingHtml": "Texas Space Commission — SEARF",
+              "tag": {
+                "body": [
+                  "CIVIL"
+                ],
+                "instruments": [
+                  "NON-DILUTIVE"
+                ],
+                "eligibility": [],
+                "meta": [
+                  "Texas"
+                ]
+              },
+              "heat": {
+                "heat": "HOT",
+                "openness": "MED"
+              },
+              "blocks": [
+                {
+                  "type": "para",
+                  "raw": "The Space Exploration and Aeronautics Research Fund, a Texas state grant program created by the legislature in 2023 with an initial $150M and a further $300M approved in 2025. Open to businesses, higher-education institutions, government entities, and nonprofits for spaceflight technology, space-related research, workforce training, and spaceport development. $150M has been divided across 24 projects through 2025 and early 2026; the next $300M round has not opened as of this revision [UNVERIFIED, SEARF's next application window not confirmed at this revision]. Space-specific rather than broadly dual-use, and not defense-gated, but real money at a scale most state programs don't match, in a state building out a real space-industry base.",
+                  "html": "The Space Exploration and Aeronautics Research Fund, a Texas state grant program created by the legislature in 2023 with an initial $150M and a further $300M approved in 2025. Open to businesses, higher-education institutions, government entities, and nonprofits for spaceflight technology, space-related research, workforce training, and spaceport development. $150M has been divided across 24 projects through 2025 and early 2026; the next $300M round has not opened as of this revision <span class=\"chip chip-conf conf-unverified\" data-conf=\"UNVERIFIED\">UNVERIFIED</span><span class=\"conf-extra\">SEARF's next application window not confirmed at this revision</span>. Space-specific rather than broadly dual-use, and not defense-gated, but real money at a scale most state programs don't match, in a state building out a real space-industry base.",
+                  "text": "The Space Exploration and Aeronautics Research Fund, a Texas state grant program created by the legislature in 2023 with an initial $150M and a further $300M approved in 2025. Open to businesses, higher-education institutions, government entities, and nonprofits for spaceflight technology, space-related research, workforce training, and spaceport development. $150M has been divided across 24 projects through 2025 and early 2026; the next $300M round has not opened as of this revision UNVERIFIED. Space-specific rather than broadly dual-use, and not defense-gated, but real money at a scale most state programs don't match, in a state building out a real space-industry base.",
+                  "confidence": [
+                    "UNVERIFIED"
+                  ]
+                },
+                {
+                  "type": "callout",
+                  "label": "INSTRUMENT NOTE",
+                  "paras": [
+                    {
+                      "html": "California was checked and does not get an entry. CalSEED, the state's best-known early-stage matching program, is explicitly a clean-energy vehicle administered by New Energy Nexus, not a defense or dual-use technology program, and no comparable centralized state match for national security or dual-use technology turned up in this pass. If a California vehicle exists, it is not one of the well-known state programs and would need a dedicated search to find.",
+                      "confidence": []
+                    }
                   ]
                 }
               ]
@@ -1616,7 +1803,7 @@
               "confidence": []
             },
             {
-              "html": "This map deprioritises SBIR and STTR by design. Army, Navy, and SOCOM service on-ramps got a deeper pass in this revision (the five Department of War entries added under 3.1 after Economic Defense Unit); Air Force, Space Force, and civil-agency SBIR/STTR are still named only as an on-ramp, not inventoried in full.",
+              "html": "This map deprioritises SBIR and STTR by design. Army, Navy, and SOCOM service on-ramps got a deeper pass in this revision (the five Department of War entries added under 3.1 after Economic Defense Unit); Air Force, Space Force, and civil-agency SBIR/STTR are still named only as an on-ramp, not inventoried in full. The Missile Defense Agency was checked separately and its SBIR/STTR program does not appear distinct enough from the generic \"service SBIR/STTR\" bucket to warrant its own entry; it follows the standard DoD-wide release cadence with no MDA-specific award structure found.",
               "confidence": []
             },
             {
@@ -1641,6 +1828,16 @@
             },
             {
               "html": "AUKUS Pillar II is new to this revision (3.5) and is thinly documented on purpose: its US-side company-facing money runs through DIU's participation in a jointly-run Innovation Challenge series rather than a dedicated AUKUS budget, the 2025 challenge round paid Australian and UK companies rather than an open trilateral pool, and a proposed multi-sovereign private-capital fund does not yet exist. Confirm current US-company eligibility before citing this as a reachable door.",
+              "confidence": []
+            },
+            {
+              "html": "Three more federal vehicles were added this revision: the Rapid Innovation Fund (3.1), the Medical CBRN Defense Consortium (3.1), and ARPA-E (3.3). All three were researched via live search, carry the same heavier <span class=\"chip chip-conf conf-unverified\" data-conf=\"UNVERIFIED\">UNVERIFIED</span> load as the other search-derived blocks above, and should be checked against USD(A&amp;S), medcbrn.org, and arpa-e-foa.energy.gov respectively before external use. MCDC in particular is now the primary non-dilutive-adjacent citation for the Biotech and biosecurity sector; confirm its current open requests for prototype proposals before naming a specific one to a founder.",
+              "confidence": [
+                "UNVERIFIED"
+              ]
+            },
+            {
+              "html": "Section 3.7 (State and regional programs) is new to this revision and is explicitly out of scope for the rest of the map's analytical apparatus: neither MassVentures nor the Texas Space Commission feeds the capital map matrix or the sector pathway grid, and no attempt was made to inventory all 50 states. California was checked and found to have no comparable centralized program; that is reported as a finding, not a gap still open.",
               "confidence": []
             }
           ]
@@ -2119,6 +2316,14 @@
             {
               "html": "Australian Department of Defence and UK government releases on the 2025 AUKUS Maritime Innovation Challenge; CSIS and United States Studies Centre analysis of AUKUS Pillar II structure and financing; State Department and Atlantic Council coverage of the 2025 ITAR exemption for AUKUS",
               "confidence": []
+            },
+            {
+              "html": "business.defense.gov and defenseinnovationmarketplace.dtic.mil program pages for the Rapid Innovation Fund; medcbrn.org and CDMRP-adjacent coverage for the Medical CBRN Defense Consortium; arpa-e-foa.energy.gov and the ARPA-E Vision OPEN 2024 FOA for ARPA-E award structure",
+              "confidence": []
+            },
+            {
+              "html": "MassVentures (mass-ventures.com) and Commonwealth of Massachusetts press releases on the START Grant program; Texas Space Commission (space.texas.gov) releases on the Space Exploration and Aeronautics Research Fund; CalSEED (calseed.fund) on its clean-energy-only scope",
+              "confidence": []
             }
           ]
         }
@@ -2213,6 +2418,16 @@
         [
           {
             "html": "3.6 Civil agencies",
+            "confidence": []
+          },
+          {
+            "html": "",
+            "confidence": []
+          }
+        ],
+        [
+          {
+            "html": "3.7 State and regional programs",
             "confidence": []
           },
           {
@@ -2481,6 +2696,45 @@
       "summary": "A recent Department of War creation working alongside OSC, staffed with recruits from Goldman Sachs, JPMorgan, and other Wall Street firms."
     },
     {
+      "id": "v-rapid-innovation-fund-rif",
+      "heading": "Rapid Innovation Fund (RIF)",
+      "section": 4,
+      "group": "Department of War",
+      "body": [
+        "DOW"
+      ],
+      "instruments": [
+        "CONTRACT",
+        "NON-DILUTIVE"
+      ],
+      "eligibility": [],
+      "meta": [
+        "under USD(A&S) Office of Small Business Programs, cross-service"
+      ],
+      "heat": "HOT",
+      "openness": "MED",
+      "summary": "A cross-service, OSD-level bridge that inserts a small business's technology into an existing acquisition program, run by the Office of Small Business Programs under the Under Secretary of Defense for Acquisition and Sustainment rather than…"
+    },
+    {
+      "id": "v-medical-cbrn-defense-consortium-mcdc",
+      "heading": "Medical CBRN Defense Consortium (MCDC)",
+      "section": 4,
+      "group": "Department of War",
+      "body": [
+        "DOW"
+      ],
+      "instruments": [
+        "CONTRACT"
+      ],
+      "eligibility": [],
+      "meta": [
+        "Defense Health Agency, Other Transaction consortium"
+      ],
+      "heat": "HOT",
+      "openness": "MED",
+      "summary": "An Other Transaction Authority consortium under the Defense Health Agency that funds development of medical countermeasures against chemical, biological, radiological, and nuclear threats: vaccines, therapeutics, diagnostics, and biosurveil…"
+    },
+    {
       "id": "v-army-applications-laboratory-aal-and-xtech",
       "heading": "Army Applications Laboratory (AAL) and xTech",
       "section": 4,
@@ -2613,6 +2867,25 @@
       "heat": "HOT",
       "openness": "LOW",
       "summary": "The Department of Energy's credit vehicle, rebranded in 2026 from the Loan Programs Office to the Energy Dominance Financing Program, alongside a new Office of Critical Minerals and Energy Innovation."
+    },
+    {
+      "id": "v-arpa-e",
+      "heading": "ARPA-E",
+      "section": 4,
+      "group": "Energy",
+      "body": [
+        "ENERGY"
+      ],
+      "instruments": [
+        "NON-DILUTIVE"
+      ],
+      "eligibility": [],
+      "meta": [
+        "Washington, D.C."
+      ],
+      "heat": "OPEN",
+      "openness": "MED",
+      "summary": "DoE's early-stage, non-dilutive energy technology program, the actual seed-stage door DoE offers, distinct from Energy Dominance Financing's scale-credit mandate."
     },
     {
       "id": "v-export-import-bank-exim",
@@ -2771,6 +3044,44 @@
       "heat": "OPEN",
       "openness": "MED",
       "summary": "The Department of Homeland Security Science and Technology Directorate's startup program, non-dilutive and structured through Other Transaction agreements, aimed at homeland security problems (border, cyber, first responder)."
+    },
+    {
+      "id": "v-massventures-start-grant",
+      "heading": "MassVentures START Grant",
+      "section": 4,
+      "group": "State and regional programs",
+      "body": [
+        "CIVIL"
+      ],
+      "instruments": [
+        "NON-DILUTIVE"
+      ],
+      "eligibility": [],
+      "meta": [
+        "Massachusetts"
+      ],
+      "heat": "OPEN",
+      "openness": "MED",
+      "summary": "Massachusetts's state-level SBIR/STTR matching program, non-dilutive, running since 2012."
+    },
+    {
+      "id": "v-texas-space-commission-searf",
+      "heading": "Texas Space Commission — SEARF",
+      "section": 4,
+      "group": "State and regional programs",
+      "body": [
+        "CIVIL"
+      ],
+      "instruments": [
+        "NON-DILUTIVE"
+      ],
+      "eligibility": [],
+      "meta": [
+        "Texas"
+      ],
+      "heat": "HOT",
+      "openness": "MED",
+      "summary": "The Space Exploration and Aeronautics Research Fund, a Texas state grant program created by the legislature in 2023 with an initial $150M and a further $300M approved in 2025."
     }
   ],
   "instrumentDefs": {
@@ -2784,14 +3095,14 @@
   "meta": {
     "sections": 11,
     "tables": 3,
-    "vehicles": 24,
+    "vehicles": 29,
     "sectorSubsections": 7,
-    "words": 7744,
+    "words": 8850,
     "confidence": {
       "PENDING LEGISLATION": 2,
       "STALE": 1,
-      "CUMULATIVE — REFRESH": 3,
-      "UNVERIFIED": 17
+      "CUMULATIVE — REFRESH": 5,
+      "UNVERIFIED": 22
     },
     "generated": "September 2026"
   }

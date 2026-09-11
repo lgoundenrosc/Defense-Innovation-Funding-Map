@@ -51,7 +51,10 @@
     'AUKUS Pillar II': 'AUKUS Pillar II',
     "NSF America's Seed Fund": 'NSF Seed Fund',
     'NASA SBIR/STTR and Space Act Agreements': 'NASA SBIR',
-    'DHS SVIP': 'DHS SVIP'
+    'DHS SVIP': 'DHS SVIP',
+    'Rapid Innovation Fund (RIF)': 'RIF',
+    'Medical CBRN Defense Consortium (MCDC)': 'MCDC',
+    'ARPA-E': 'ARPA-E'
   };
 
   // Maps a token as it literally appears in the section 2 matrix table to the
@@ -79,7 +82,10 @@
     'EXIM': 'Export-Import Bank (EXIM)',
     'DFC': 'Development Finance Corporation (DFC)',
     'EDU': 'Economic Defense Unit (EDU)',
-    'DPA Title III awards': 'Defense Production Act Title III'
+    'DPA Title III awards': 'Defense Production Act Title III',
+    'MCDC': 'Medical CBRN Defense Consortium (MCDC)',
+    'RIF': 'Rapid Innovation Fund (RIF)',
+    'ARPA-E': 'ARPA-E'
   };
   var UNMAPPED_SEEN = {};
 
@@ -115,8 +121,11 @@
     'Office of Naval Research (ONR) SBIR/STTR': [5],
     'SOFWERX': [5],
     'AUKUS Pillar II': [5],
+    'Marine Corps Warfighting Laboratory (MCWL)': [5],
     "NSF America's Seed Fund": [1, 2, 7],
-    'DHS SVIP': [2]
+    'DHS SVIP': [2],
+    'Medical CBRN Defense Consortium (MCDC)': [6],
+    'ARPA-E': [3]
   };
 
   var ROWS = [
