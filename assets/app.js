@@ -36,7 +36,11 @@
     'Defense Production Act Title III': 'DPA Title III',
     'DARPA Commercial Strategy Office and Venture Horizons': 'DARPA CSO',
     'Economic Defense Unit (EDU)': 'EDU',
-    'Army and Navy on-ramps': 'Army/Navy on-ramps',
+    'Army Applications Laboratory (AAL) and xTech': 'AAL / xTech',
+    'NavalX and the Tech Bridge network': 'NavalX',
+    'Office of Naval Research (ONR) SBIR/STTR': 'ONR SBIR/STTR',
+    'SOFWERX': 'SOFWERX',
+    'Marine Corps Warfighting Laboratory (MCWL)': 'MCWL',
     'In-Q-Tel (IQT)': 'In-Q-Tel',
     'DoE Energy Dominance Financing (formerly the Loan Programs Office)': 'DoE EDF',
     'Export-Import Bank (EXIM)': 'EXIM',
@@ -94,7 +98,10 @@
     'Export-Import Bank (EXIM)': [3],
     'Development Finance Corporation (DFC)': [3],
     'NASA SBIR/STTR and Space Act Agreements': [4],
-    'Army and Navy on-ramps': [5]
+    'NavalX and the Tech Bridge network': [5],
+    'Office of Naval Research (ONR) SBIR/STTR': [5],
+    'SOFWERX': [5],
+    'Marine Corps Warfighting Laboratory (MCWL)': [5]
   };
 
   var SECTOR_LIST = [

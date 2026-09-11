@@ -654,8 +654,8 @@
             },
             {
               "type": "vehicle",
-              "heading": "Army and Navy on-ramps",
-              "headingHtml": "Army and Navy on-ramps",
+              "heading": "Army Applications Laboratory (AAL) and xTech",
+              "headingHtml": "Army Applications Laboratory (AAL) and xTech",
               "tag": {
                 "body": [
                   "DOW"
@@ -665,7 +665,52 @@
                 ],
                 "eligibility": [],
                 "meta": [
-                  "service commands"
+                  "under Army Transformation and Training Command (T2COM)"
+                ]
+              },
+              "heat": {
+                "heat": "HOT",
+                "openness": "HIGH"
+              },
+              "blocks": [
+                {
+                  "type": "para",
+                  "raw": "The Army's non-traditional-innovator front door, formerly under Army Futures Command. On 2 October 2025 the Army inactivated Futures Command and merged it with Training and Doctrine Command into the new Army Transformation and Training Command (T2COM) [UNVERIFIED, AAL's exact placement inside the new T2COM structure not confirmed at this revision]. AAL runs the xTech prize competition series: a white-paper submission, small cash prizes at the semifinal stage, larger prizes for finalists, and a follow-on route into Phase I SBIR funding. xTechSearch 9 offered up to $900,000 across the cohort, with up to 60 semifinalists receiving $5,000 each and up to 24 winners receiving a further $25,000. xTech|Inversion offered up to $1,000,000, with 12 finalists at $20,000 each and up to five winners receiving a further $152,000 [UNVERIFIED, current-cycle prize structure, confirm before citing to a company]. Winners can also become eligible for Phase I SBIR awards worth up to $300,000. In 2026 AAL also ran a DevX Autonomy open call soliciting autonomous and unmanned systems solutions [UNVERIFIED, award structure not confirmed at this revision].",
+                  "html": "The Army's non-traditional-innovator front door, formerly under Army Futures Command. On 2 October 2025 the Army inactivated Futures Command and merged it with Training and Doctrine Command into the new Army Transformation and Training Command (T2COM) <span class=\"chip chip-conf conf-unverified\" data-conf=\"UNVERIFIED\">UNVERIFIED</span><span class=\"conf-extra\">AAL's exact placement inside the new T2COM structure not confirmed at this revision</span>. AAL runs the xTech prize competition series: a white-paper submission, small cash prizes at the semifinal stage, larger prizes for finalists, and a follow-on route into Phase I SBIR funding. xTechSearch 9 offered up to $900,000 across the cohort, with up to 60 semifinalists receiving $5,000 each and up to 24 winners receiving a further $25,000. xTech|Inversion offered up to $1,000,000, with 12 finalists at $20,000 each and up to five winners receiving a further $152,000 <span class=\"chip chip-conf conf-unverified\" data-conf=\"UNVERIFIED\">UNVERIFIED</span><span class=\"conf-extra\">current-cycle prize structure, confirm before citing to a company</span>. Winners can also become eligible for Phase I SBIR awards worth up to $300,000. In 2026 AAL also ran a DevX Autonomy open call soliciting autonomous and unmanned systems solutions <span class=\"chip chip-conf conf-unverified\" data-conf=\"UNVERIFIED\">UNVERIFIED</span><span class=\"conf-extra\">award structure not confirmed at this revision</span>.",
+                  "text": "The Army's non-traditional-innovator front door, formerly under Army Futures Command. On 2 October 2025 the Army inactivated Futures Command and merged it with Training and Doctrine Command into the new Army Transformation and Training Command (T2COM) UNVERIFIED. AAL runs the xTech prize competition series: a white-paper submission, small cash prizes at the semifinal stage, larger prizes for finalists, and a follow-on route into Phase I SBIR funding. xTechSearch 9 offered up to $900,000 across the cohort, with up to 60 semifinalists receiving $5,000 each and up to 24 winners receiving a further $25,000. xTech|Inversion offered up to $1,000,000, with 12 finalists at $20,000 each and up to five winners receiving a further $152,000 UNVERIFIED. Winners can also become eligible for Phase I SBIR awards worth up to $300,000. In 2026 AAL also ran a DevX Autonomy open call soliciting autonomous and unmanned systems solutions UNVERIFIED.",
+                  "confidence": [
+                    "UNVERIFIED",
+                    "UNVERIFIED",
+                    "UNVERIFIED"
+                  ]
+                },
+                {
+                  "type": "callout",
+                  "label": "HOW TO READ THIS ENTRY",
+                  "paras": [
+                    {
+                      "html": "xTech is a prize, not an investment or a contract in the DIU sense. The checks are small, $5K to $25K at the semifinal and finalist stages, and the real value is the same as DIU's: a government-validated proof point and a route into SBIR Phase I money, not the capital itself.",
+                      "confidence": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "vehicle",
+              "heading": "NavalX and the Tech Bridge network",
+              "headingHtml": "NavalX and the Tech Bridge network",
+              "tag": {
+                "body": [
+                  "DOW"
+                ],
+                "instruments": [
+                  "NON-DILUTIVE",
+                  "CONTRACT"
+                ],
+                "eligibility": [],
+                "meta": [
+                  "Washington, D.C., with a nationwide Tech Bridge network"
                 ]
               },
               "heat": {
@@ -675,10 +720,111 @@
               "blocks": [
                 {
                   "type": "para",
-                  "raw": "Each service runs its own front doors. Army Applications Lab and the xTech prize competitions. NavalX, the Office of Naval Research, NAVSEA, and SOFWERX on the SOCOM side. Mostly contracting and prize money rather than equity or loans, but real intake points, and central to the maritime pathway in section 5.5.",
-                  "html": "Each service runs its own front doors. Army Applications Lab and the xTech prize competitions. NavalX, the Office of Naval Research, NAVSEA, and SOFWERX on the SOCOM side. Mostly contracting and prize money rather than equity or loans, but real intake points, and central to the maritime pathway in section 5.5.",
-                  "text": "Each service runs its own front doors. Army Applications Lab and the xTech prize competitions. NavalX, the Office of Naval Research, NAVSEA, and SOFWERX on the SOCOM side. Mostly contracting and prize money rather than equity or loans, but real intake points, and central to the maritime pathway in section 5.5.",
-                  "confidence": []
+                  "raw": "The Department of the Navy's innovation-facilitation office, paired with the Office of Naval Research to run a nationwide network of regional Tech Bridges, a franchise model connecting warfare centers, academia, and industry for technology research, evaluation, and commercialization. Tech Bridges operate in more than a dozen regions, including Rhode Island, the Washington, D.C. area, Patuxent River, Hampton Roads, Corona, Monterey, Ventura, and South Carolina [UNVERIFIED, current count and full list of active sites not confirmed at this revision]. NavalX itself does not write checks. Cumulative figures cited by ONR: $45 million in Tech Bridge projects, more than $2 million in prize challenges to non-traditional industry partners, and $37.5 million in Tech-Bridge-linked SBIR for maintenance and sustainment [CUMULATIVE — REFRESH]. The money moves through ONR, a warfare center, or the SBIR program, not through NavalX directly.",
+                  "html": "The Department of the Navy's innovation-facilitation office, paired with the Office of Naval Research to run a nationwide network of regional Tech Bridges, a franchise model connecting warfare centers, academia, and industry for technology research, evaluation, and commercialization. Tech Bridges operate in more than a dozen regions, including Rhode Island, the Washington, D.C. area, Patuxent River, Hampton Roads, Corona, Monterey, Ventura, and South Carolina <span class=\"chip chip-conf conf-unverified\" data-conf=\"UNVERIFIED\">UNVERIFIED</span><span class=\"conf-extra\">current count and full list of active sites not confirmed at this revision</span>. NavalX itself does not write checks. Cumulative figures cited by ONR: $45 million in Tech Bridge projects, more than $2 million in prize challenges to non-traditional industry partners, and $37.5 million in Tech-Bridge-linked SBIR for maintenance and sustainment <span class=\"chip chip-conf conf-cumulative-refresh\" data-conf=\"CUMULATIVE — REFRESH\">CUMULATIVE — REFRESH</span>. The money moves through ONR, a warfare center, or the SBIR program, not through NavalX directly.",
+                  "text": "The Department of the Navy's innovation-facilitation office, paired with the Office of Naval Research to run a nationwide network of regional Tech Bridges, a franchise model connecting warfare centers, academia, and industry for technology research, evaluation, and commercialization. Tech Bridges operate in more than a dozen regions, including Rhode Island, the Washington, D.C. area, Patuxent River, Hampton Roads, Corona, Monterey, Ventura, and South Carolina UNVERIFIED. NavalX itself does not write checks. Cumulative figures cited by ONR: $45 million in Tech Bridge projects, more than $2 million in prize challenges to non-traditional industry partners, and $37.5 million in Tech-Bridge-linked SBIR for maintenance and sustainment CUMULATIVE — REFRESH. The money moves through ONR, a warfare center, or the SBIR program, not through NavalX directly.",
+                  "confidence": [
+                    "UNVERIFIED",
+                    "CUMULATIVE — REFRESH"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "vehicle",
+              "heading": "Office of Naval Research (ONR) SBIR/STTR",
+              "headingHtml": "Office of Naval Research (ONR) SBIR/STTR",
+              "tag": {
+                "body": [
+                  "DOW"
+                ],
+                "instruments": [
+                  "NON-DILUTIVE"
+                ],
+                "eligibility": [],
+                "meta": [
+                  "Arlington, VA"
+                ]
+              },
+              "heat": {
+                "heat": "HOT",
+                "openness": "MED"
+              },
+              "blocks": [
+                {
+                  "type": "para",
+                  "raw": "The Navy and Marine Corps' SBIR/STTR program, spanning more than 30 science and technology areas. Phase I awards run roughly $140,000 to $315,000; Phase II can reach $1.75 million [UNVERIFIED, current solicitation ceilings, confirm against the live BAA before citing]. NAVSEA alone carried 39 SBIR Phase I, 5 Direct-to-Phase-II, and 19 STTR Phase I topics under the FY2026 Navy-wide broad agency announcements, and the Naval Information Warfare Systems Command runs at least one Open Topic as a Commercial Solutions Opening using real Other Transaction agreements rather than a conventional SBIR contract. Separately, the Department of the Navy has pointed to rapid-funding SBIR/STTR opportunities worth $30 million through a dedicated broad agency announcement [UNVERIFIED, program name and current status not confirmed at this revision]. On 13 April 2026 the president signed the Small Business Innovation and Economic Security Act, reauthorizing SBIR and STTR government-wide.",
+                  "html": "The Navy and Marine Corps' SBIR/STTR program, spanning more than 30 science and technology areas. Phase I awards run roughly $140,000 to $315,000; Phase II can reach $1.75 million <span class=\"chip chip-conf conf-unverified\" data-conf=\"UNVERIFIED\">UNVERIFIED</span><span class=\"conf-extra\">current solicitation ceilings, confirm against the live BAA before citing</span>. NAVSEA alone carried 39 SBIR Phase I, 5 Direct-to-Phase-II, and 19 STTR Phase I topics under the FY2026 Navy-wide broad agency announcements, and the Naval Information Warfare Systems Command runs at least one Open Topic as a Commercial Solutions Opening using real Other Transaction agreements rather than a conventional SBIR contract. Separately, the Department of the Navy has pointed to rapid-funding SBIR/STTR opportunities worth $30 million through a dedicated broad agency announcement <span class=\"chip chip-conf conf-unverified\" data-conf=\"UNVERIFIED\">UNVERIFIED</span><span class=\"conf-extra\">program name and current status not confirmed at this revision</span>. On 13 April 2026 the president signed the Small Business Innovation and Economic Security Act, reauthorizing SBIR and STTR government-wide.",
+                  "text": "The Navy and Marine Corps' SBIR/STTR program, spanning more than 30 science and technology areas. Phase I awards run roughly $140,000 to $315,000; Phase II can reach $1.75 million UNVERIFIED. NAVSEA alone carried 39 SBIR Phase I, 5 Direct-to-Phase-II, and 19 STTR Phase I topics under the FY2026 Navy-wide broad agency announcements, and the Naval Information Warfare Systems Command runs at least one Open Topic as a Commercial Solutions Opening using real Other Transaction agreements rather than a conventional SBIR contract. Separately, the Department of the Navy has pointed to rapid-funding SBIR/STTR opportunities worth $30 million through a dedicated broad agency announcement UNVERIFIED. On 13 April 2026 the president signed the Small Business Innovation and Economic Security Act, reauthorizing SBIR and STTR government-wide.",
+                  "confidence": [
+                    "UNVERIFIED",
+                    "UNVERIFIED"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "vehicle",
+              "heading": "SOFWERX",
+              "headingHtml": "SOFWERX",
+              "tag": {
+                "body": [
+                  "DOW"
+                ],
+                "instruments": [
+                  "CONTRACT"
+                ],
+                "eligibility": [],
+                "meta": [
+                  "Tampa, FL, for USSOCOM"
+                ]
+              },
+              "heat": {
+                "heat": "HOT",
+                "openness": "HIGH"
+              },
+              "blocks": [
+                {
+                  "type": "para",
+                  "raw": "Special Operations Command's commercial-technology engagement hub, run by the nonprofit DEFENSEWERX under a partnership intermediary agreement with USSOCOM. It strips out much of the friction of a traditional base or security posture, giving non-traditional companies room to run rapid prototyping engagements directly with SOF operators. Pathways include direct contracts, Other Transaction agreements, SBIR/STTR, CRADAs, and prize competitions. Cumulative since 2015: 664 projects run through Collaborative Project Orders, and roughly $528.8 million contracted across 1,921 purchase orders and business-to-business agreements [CUMULATIVE — REFRESH]. The open Engage SOF solicitation runs an estimated $500,000 to $5 million per award, with a 31 December 2026 deadline [UNVERIFIED, solicitation terms change frequently, confirm before citing].",
+                  "html": "Special Operations Command's commercial-technology engagement hub, run by the nonprofit DEFENSEWERX under a partnership intermediary agreement with USSOCOM. It strips out much of the friction of a traditional base or security posture, giving non-traditional companies room to run rapid prototyping engagements directly with SOF operators. Pathways include direct contracts, Other Transaction agreements, SBIR/STTR, CRADAs, and prize competitions. Cumulative since 2015: 664 projects run through Collaborative Project Orders, and roughly $528.8 million contracted across 1,921 purchase orders and business-to-business agreements <span class=\"chip chip-conf conf-cumulative-refresh\" data-conf=\"CUMULATIVE — REFRESH\">CUMULATIVE — REFRESH</span>. The open Engage SOF solicitation runs an estimated $500,000 to $5 million per award, with a 31 December 2026 deadline <span class=\"chip chip-conf conf-unverified\" data-conf=\"UNVERIFIED\">UNVERIFIED</span><span class=\"conf-extra\">solicitation terms change frequently, confirm before citing</span>.",
+                  "text": "Special Operations Command's commercial-technology engagement hub, run by the nonprofit DEFENSEWERX under a partnership intermediary agreement with USSOCOM. It strips out much of the friction of a traditional base or security posture, giving non-traditional companies room to run rapid prototyping engagements directly with SOF operators. Pathways include direct contracts, Other Transaction agreements, SBIR/STTR, CRADAs, and prize competitions. Cumulative since 2015: 664 projects run through Collaborative Project Orders, and roughly $528.8 million contracted across 1,921 purchase orders and business-to-business agreements CUMULATIVE — REFRESH. The open Engage SOF solicitation runs an estimated $500,000 to $5 million per award, with a 31 December 2026 deadline UNVERIFIED.",
+                  "confidence": [
+                    "CUMULATIVE — REFRESH",
+                    "UNVERIFIED"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "vehicle",
+              "heading": "Marine Corps Warfighting Laboratory (MCWL)",
+              "headingHtml": "Marine Corps Warfighting Laboratory (MCWL)",
+              "tag": {
+                "body": [
+                  "DOW"
+                ],
+                "instruments": [
+                  "CONTRACT"
+                ],
+                "eligibility": [],
+                "meta": [
+                  "Quantico, VA"
+                ]
+              },
+              "heat": {
+                "heat": "WATCH",
+                "openness": "MED"
+              },
+              "blocks": [
+                {
+                  "type": "para",
+                  "raw": "The Marine Corps' concepts-and-experimentation lab, running rapid prototyping under Other Transaction Authority and periodic calls for concepts through the Commandant's Innovation Challenge and the USMC Innovation Challenge. A Marine Corps Reserve unit, the Marine Innovation Unit, supports the Marine Corps Software Factory on software integration work rather than funding companies directly [UNVERIFIED, MIU's relationship to MCWL and to any company-facing funding not confirmed at this revision]. Public dollar figures for MCWL's OTA prototyping awards are thinner than the Army or Navy equivalents above.",
+                  "html": "The Marine Corps' concepts-and-experimentation lab, running rapid prototyping under Other Transaction Authority and periodic calls for concepts through the Commandant's Innovation Challenge and the USMC Innovation Challenge. A Marine Corps Reserve unit, the Marine Innovation Unit, supports the Marine Corps Software Factory on software integration work rather than funding companies directly <span class=\"chip chip-conf conf-unverified\" data-conf=\"UNVERIFIED\">UNVERIFIED</span><span class=\"conf-extra\">MIU's relationship to MCWL and to any company-facing funding not confirmed at this revision</span>. Public dollar figures for MCWL's OTA prototyping awards are thinner than the Army or Navy equivalents above.",
+                  "text": "The Marine Corps' concepts-and-experimentation lab, running rapid prototyping under Other Transaction Authority and periodic calls for concepts through the Commandant's Innovation Challenge and the USMC Innovation Challenge. A Marine Corps Reserve unit, the Marine Innovation Unit, supports the Marine Corps Software Factory on software integration work rather than funding companies directly UNVERIFIED. Public dollar figures for MCWL's OTA prototyping awards are thinner than the Army or Navy equivalents above.",
+                  "confidence": [
+                    "UNVERIFIED"
+                  ]
                 }
               ]
             }
@@ -1441,8 +1587,14 @@
               "confidence": []
             },
             {
-              "html": "This map deprioritises SBIR and STTR by design. It names them as an on-ramp but does not inventory the service programs in full.",
+              "html": "This map deprioritises SBIR and STTR by design. Army, Navy, and SOCOM service on-ramps got a deeper pass in this revision (the five Department of War entries added under 4.1 after Economic Defense Unit); Air Force, Space Force, and civil-agency SBIR/STTR are still named only as an on-ramp, not inventoried in full.",
               "confidence": []
+            },
+            {
+              "html": "The five entries added to 4.1 covering Army, Navy, and SOCOM service on-ramps (Army Applications Laboratory and xTech, NavalX and the Tech Bridge network, Office of Naval Research SBIR/STTR, SOFWERX, and Marine Corps Warfighting Laboratory) were researched separately from the rest of this document and carry a heavier <span class=\"chip chip-conf conf-unverified\" data-conf=\"UNVERIFIED\">UNVERIFIED</span> load as a result. Confirm current award sizes and program status against primary .mil sources before citing any figure in that block externally.",
+              "confidence": [
+                "UNVERIFIED"
+              ]
             }
           ]
         }
@@ -2179,8 +2331,8 @@
       "openness": "LOW"
     },
     {
-      "id": "v-army-and-navy-on-ramps",
-      "heading": "Army and Navy on-ramps",
+      "id": "v-army-applications-laboratory-aal-and-xtech",
+      "heading": "Army Applications Laboratory (AAL) and xTech",
       "section": 4,
       "group": "Department of War",
       "body": [
@@ -2191,9 +2343,82 @@
       ],
       "eligibility": [],
       "meta": [
-        "service commands"
+        "under Army Transformation and Training Command (T2COM)"
+      ],
+      "heat": "HOT",
+      "openness": "HIGH"
+    },
+    {
+      "id": "v-navalx-and-the-tech-bridge-network",
+      "heading": "NavalX and the Tech Bridge network",
+      "section": 4,
+      "group": "Department of War",
+      "body": [
+        "DOW"
+      ],
+      "instruments": [
+        "NON-DILUTIVE",
+        "CONTRACT"
+      ],
+      "eligibility": [],
+      "meta": [
+        "Washington, D.C., with a nationwide Tech Bridge network"
       ],
       "heat": "OPEN",
+      "openness": "MED"
+    },
+    {
+      "id": "v-office-of-naval-research-onr-sbir-sttr",
+      "heading": "Office of Naval Research (ONR) SBIR/STTR",
+      "section": 4,
+      "group": "Department of War",
+      "body": [
+        "DOW"
+      ],
+      "instruments": [
+        "NON-DILUTIVE"
+      ],
+      "eligibility": [],
+      "meta": [
+        "Arlington, VA"
+      ],
+      "heat": "HOT",
+      "openness": "MED"
+    },
+    {
+      "id": "v-sofwerx",
+      "heading": "SOFWERX",
+      "section": 4,
+      "group": "Department of War",
+      "body": [
+        "DOW"
+      ],
+      "instruments": [
+        "CONTRACT"
+      ],
+      "eligibility": [],
+      "meta": [
+        "Tampa, FL, for USSOCOM"
+      ],
+      "heat": "HOT",
+      "openness": "HIGH"
+    },
+    {
+      "id": "v-marine-corps-warfighting-laboratory-mcwl",
+      "heading": "Marine Corps Warfighting Laboratory (MCWL)",
+      "section": 4,
+      "group": "Department of War",
+      "body": [
+        "DOW"
+      ],
+      "instruments": [
+        "CONTRACT"
+      ],
+      "eligibility": [],
+      "meta": [
+        "Quantico, VA"
+      ],
+      "heat": "WATCH",
       "openness": "MED"
     },
     {
@@ -2366,14 +2591,14 @@
   "meta": {
     "sections": 12,
     "tables": 3,
-    "vehicles": 19,
+    "vehicles": 23,
     "sectorSubsections": 9,
-    "words": 5439,
+    "words": 6273,
     "confidence": {
       "PENDING LEGISLATION": 2,
       "STALE": 1,
-      "CUMULATIVE — REFRESH": 1,
-      "UNVERIFIED": 2
+      "CUMULATIVE — REFRESH": 3,
+      "UNVERIFIED": 10
     },
     "generated": "September 2026"
   }

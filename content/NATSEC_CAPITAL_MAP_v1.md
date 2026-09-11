@@ -173,13 +173,48 @@ Four initiatives run under it. Venture Horizons is the one for a venture firm: i
 
 A recent Department of War creation working alongside OSC, staffed with recruits from Goldman Sachs, JPMorgan, and other Wall Street firms. Critics have described it as an attempt to build a pseudo-sovereign wealth fund inside the executive branch. Scale-stage, thin public detail. [UNVERIFIED, structure and mandate still forming]
 
-#### Army and Navy on-ramps
+#### Army Applications Laboratory (AAL) and xTech
 
-`DOW`   ·   `CONTRACT`   ·   service commands
+`DOW`   ·   `CONTRACT`   ·   under Army Transformation and Training Command (T2COM)
+
+**HEAT: HOT   OPENNESS: HIGH**
+
+The Army's non-traditional-innovator front door, formerly under Army Futures Command. On 2 October 2025 the Army inactivated Futures Command and merged it with Training and Doctrine Command into the new Army Transformation and Training Command (T2COM) [UNVERIFIED, AAL's exact placement inside the new T2COM structure not confirmed at this revision]. AAL runs the xTech prize competition series: a white-paper submission, small cash prizes at the semifinal stage, larger prizes for finalists, and a follow-on route into Phase I SBIR funding. xTechSearch 9 offered up to $900,000 across the cohort, with up to 60 semifinalists receiving $5,000 each and up to 24 winners receiving a further $25,000. xTech|Inversion offered up to $1,000,000, with 12 finalists at $20,000 each and up to five winners receiving a further $152,000 [UNVERIFIED, current-cycle prize structure, confirm before citing to a company]. Winners can also become eligible for Phase I SBIR awards worth up to $300,000. In 2026 AAL also ran a DevX Autonomy open call soliciting autonomous and unmanned systems solutions [UNVERIFIED, award structure not confirmed at this revision].
+
+> [!CALLOUT] HOW TO READ THIS ENTRY
+> xTech is a prize, not an investment or a contract in the DIU sense. The checks are small, $5K to $25K at the semifinal and finalist stages, and the real value is the same as DIU's: a government-validated proof point and a route into SBIR Phase I money, not the capital itself.
+
+#### NavalX and the Tech Bridge network
+
+`DOW`   ·   `NON-DILUTIVE` `CONTRACT`   ·   Washington, D.C., with a nationwide Tech Bridge network
 
 **HEAT: OPEN   OPENNESS: MED**
 
-Each service runs its own front doors. Army Applications Lab and the xTech prize competitions. NavalX, the Office of Naval Research, NAVSEA, and SOFWERX on the SOCOM side. Mostly contracting and prize money rather than equity or loans, but real intake points, and central to the maritime pathway in section 5.5.
+The Department of the Navy's innovation-facilitation office, paired with the Office of Naval Research to run a nationwide network of regional Tech Bridges, a franchise model connecting warfare centers, academia, and industry for technology research, evaluation, and commercialization. Tech Bridges operate in more than a dozen regions, including Rhode Island, the Washington, D.C. area, Patuxent River, Hampton Roads, Corona, Monterey, Ventura, and South Carolina [UNVERIFIED, current count and full list of active sites not confirmed at this revision]. NavalX itself does not write checks. Cumulative figures cited by ONR: $45 million in Tech Bridge projects, more than $2 million in prize challenges to non-traditional industry partners, and $37.5 million in Tech-Bridge-linked SBIR for maintenance and sustainment [CUMULATIVE — REFRESH]. The money moves through ONR, a warfare center, or the SBIR program, not through NavalX directly.
+
+#### Office of Naval Research (ONR) SBIR/STTR
+
+`DOW`   ·   `NON-DILUTIVE`   ·   Arlington, VA
+
+**HEAT: HOT   OPENNESS: MED**
+
+The Navy and Marine Corps' SBIR/STTR program, spanning more than 30 science and technology areas. Phase I awards run roughly $140,000 to $315,000; Phase II can reach $1.75 million [UNVERIFIED, current solicitation ceilings, confirm against the live BAA before citing]. NAVSEA alone carried 39 SBIR Phase I, 5 Direct-to-Phase-II, and 19 STTR Phase I topics under the FY2026 Navy-wide broad agency announcements, and the Naval Information Warfare Systems Command runs at least one Open Topic as a Commercial Solutions Opening using real Other Transaction agreements rather than a conventional SBIR contract. Separately, the Department of the Navy has pointed to rapid-funding SBIR/STTR opportunities worth $30 million through a dedicated broad agency announcement [UNVERIFIED, program name and current status not confirmed at this revision]. On 13 April 2026 the president signed the Small Business Innovation and Economic Security Act, reauthorizing SBIR and STTR government-wide.
+
+#### SOFWERX
+
+`DOW`   ·   `CONTRACT`   ·   Tampa, FL, for USSOCOM
+
+**HEAT: HOT   OPENNESS: HIGH**
+
+Special Operations Command's commercial-technology engagement hub, run by the nonprofit DEFENSEWERX under a partnership intermediary agreement with USSOCOM. It strips out much of the friction of a traditional base or security posture, giving non-traditional companies room to run rapid prototyping engagements directly with SOF operators. Pathways include direct contracts, Other Transaction agreements, SBIR/STTR, CRADAs, and prize competitions. Cumulative since 2015: 664 projects run through Collaborative Project Orders, and roughly $528.8 million contracted across 1,921 purchase orders and business-to-business agreements [CUMULATIVE — REFRESH]. The open Engage SOF solicitation runs an estimated $500,000 to $5 million per award, with a 31 December 2026 deadline [UNVERIFIED, solicitation terms change frequently, confirm before citing].
+
+#### Marine Corps Warfighting Laboratory (MCWL)
+
+`DOW`   ·   `CONTRACT`   ·   Quantico, VA
+
+**HEAT: WATCH   OPENNESS: MED**
+
+The Marine Corps' concepts-and-experimentation lab, running rapid prototyping under Other Transaction Authority and periodic calls for concepts through the Commandant's Innovation Challenge and the USMC Innovation Challenge. A Marine Corps Reserve unit, the Marine Innovation Unit, supports the Marine Corps Software Factory on software integration work rather than funding companies directly [UNVERIFIED, MIU's relationship to MCWL and to any company-facing funding not confirmed at this revision]. Public dollar figures for MCWL's OTA prototyping awards are thinner than the Army or Navy equivalents above.
 
 ### 4.2 Intelligence Community
 
@@ -386,7 +421,8 @@ What this map does not yet nail down, stated as gaps rather than filled.
 - DHS SVIP award ceiling and phase structure are not confirmed at this revision.
 - The DARPA Commercial Strategy Office scorecard is cumulative since 2018 and should be refreshed before any external use.
 - DoE Energy Dominance Financing is a 2026 rename of the Loan Programs Office; its current lending posture under the new name should be confirmed.
-- This map deprioritises SBIR and STTR by design. It names them as an on-ramp but does not inventory the service programs in full.
+- This map deprioritises SBIR and STTR by design. Army, Navy, and SOCOM service on-ramps got a deeper pass in this revision (the five Department of War entries added under 4.1 after Economic Defense Unit); Air Force, Space Force, and civil-agency SBIR/STTR are still named only as an on-ramp, not inventoried in full.
+- The five entries added to 4.1 covering Army, Navy, and SOCOM service on-ramps (Army Applications Laboratory and xTech, NavalX and the Tech Bridge network, Office of Naval Research SBIR/STTR, SOFWERX, and Marine Corps Warfighting Laboratory) were researched separately from the rest of this document and carry a heavier [UNVERIFIED] load as a result. Confirm current award sizes and program status against primary .mil sources before citing any figure in that block externally.
 
 ## 10. Key names
 

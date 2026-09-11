@@ -32,9 +32,17 @@ The parser prints its counts. Current parse:
 | --- | --- |
 | Top-level sections | 12 |
 | Tables | 3 |
-| Vehicle directory entries | 19 |
+| Vehicle directory entries | 23 |
 | Sector sub-tabs | 9 |
-| Words | 5,439 |
+| Words | 6,273 |
+
+v1.1 replaced the single "Army and Navy on-ramps" entry with five researched
+entries (Army Applications Laboratory and xTech, NavalX and the Tech Bridge
+network, ONR SBIR/STTR, SOFWERX, and Marine Corps Warfighting Laboratory).
+That block was researched separately from the rest of the document via live
+web search rather than pulled from the original content package, so it
+carries a heavier `[UNVERIFIED]` load. Confirm current award sizes and
+program status against primary `.mil` sources before citing externally.
 
 ## Content rules the build follows
 
