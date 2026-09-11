@@ -30,7 +30,7 @@ Six instrument types down the side. Three company stages across the top. Each ve
 
 | Instrument type | Pre-seed / seed | Series A / B | Growth / scale |
 | --- | --- | --- | --- |
-| Non-dilutive capital | NSIC, Space Ventures, NSF Seed Fund, NASA SBIR, DHS SVIP, NATO DIANA | NSIC | (gap) |
+| Non-dilutive capital | NSIC, Space Ventures, NSF Seed Fund, NASA SBIR, DHS SVIP, NATO DIANA, AUKUS Pillar II | NSIC | (gap) |
 | First contract / OTA | DIU CSO, DARPA BTO, service SBIR/STTR | DIU CSO, Replicator/PRIME | DPA Title III awards |
 | Matching capital | AFVentures TACFI | AFVentures STRATFI | (gap) |
 | Strategic equity | In-Q-Tel | In-Q-Tel | OSC equity [PENDING LEGISLATION], direct DoW stakes |
@@ -271,6 +271,19 @@ A separate 1 billion euro-plus equity fund with 24 participating NATO nations. T
 > DIANA is open to US companies and gives non-dilutive challenge funding, test access, and allied market pathways. The NIF, the equity follow-on, cannot put money into a US-based company because the US is not one of its 24 funding nations.
 > Do not present NIF as reachable capital for a Rosc portfolio company. It is a door that is closed from the US side.
 
+#### AUKUS Pillar II
+
+`ALLIED`   ·   `NON-DILUTIVE`   ·   `US-ELIGIBLE`   ·   trilateral, US-UK-Australia
+
+**HEAT: WATCH   OPENNESS: LOW**
+
+The advanced-capabilities pillar of the US-UK-Australia security pact, covering undersea capabilities, quantum technology, artificial intelligence, autonomy, advanced cyber, hypersonics, and electronic warfare, a far wider technology set than maritime alone. Pillar II is primarily an export-control and technology-sharing reform, not a funding program: a 2025 ITAR exemption lets the three countries trade controlled defense articles and technical data without a license in most cases, though an Excluded Technology List still requires one for the most sensitive items [UNVERIFIED, current scope of the Excluded Technology List not confirmed at this revision].
+
+The company-facing money runs through an AUKUS Innovation Challenge series, run jointly by Australia's Advanced Strategic Capabilities Accelerator (ASCA), the UK Defence Innovation Organisation, and DIU on the US side, rather than through a dedicated AUKUS budget line. The 2025 Maritime Innovation Challenge awarded $6.2M to Australian companies and £3M to UK companies; both cohorts read as domestic awards to each country's own companies rather than an open trilateral pool [UNVERIFIED, whether a US company can win through the US leg via DIU, and on what terms, is not confirmed at this revision]. AUKUS governments have also said outright that government money alone will not be enough to fund Pillar II's capabilities, and are consulting with private capital on a multi-sovereign public-private innovation fund that does not yet exist [UNVERIFIED, this fund is a proposal, not a live vehicle, as of this revision].
+
+> [!CALLOUT] INSTRUMENT NOTE
+> Treat AUKUS Pillar II as a market-access and export-control story first, a capital source second. Its clearest near-term value to a Rosc portfolio company is the ITAR relief it gives a company already selling into the UK or Australia, not a check. The innovation-challenge money that does exist runs through DIU on the US side, so it shows up here as a US-eligible allied door, but it is thin, new, and worth re-checking before it goes into any pitch to a founder.
+
 ### 3.6 Civil agencies
 
 These are dual-use baselines rather than national security vehicles. They fund the same early companies but with no defense mandate, so they sit adjacent to the core map.
@@ -301,13 +314,13 @@ The Department of Homeland Security Science and Technology Directorate's startup
 
 ## 4. Sector pathways
 
-Each tab shows the same six instrument rows. The vehicles that serve the sector light up; the rest grey out. Overlap across tabs is intended. The "shape" line names how capital reaches that kind of company.
+Each tab shows the same six instrument rows. The vehicles that serve the sector light up; the rest grey out. The "shape" line names how capital reaches that kind of company.
 
 ### 4.1 Hardware
 
 Shape: non-dilutive plus contract, the fullest seed menu of any sector.
 
-NSIC is the anchor ($500K to $3M, TRL 3+, hardware only). DIU CSO for first prototype revenue. AFVentures TACFI for a matched bridge. NATO DIANA as a non-dilutive allied door. Then OSC equipment finance and DPA Title III at scale. Every physical-product sector inherits this spine.
+NSIC is the anchor ($500K to $3M, TRL 3+, hardware only). DIU CSO for first prototype revenue. AFVentures TACFI for a matched bridge. NATO DIANA as a non-dilutive allied door. Then OSC equipment finance and DPA Title III at scale. Every physical-product sector inherits this spine, which is why the same six vehicles reappear lit on the Space and Marine tabs even where a sector's own write-up does not re-name every one of them. NSF America's Seed Fund also reaches in on the non-dilutive side, since its scope names robotics specifically alongside AI and semiconductors.
 
 ### 4.2 Software, AI and autonomy, and cyber
 
@@ -315,7 +328,7 @@ Shape: contract-led, not capital-led, across all three, though the non-dilutive 
 
 NSIC greys out here, the same as on every non-hardware tab, because it funds hardware only. A software, AI, or cyber founder's doors are mostly the customer-and-contract kind: DIU CSO across all six portfolios, service software buyers, and SBIR through AFWERX. In-Q-Tel on the equity side. The message on this combined tab is that a company here chases a paying government customer first, because the non-dilutive check mostly is not there.
 
-Two non-dilutive doors do reach across all three, and are worth naming rather than leaving the row looking emptier than it is. NSF America's Seed Fund is open to nearly all technology areas, AI included, and does not gate on a defense mandate. DHS SVIP names cyber directly as one of its three focus areas, alongside border and first-responder problems. Neither is likely to be the primary check for a company chasing a Department of War customer, but both are real, reachable, and non-dilutive.
+Two non-dilutive doors do reach across all three, and are worth naming rather than leaving the row looking emptier than it is. NSF America's Seed Fund is open to nearly all technology areas, AI included, and does not gate on a defense mandate. DHS SVIP names cyber directly as one of its three focus areas, alongside border and first-responder problems. Neither is likely to be the primary check for a company chasing a Department of War customer, but both are real, reachable, and non-dilutive. EXIM's CTEP also names AI as one of its 10 transformational export areas, though EXIM is export and project credit rather than a seed-stage check, so it reads as a scale-stage door here, not an early one.
 
 For AI and autonomy specifically: DIU's AI/ML and autonomy portfolios, the CDAO Tradewinds Solutions Marketplace, Replicator, and In-Q-Tel. NATO DIANA also lists autonomy as one of its 10 challenge areas, which extends the allied non-dilutive door to this tab as well.
 
@@ -337,13 +350,13 @@ SpaceWERX and Space Ventures (Orbital Prime, non-dilutive), STRATFI and TACFI sp
 
 Shape: prototype-contract led with a hardware-capital backstop.
 
-DIU's PRIME CSO and the SWAP unmanned-surface-vessel challenge ($100M across sprints plus $200M in follow-on), the Replicator initiative, the Navy's Disruptive Capabilities Office, NAVSEA and the Office of Naval Research, NavalX, SOCOM through SOFWERX, and NSIC since USVs are hardware. AUKUS Pillar II is an allied export channel for autonomous maritime systems. The worked example is Saronic, which paired a private raise with DIU and SOCOM prototype contracts.
+DIU's PRIME CSO and the SWAP unmanned-surface-vessel challenge ($100M across sprints plus $200M in follow-on), the Replicator initiative, the Navy's Disruptive Capabilities Office, NAVSEA and the Office of Naval Research, NavalX, SOCOM through SOFWERX, and NSIC since USVs are hardware. AUKUS Pillar II touches this sector through its undersea-capabilities work and its DIU-run Innovation Challenge leg, though the pillar's own scope runs well past maritime into quantum, AI, cyber, and hypersonics, and its money is thinner and newer than the other doors on this tab. The worked example is Saronic, which paired a private raise with DIU and SOCOM prototype contracts.
 
 ### 4.6 Biotech and biosecurity
 
 Shape: R&D-grant and offtake led, thin on equity, where it aligns with national security.
 
-The national security alignment is specific. DARPA's Biological Technologies Office runs a standing Broad Agency Announcement (biodefense, biosecurity, human performance, combat casualty care), rolling to 30 September 2026. DPA Title III funds domestic biomanufacturing, part of a Department program of about $1 billion over five years for manufacturing infrastructure plus $200M for biosecurity and cybersecurity at those facilities. The FY2026 National Defense Authorization Act created a Bioindustrial Commercialization Program, a Biotechnology Supply Chain Resiliency Program, and a required Department Biotechnology Strategy, and authorized advance market commitments and offtake agreements for defense-relevant biotech. DIU and In-Q-Tel touch the space. The National Security Commission on Emerging Biotechnology steers the policy. NATO DIANA lists biotech and human resilience as a challenge area.
+The national security alignment is specific. DARPA's Biological Technologies Office runs a standing Broad Agency Announcement (biodefense, biosecurity, human performance, combat casualty care), rolling to 30 September 2026. DPA Title III funds domestic biomanufacturing, part of a Department program of about $1 billion over five years for manufacturing infrastructure plus $200M for biosecurity and cybersecurity at those facilities. The FY2026 National Defense Authorization Act created a Bioindustrial Commercialization Program, a Biotechnology Supply Chain Resiliency Program, and a required Department Biotechnology Strategy, and authorized advance market commitments and offtake agreements for defense-relevant biotech. DIU and In-Q-Tel touch the space. The National Security Commission on Emerging Biotechnology steers the policy. NATO DIANA lists biotech and human resilience as a challenge area. EXIM's CTEP names biotech as one of its 10 transformational export areas too, again as scale-stage export credit rather than a seed-stage check.
 
 Adjacent, not core: HHS BARDA and its DRIVe accelerator fund medical countermeasures, and DTRA and JPEO-CBRND buy chem-bio defense. These are health and CBRN customers rather than capital doors.
 
@@ -354,7 +367,7 @@ Adjacent, not core: HHS BARDA and its DRIVe accelerator fund medical countermeas
 
 Shape: capital-heavy, closer to the minerals shape.
 
-The Commerce CHIPS Program Office is the giant here, plus OSC (microelectronics is a covered category), DIU, and the Defense Microelectronics Activity. Build after the other six tabs.
+The Commerce CHIPS Program Office is the giant here, plus OSC (microelectronics is a covered category), DIU, and the Defense Microelectronics Activity. Two non-defense doors reach in too, both from their own stated scope rather than a defense mandate: EXIM's CTEP names semiconductors as one of its 10 transformational export areas, and NSF America's Seed Fund names semiconductors alongside AI and robotics. This tab is the thinnest-built in the map and should get the same research pass the other six already had.
 
 ## 5. Coordination and policy
 
@@ -373,7 +386,7 @@ National Security Commission on Emerging Biotechnology. A congressionally charte
 
 ## 6. The equity shift
 
-The single most important development for this map. Inside the last year, the government moved from lending to owning.
+A supporting development to watch, not a core one for Rosc's own stage. Rosc is a pre-seed and seed investor, and this shift is a growth and scale story; it does not change where Rosc's portfolio companies raise their first checks. Inside the last year, the government moved from lending to owning, at least in a handful of large deals.
 
 In July 2025 the Department of War took a $400M equity stake in MP Materials, the only US rare-earth miner, through convertible preferred shares and a warrant, a stake of roughly 15% that made the Department the company's largest shareholder. The same deal stacked a $150M OSC loan, DPA Title III authorities, a $110 per kilogram price floor on neodymium-praseodymium oxide, and a right to 30% of upside revenue from a second magnet plant.
 
@@ -383,7 +396,7 @@ The authority is still catching up to the practice. Section 1051 of the Senate F
 
 > [!CALLOUT] VC READ
 > The government is now a co-investor and sometimes a lead, at least in critical minerals and industrial base. For a venture firm this cuts two ways. A government equity stake is a strong validation signal and a balance-sheet backstop for a capital-intensive company. It also means a new and price-insensitive actor sits on some cap tables, with offtake terms and price floors attached.
-> The stakes so far are strategic-size and concentrated in minerals, batteries, and magnets. This is not seed-stage equity. But the direction of travel is worth tracking, because a formal $500M OSC equity authority would put the Department into growth rounds directly.
+> The stakes so far are strategic-size and concentrated in minerals, batteries, and magnets. This is not seed-stage equity, and it is not where a pre-seed or seed portfolio company sits today. But the direction of travel is worth tracking, because a formal $500M OSC equity authority would put the Department into growth rounds directly, which is the stage a seed-stage winner eventually grows into.
 
 ## 7. Rosc read
 
@@ -414,6 +427,8 @@ What this map does not yet nail down, stated as gaps rather than filled.
 - The five entries added to 3.1 covering Army, Navy, and SOCOM service on-ramps (Army Applications Laboratory and xTech, NavalX and the Tech Bridge network, Office of Naval Research SBIR/STTR, SOFWERX, and Marine Corps Warfighting Laboratory) were researched separately from the rest of this document and carry a heavier [UNVERIFIED] load as a result. Confirm current award sizes and program status against primary .mil sources before citing any figure in that block externally.
 - Section 5's coverage of the National Security Capital Forum, the National Energy Dominance Council, the Minerals Security Partnership Finance Network, and the National Security Commission on Emerging Biotechnology was researched the same way as the service entries above (live search, not the original content package) and carries the same heavier [UNVERIFIED] load. Membership rosters, meeting cadence, and which biotech-commission recommendations have been enacted all need a primary-source check before external use.
 - Software, AI and autonomy, and cyber were folded into a single sector tab in this revision. The merge changes which vehicles appear lit on that tab (NSF America's Seed Fund, DHS SVIP, and NATO DIANA now show as non-dilutive doors there); the underlying source prose for each of the three original sub-sectors was preserved, not rewritten, and only the tab grouping and the non-dilutive read changed.
+- The sector pathway grid now applies two rules beyond literal name-matching in each sector's own paragraph. First, Hardware's stated rule that "every physical-product sector inherits this spine" is applied to Space and Marine for all six spine vehicles (NSIC, DIU, AFVentures, NATO DIANA, OSC, DPA Title III), even on the sectors whose own write-up does not re-name every one of them. Second, EXIM and NSF are lit on sectors named in their own directory entries (EXIM's CTEP: AI, biotech, semiconductors; NSF: AI, semiconductors, robotics) rather than only where a sector's own paragraph happens to cite them. Both rules are logged here because they are structural judgment calls, not literal transcription, even though every vehicle placed this way is grounded in that vehicle's own stated scope.
+- AUKUS Pillar II is new to this revision (3.5) and is thinly documented on purpose: its US-side company-facing money runs through DIU's participation in a jointly-run Innovation Challenge series rather than a dedicated AUKUS budget, the 2025 challenge round paid Australian and UK companies rather than an open trilateral pool, and a proposed multi-sovereign private-capital fund does not yet exist. Confirm current US-company eligibility before citing this as a reachable door.
 
 ## 9. Key names
 
@@ -478,3 +493,4 @@ Primary federal and institutional sources take precedence. Confirm all figures a
 - US Department of State joint statement on the Minerals Security Partnership Finance Network; DFC press releases on critical-minerals co-financing
 - National Security Commission on Emerging Biotechnology, "Charting the Future of Biotechnology: An Action Plan for American Security and Prosperity" (8 April 2025), and CRS summary IN12546
 - Congressional Research Service and Crowell & Moring coverage of Section 1092 (FY2025 NDAA) and Section 876 (FY2026 NDAA) on the National Security Capital Forum
+- Australian Department of Defence and UK government releases on the 2025 AUKUS Maritime Innovation Challenge; CSIS and United States Studies Centre analysis of AUKUS Pillar II structure and financing; State Department and Atlantic Council coverage of the 2025 ITAR exemption for AUKUS

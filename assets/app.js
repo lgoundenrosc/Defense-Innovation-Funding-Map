@@ -48,6 +48,7 @@
     'Development Finance Corporation (DFC)': 'DFC',
     'NATO DIANA': 'NATO DIANA',
     'NATO Innovation Fund (NIF)': 'NIF',
+    'AUKUS Pillar II': 'AUKUS Pillar II',
     "NSF America's Seed Fund": 'NSF Seed Fund',
     'NASA SBIR/STTR and Space Act Agreements': 'NASA SBIR',
     'DHS SVIP': 'DHS SVIP'
@@ -65,6 +66,7 @@
     'NASA SBIR': 'NASA SBIR/STTR and Space Act Agreements',
     'DHS SVIP': 'DHS SVIP',
     'NATO DIANA': 'NATO DIANA',
+    'AUKUS Pillar II': 'AUKUS Pillar II',
     'DIU CSO': 'Defense Innovation Unit (DIU)',
     'Replicator/PRIME': 'Defense Innovation Unit (DIU)',
     'AFVentures TACFI': 'AFWERX / AFVentures',
@@ -86,23 +88,34 @@
   // prose is discursive rather than tabular, following the same approach the
   // ARI build used for its lane and hub data: the source paragraphs are
   // rendered verbatim regardless of this lookup, which drives the grid only.
+  // Hardware's own paragraph states a rule, not just a fact: "every
+  // physical-product sector inherits this spine" (NSIC, DIU CSO, AFVentures
+  // TACFI, NATO DIANA, OSC equipment finance, DPA Title III). Space and
+  // Marine are the physical-product sectors, so all six propagate there even
+  // where a sector's own write-up does not re-name every one of them.
+  // Separately, EXIM and NSF each state their own cross-sector scope in
+  // their own directory entries (EXIM's CTEP names AI, biotech, and
+  // semiconductors; NSF names AI, semiconductors, and robotics) and are lit
+  // accordingly even on sectors whose own paragraph doesn't cite them by
+  // name. Both judgment calls are logged in Constraints and gaps.
   var SECTOR_LIT = {
     'National Security Innovation Capital (NSIC)': [1, 4, 5],
     'Defense Innovation Unit (DIU)': [1, 2, 4, 5, 6, 7],
-    'AFWERX / AFVentures': [1, 2, 4],
-    'NATO DIANA': [1, 2, 4, 6],
-    'Defense Production Act Title III': [1, 3, 6],
-    'Office of Strategic Capital (OSC)': [1, 3, 7],
+    'AFWERX / AFVentures': [1, 2, 4, 5],
+    'NATO DIANA': [1, 2, 4, 5, 6],
+    'Defense Production Act Title III': [1, 3, 4, 5, 6],
+    'Office of Strategic Capital (OSC)': [1, 3, 4, 5, 7],
     'In-Q-Tel (IQT)': [2, 4, 6],
     'SpaceWERX / Space Ventures': [4],
     'DoE Energy Dominance Financing (formerly the Loan Programs Office)': [3],
-    'Export-Import Bank (EXIM)': [3],
+    'Export-Import Bank (EXIM)': [2, 3, 6, 7],
     'Development Finance Corporation (DFC)': [3],
     'NASA SBIR/STTR and Space Act Agreements': [4],
     'NavalX and the Tech Bridge network': [5],
     'Office of Naval Research (ONR) SBIR/STTR': [5],
     'SOFWERX': [5],
-    "NSF America's Seed Fund": [2],
+    'AUKUS Pillar II': [5],
+    "NSF America's Seed Fund": [1, 2, 7],
     'DHS SVIP': [2]
   };
 
