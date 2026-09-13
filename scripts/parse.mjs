@@ -196,7 +196,7 @@ function groupVehicles(blocks) {
 const src = readFileSync(SRC, 'utf8');
 const allLines = src.split(/\r?\n/);
 
-const doc = { title: '', subtitle: '', date: '', sections: [] };
+const doc = { title: '', subtitle: '', date: '', revisionNote: '', sections: [] };
 const h2Idx = [];
 allLines.forEach((l, n) => { if (/^## /.test(l)) h2Idx.push(n); });
 
@@ -214,6 +214,11 @@ const unesc = (s) => s.replace(/&amp;/g, '&').replace(/&lt;/g, '<').replace(/&gt
 doc.title = unesc(doc.title);
 doc.subtitle = unesc(doc.subtitle);
 doc.date = unesc(doc.date);
+
+// Any paragraph in the preamble other than the ROSC INTERNAL banner itself
+// (e.g. a "last revised" line) is the document's revision note.
+const revisionPara = preambleBlocks.find((b) => b.type === 'para' || b.type === 'confidence');
+if (revisionPara) doc.revisionNote = revisionPara.html;
 
 // "## Contents" is a navigational front-matter index, not one of the 12
 // analytical sections enumerated in the build spec. It is parsed here for

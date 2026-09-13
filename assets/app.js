@@ -125,7 +125,7 @@
     'NavalX and the Tech Bridge network': [5],
     'Office of Naval Research (ONR) SBIR/STTR': [5],
     'SOFWERX': [5],
-    'AUKUS Pillar II': [5],
+    'AUKUS Pillar II': [2, 5],
     'Marine Corps Warfighting Laboratory (MCWL)': [5],
     "NSF America's Seed Fund": [1, 2, 7],
     'DHS SVIP': [2],
@@ -379,6 +379,7 @@
     var opens = ['HIGH', 'MED', 'LOW'];
     var opt = function (v) { return '<option value="' + v + '">' + v + '</option>'; };
     return '<div class="filters no-print">' +
+      '<span><label class="fl" for="f-name">Name</label><input type="text" id="f-name" placeholder="Search vehicles…" autocomplete="off"></span>' +
       '<span><label class="fl" for="f-body">Body</label><select id="f-body"><option value="">All</option>' + bodies.map(opt).join('') + '</select></span>' +
       '<span><label class="fl" for="f-heat">Heat</label><select id="f-heat"><option value="">All</option>' + heats.map(opt).join('') + '</select></span>' +
       '<span><label class="fl" for="f-open">Openness</label><select id="f-open"><option value="">All</option>' + opens.map(opt).join('') + '</select></span>' +
@@ -389,10 +390,14 @@
     var body = $('#f-body') ? $('#f-body').value : '';
     var heat = $('#f-heat') ? $('#f-heat').value : '';
     var open = $('#f-open') ? $('#f-open').value : '';
+    var name = $('#f-name') ? $('#f-name').value.trim().toLowerCase() : '';
     $$('.vehicle-card').forEach(function (card) {
+      var heading = card.querySelector('.veh-h');
+      var text = heading ? heading.textContent.toLowerCase() : '';
       var ok = (!body || card.dataset.body.split(' ').indexOf(body) >= 0) &&
         (!heat || card.dataset.heat === heat) &&
-        (!open || card.dataset.open === open);
+        (!open || card.dataset.open === open) &&
+        (!name || text.indexOf(name) >= 0);
       card.classList.toggle('is-hidden', !ok);
     });
   }
@@ -560,7 +565,8 @@
   function build() {
     $('#doc-head').innerHTML = '<span class="badge">Rosc Internal</span>' +
       '<h1>' + DOC.title + '</h1>' +
-      '<p class="sub"><span>' + DOC.subtitle + '</span><span>Rosc</span><span>' + DOC.date + '</span></p>';
+      '<p class="sub"><span>' + DOC.subtitle + '</span><span>Rosc</span><span>' + DOC.date + '</span></p>' +
+      (DOC.revisionNote ? '<p class="revision-note">' + DOC.revisionNote + '</p>' : '');
 
     var tabHtml = '', secHtml = '';
 
@@ -609,6 +615,7 @@
         var target = document.getElementById(jump.dataset.jump);
         if (target) {
           $('#f-body').value = ''; $('#f-heat').value = ''; $('#f-open').value = '';
+          if ($('#f-name')) $('#f-name').value = '';
           applyDirectoryFilters();
           var toggle = $('.veh-toggle', target);
           if (toggle) toggleCollapsible(toggle, true);
@@ -617,9 +624,11 @@
       }
     });
 
-    ['#f-body', '#f-heat', '#f-open'].forEach(function () {});
     document.addEventListener('change', function (e) {
       if (e.target.id === 'f-body' || e.target.id === 'f-heat' || e.target.id === 'f-open') applyDirectoryFilters();
+    });
+    document.addEventListener('input', function (e) {
+      if (e.target.id === 'f-name') applyDirectoryFilters();
     });
 
     window.addEventListener('beforeprint', function () {
